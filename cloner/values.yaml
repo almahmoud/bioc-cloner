@@ -10,10 +10,10 @@ configs:
     ls -lh $1 >> alllogs/ls
     md5sum $1 >> alllogs/md5
     sha256sum $1 >> alllogs/sha256
-    rclone copyto $1 iujs:biorefdata/bioconductor/v1/packages/$2 -v 2>&1 >> alllogs/iujs.log
-    rclone copyto $1 taccjs:biorefdata/bioconductor/v1/packages/$2 -v 2>&1 >> alllogs/taccjs.log
-    rclone copyto $1 osn:bir190004-bucket01/biorefdata/bioconductor/v1/packages/$2 -v 2>&1 >> alllogs/osn.log
-    rclone copyto $1 awsopendata:biorefdata-dev/bioconductor/v1/packages/$2 -v 2>&1 >> alllogs/awsopendata.log
+    rclone copyto $1 iujs:biorefdata/bioconductor/v1/packages/$2 -v 2>&1 | tee alllogs/iujs.log
+    rclone copyto $1 taccjs:biorefdata/bioconductor/v1/packages/$2 -v 2>&1 | tee alllogs/taccjs.log
+    rclone copyto $1 osn:bir190004-bucket01/biorefdata/bioconductor/v1/packages/$2 -v 2>&1 | tee alllogs/osn.log
+    rclone copyto $1 awsopendata:biorefdata-dev/bioconductor/v1/packages/$2 -v 2>&1 | tee alllogs/awsopendata.log
     rclone copyto alllogs awsopendata:biorefdata-dev/bioconductor-meta/v1/packages/$2/logs -v
     rclone copyto alllogs osn:bir190004-bucket01/biorefdata/bioconductor-meta/v1/packages/$2/logs -v
     rclone copyto alllogs taccjs:biorefdata/bioconductor-meta/v1/packages/$2/logs -v
