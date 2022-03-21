@@ -22,9 +22,9 @@ configs:
   pull_and_upload.sh: |
     #!/bin/sh
     set -x
-    mkdir -p "~/$(dirname $1)";
+    mkdir -p "~/$1";
     BASE_URL="https://bioconductor.statistik.tu-dortmund.de/packages";
-    cd "~/$(dirname $1)" && wget -O $(basename $1) "$BASE_URL/$1" && ls -lh . && echo $(pwd) && /bin/sh /mnt/configs/hash_and_push.sh $(basename $1) $1
+    cd "~/$1" && wget -O $(basename $1) "$BASE_URL/$1" && ls -lh . && echo $(pwd) && /bin/sh /mnt/configs/hash_and_push.sh $(basename $1) $1
 
 cloneJob:
   image: rclone/rclone:latest

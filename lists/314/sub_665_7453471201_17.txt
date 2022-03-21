@@ -1,0 +1,17 @@
+3.14/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm8_1.4.0.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm9.masked_1.3.99.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm9_1.4.0.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Osativa.MSU.MSU7_0.99.2.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Ppaniscus.UCSC.panPan1_1.4.3.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Ppaniscus.UCSC.panPan2_1.4.3.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro2.masked_1.3.99.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro2_1.4.0.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro3.masked_1.3.99.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro3_1.4.0.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro5_1.4.2.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro6_1.4.2.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn4.masked_1.3.99.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn4_1.4.0.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn5.masked_1.3.99.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn5_1.4.0.tar.gz
+3.14/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn6_1.4.1.tar.gz

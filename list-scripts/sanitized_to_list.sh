@@ -7,7 +7,7 @@ cat list-scripts/rsynclist_$RELEASE.sanitized | sed '/^d/d' | awk  '{gsub(",",""
 
 
 sizelimit=${2:-8000000000} # in B (8Gb)
-filenumlimit=${3:-200} # 200 files max
+filenumlimit=${3:-50} # 200 files max
 outdir=${4:-"lists/$RELEASE"}
 sizesofar=0
 filenumsofar=0
