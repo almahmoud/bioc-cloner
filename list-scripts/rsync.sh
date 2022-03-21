@@ -1,0 +1,1 @@
+rsync -e "ssh -i ~/.ssh/rsync.pem" -zrtlv --list-only bioc-rsync@master.bioconductor.org:3.15 > rsynclist_315.raw

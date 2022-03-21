@@ -1,0 +1,9 @@
+3.14/data/annotation/src/contrib/SIFT.Hsapiens.dbSNP137_1.0.0.tar.gz
+3.14/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP.20101109_0.99.7.tar.gz
+3.14/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP.20120608_0.99.11.tar.gz
+3.14/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP141.GRCh38_0.99.11.tar.gz
+3.14/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP142.GRCh37_0.99.5.tar.gz
+3.14/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP144.GRCh37_0.99.20.tar.gz
+3.14/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP144.GRCh38_0.99.20.tar.gz
+3.14/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP149.GRCh38_0.99.20.tar.gz
+3.14/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP150.GRCh38_0.99.20.tar.gz
