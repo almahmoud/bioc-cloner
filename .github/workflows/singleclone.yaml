@@ -15,13 +15,17 @@ jobs:
       - name: Start k8s locally
         id: k8s
         uses: jupyterhub/action-k3s-helm@v1
-        # with:
+        with:
+          traefik-enabled: false
+          metrics-enabled: false
         #   k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
         continue-on-error: true
 
       - name: Start k8s locally
         uses: jupyterhub/action-k3s-helm@v1
-        # with:
+        with:
+          traefik-enabled: false
+          metrics-enabled: false
         #   k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
         if: steps.k8s.outcome=='failure'
       - name: Verify function of k8s, kubectl, and helm
