@@ -39,7 +39,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          for i in {1..5}; do bash .github/scripts/mark_running.sh ${{steps.list.outputs.path}} && git push && export RUNNING=1 && break || sleep 1; done &&\
+          sleep $(( ${{matrix.worker}}*5 )) && for i in {1..5}; do bash .github/scripts/mark_running.sh ${{steps.list.outputs.path}} && git push && export RUNNING=1 && break || sleep 1; done &&\
           if ! [ -z "$RUNNING" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi &&\
           echo "$RCLONE_CONF" > /tmp/creds &&\
           helm install data-clone ./cloner --set-file extraFileMappings."/root/\.rclone\.conf".content=/tmp/creds --set-file configs."list\.txt"=lists/running/${{steps.list.outputs.path}}
