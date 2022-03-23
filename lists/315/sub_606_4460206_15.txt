@@ -1,0 +1,15 @@
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/qc.Rmd
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/qc.html
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/reads.Rmd
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/reads.html
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/spike.Rmd
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/spike.html
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/tenx.Rmd
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/tenx.html
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/umis.Rmd
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/umis.html
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/var.Rmd
+3.15/workflows/vignettes/simpleSingleCell/inst/doc/var.html
+3.15/workflows/vignettes/variants/inst/doc/Annotating_Genomic_Variants.R
+3.15/workflows/vignettes/variants/inst/doc/Annotating_Genomic_Variants.Rmd
+3.15/workflows/vignettes/variants/inst/doc/Annotating_Genomic_Variants.html

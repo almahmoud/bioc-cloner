@@ -1,0 +1,16 @@
+3.15/data/annotation/src/contrib/BSgenome.Mdomestica.UCSC.monDom5_1.4.2.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mfascicularis.NCBI.5.0_1.4.2.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mfascicularis.NCBI.6.0_1.5.0.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mfuro.UCSC.musFur1_1.4.1.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac10_1.4.2.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac2.masked_1.3.99.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac2_1.4.0.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac3.masked_1.3.99.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac3_1.4.0.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac8_1.4.2.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm10.masked_1.4.3.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm10_1.4.3.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm39_1.4.3.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm8.masked_1.3.99.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm8_1.4.0.tar.gz
+3.15/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm9.masked_1.3.99.tar.gz

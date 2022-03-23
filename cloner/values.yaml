@@ -13,7 +13,7 @@ configs:
     rclone copyto $1 iujs:biorefdata/bioconductor/v1/packages/$2 -v 2>&1 | tee alllogs/iujs.log
     rclone copyto $1 taccjs:biorefdata/bioconductor/v1/packages/$2 -v 2>&1 | tee alllogs/taccjs.log
     rclone copyto $1 osn:bir190004-bucket01/biorefdata/bioconductor/v1/packages/$2 -v 2>&1 | tee alllogs/osn.log
-    rclone copyto $1 awsopendata:biorefdata-dev/bioconductor/v1/packages/$2 -v 2>&1 | tee alllogs/awsopendata.log
+    rclone copyto $1 awsopendata:biorefdata/bioconductor/v1/packages/$2 -v 2>&1 | tee alllogs/awsopendata.log
     rclone copyto alllogs awsopendata:biorefdata-dev/bioconductor-meta/v1/packages/$2/logs -v
     rclone copyto alllogs osn:bir190004-bucket01/biorefdata/bioconductor-meta/v1/packages/$2/logs -v
     rclone copyto alllogs taccjs:biorefdata/bioconductor-meta/v1/packages/$2/logs -v
@@ -23,7 +23,7 @@ configs:
     #!/bin/sh
     set -x
     mkdir -p "~/$1";
-    BASE_URL="https://bioconductor.statistik.tu-dortmund.de/packages";
+    BASE_URL="https://bioconductor.org/packages";
     cd "~/$1" && wget -O $(basename $1) "$BASE_URL/$1" && ls -lh . && echo $(pwd) && /bin/sh /mnt/configs/hash_and_push.sh $(basename $1) $1
 
 cloneJob:
