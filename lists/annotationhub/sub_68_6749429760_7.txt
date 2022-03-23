@@ -1,0 +1,7 @@
+annotationhub/AHMeSHDbs/v001/MeSH.Laf.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Lma.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Mdo.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Mes.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Mga.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Miy.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Mml.eg.db.sqlite

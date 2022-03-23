@@ -1,0 +1,16 @@
+annotationhub/EuPathDB/OrgDb/3.9/org.Foxysporum.f.sp.cubense.race.1.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Foxysporum.f.sp.cubense.race.4.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Foxysporum.f.sp.cubense.tropical.race.4.54006.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Foxysporum.f.sp.lycopersici.4287.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Foxysporum.f.sp.melonis.26406.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Fpedrosoi.CBS.271.37.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Fproliferatum.ET1.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Fproliferatum.NRRL62905.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Fverticillioides.7600.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.GAssemblage.A.isolate.WB.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.GAssemblage.B.isolate.GS.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.GAssemblage.E.isolate.P15.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Gniphandrodes.Unknown.strain.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Harabidopsidis.Emoy2.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Hcapsulatum.G186AR.v42.eg.sqlite
+annotationhub/EuPathDB/OrgDb/3.9/org.Hcapsulatum.G217B.v42.eg.sqlite

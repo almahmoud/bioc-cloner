@@ -3,5 +3,5 @@
 cd lists
 lists=${1:-314}
 todo=${2:-todo.txt}
-ls $lists/* > $todo
+ls $lists/* >> $todo
 cd ..

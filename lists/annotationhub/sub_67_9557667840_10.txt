@@ -1,0 +1,10 @@
+annotationhub/AHMeSHDbs/v001/MeSH.Dse.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Dsi.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Dvi.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Dya.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Eca.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Eco.K12.MG1655.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Eco.O157.H7.Sakai.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Gga.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Gma.eg.db.sqlite
+annotationhub/AHMeSHDbs/v001/MeSH.Hsa.eg.db.sqlite

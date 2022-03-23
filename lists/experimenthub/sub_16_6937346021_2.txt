@@ -1,0 +1,2 @@
+experimenthub/MethylSeqData/rizzardi_hickey_brain/rizzardi_hickey_brain.CpA_rev.h5
+experimenthub/MethylSeqData/rizzardi_hickey_brain/rizzardi_hickey_brain.CpG.h5

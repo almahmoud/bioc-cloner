@@ -1,0 +1,12 @@
+experimenthub/signatureSearchData/v0.2/lincs2020.h5
+experimenthub/spatialDmelxsim/v1/spatialDmelxsim.rda
+experimenthub/tartare/20181113_010_autoQC01.raw
+experimenthub/tartare/20190710_003_PierceHeLaProteinDigestStd.mzXML
+experimenthub/tartare/20190710_003_PierceHeLaProteinDigestStd.raw
+experimenthub/tartare/20190716_004_PierceHeLa.mzXML
+experimenthub/tartare/20190716_004_PierceHeLa.raw
+experimenthub/tcgaWGBSData.hg19/assays.h5
+experimenthub/tcgaWGBSData.hg19/se.rds
+experimenthub/tissueTreg/RPKM_table.rds
+experimenthub/tissueTreg/htseq_table.rds
+experimenthub/tissueTreg/treg_twgbs_per_group.rds

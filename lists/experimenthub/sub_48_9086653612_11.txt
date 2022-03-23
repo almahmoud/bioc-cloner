@@ -1,0 +1,11 @@
+experimenthub/celldex/mouse.rnaseq/1.0.0/logcounts.rds
+experimenthub/chipseqDBData/cbp/1.0.0/SRR1145787.bam
+experimenthub/chipseqDBData/cbp/1.0.0/SRR1145787.bam.bai
+experimenthub/chipseqDBData/cbp/1.0.0/SRR1145788.bam
+experimenthub/chipseqDBData/cbp/1.0.0/SRR1145788.bam.bai
+experimenthub/chipseqDBData/cbp/1.0.0/SRR1145789.bam
+experimenthub/chipseqDBData/cbp/1.0.0/SRR1145789.bam.bai
+experimenthub/chipseqDBData/cbp/1.0.0/SRR1145790.bam
+experimenthub/chipseqDBData/cbp/1.0.0/SRR1145790.bam.bai
+experimenthub/chipseqDBData/h3k27me3/1.0.0/SRR1274188.bam
+experimenthub/chipseqDBData/h3k27me3/1.0.0/SRR1274188.bam.bai

@@ -1,0 +1,14 @@
+annotationhub/AHPubMedDbs/v001/descriptor_dt.RData
+annotationhub/AHPubMedDbs/v001/descriptor_tbl.RData
+annotationhub/AHPubMedDbs/v001/pmc.sqlite
+annotationhub/AHPubMedDbs/v001/pmc_dt.RData
+annotationhub/AHPubMedDbs/v001/pmc_tbl.RData
+annotationhub/AHPubMedDbs/v001/pubmed.sqlite
+annotationhub/AHPubMedDbs/v001/pubmed_dt.RData
+annotationhub/AHPubMedDbs/v001/pubmed_tbl.RData
+annotationhub/AHPubMedDbs/v001/qualifier.sqlite
+annotationhub/AHPubMedDbs/v001/qualifier_dt.RData
+annotationhub/AHPubMedDbs/v001/qualifier_tbl.RData
+annotationhub/AHPubMedDbs/v001/scr.sqlite
+annotationhub/AHPubMedDbs/v001/scr_dt.RData
+annotationhub/AHPubMedDbs/v001/scr_tbl.RData
