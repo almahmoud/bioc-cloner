@@ -3,7 +3,7 @@ kind: Job
 metadata:
   name: data-clone
 spec:
-  ttlSecondsAfterFinished: 10
+  ttlSecondsAfterFinished: 120
   backoffLimit: 1
   template:
     metadata:
