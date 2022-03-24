@@ -1,4 +1,3 @@
-annotationhub/sub_806_9886129695_22.txt
 annotationhub/sub_807_9992366116_28.txt
 annotationhub/sub_808_9443270757_26.txt
 annotationhub/sub_809_9777531500_32.txt
