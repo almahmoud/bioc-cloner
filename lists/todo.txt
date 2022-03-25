@@ -1,4 +1,3 @@
-annotationhub/sub_902_9917562083_28.txt
 annotationhub/sub_903_9381619245_25.txt
 annotationhub/sub_904_9624676192_28.txt
 annotationhub/sub_905_9819075375_36.txt
