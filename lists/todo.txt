@@ -1,4 +1,3 @@
-experimenthub/sub_28_179862987_50.txt
 experimenthub/sub_29_236181935_50.txt
 experimenthub/sub_2_6260025756_50.txt
 experimenthub/sub_30_1481807933_50.txt
