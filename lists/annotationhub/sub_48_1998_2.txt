@@ -1,0 +1,2 @@
+annotationhub/goldenpath/xenTro2/database/refGene_0.0.1.json
+annotationhub/goldenpath/xenTro3/database/refGene_0.0.1.json
