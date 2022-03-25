@@ -1,0 +1,2352 @@
+ 10006528 EuPathDB/TxDb/3.9/TxDb.Pythium.ultimum.var.sporangiiferum.BR650.FungiDB.v42.sqlite
+     1000 goldenpath/rheMac3/database/xenoMrna_0.0.1.json
+     1000 goldenpath/sacCer1/database/oreganno_0.0.1.json
+     1000 goldenpath/sacCer2/database/oreganno_0.0.1.json
+     1000 goldenpath/saiBol1/database/genscan_0.0.1.json
+     1001 goldenpath/panTro4/database/xenoMrna_0.0.1.json
+     1001 goldenpath/papHam1/database/xenoMrna_0.0.1.json
+     1001 goldenpath/proCap1/database/ensGene_0.0.1.json
+     1001 goldenpath/speTri2/database/rmsk_0.0.1.json
+     1001 goldenpath/susScr2/database/intronEst_0.0.1.json
+     1001 goldenpath/tupBel1/database/genscan_0.0.1.json
+100290752 haemcode/blood/BigWig/mm10/PU.1_GSM1022281_stat1ko_ctrl_IFNg_4h_BMDM.bw
+     1002 goldenpath/papAnu2/database/intronEst_0.0.1.json
+     1002 goldenpath/petMar2/database/genscan_0.0.1.json
+     1002 goldenpath/priPac1/database/mrna_0.0.1.json
+     1002 goldenpath/sacCer3/database/sgdOther_0.0.1.json
+     1002 goldenpath/saiBol1/database/xenoMrna_0.0.1.json
+     1002 goldenpath/turTru2/database/genscan_0.0.1.json
+     1002 goldenpath/xenTro1/database/mrna_0.0.1.json
+     1002 goldenpath/xenTro2/database/genscan_0.0.1.json
+     1002 goldenpath/xenTro2/database/mrna_0.0.1.json
+     1002 goldenpath/xenTro3/database/ensGene_0.0.1.json
+     1002 goldenpath/xenTro3/database/mrna_0.0.1.json
+  1003520 EuPathDB/TxDb/3.9/TxDb.Enterocytozoon.bieneusi.H348.MicrosporidiaDB.v42.sqlite
+     1003 goldenpath/petMar1/database/xenoMrna_0.0.1.json
+     1003 goldenpath/pteVam1/database/ensGene_0.0.1.json
+     1004 goldenpath/panTro4/database/intronEst_0.0.1.json
+     1004 goldenpath/rheMac3/database/intronEst_0.0.1.json
+     1004 goldenpath/rn4/database/simpleRepeat_0.0.1.json
+     1004 goldenpath/rn5/database/simpleRepeat_0.0.1.json
+     1004 goldenpath/sarHar1/database/ensGene_0.0.1.json
+     1004 goldenpath/triMan1/database/xenoMrna_0.0.1.json
+     1004 goldenpath/vicPac1/database/intronEst_0.0.1.json
+     1006 goldenpath/rn4/database/genotypeArrays_0.0.1.json
+100724736 AHEnsDbs/v100/EnsDb.Scanaria.v100.sqlite
+    10076 goldenpath/rheMac2/database/wgEncodeNhgriBip_0.0.1.RData
+     1007 goldenpath/rn4/database/wgEncodeNhgriBip_0.0.1.json
+     1007 goldenpath/sacCer1/database/ensGene_0.0.1.json
+     1007 goldenpath/sacCer1/database/gcPercent_0.0.1.json
+     1007 goldenpath/sacCer2/database/ensGene_0.0.1.json
+     1007 goldenpath/sarHar1/database/mrna_0.0.1.json
+     1007 goldenpath/tetNig1/database/ensGene_0.0.1.json
+     1007 goldenpath/tetNig1/database/genscan_0.0.1.json
+     1007 goldenpath/tetNig2/database/ensGene_0.0.1.json
+     1007 goldenpath/tupBel1/database/intronEst_0.0.1.json
+     1008 goldenpath/petMar1/database/intronEst_0.0.1.json
+     1008 goldenpath/petMar2/database/intronEst_0.0.1.json
+     1008 goldenpath/sacCer3/database/sgdClone_0.0.1.json
+100983308 haemcode/blood/BigWig/mm10/PU.1_GSM940926_LPS_4h_BMDM.bw_0.0.1.RData
+     1009 goldenpath/susScr2/database/xenoRefGene_0.0.1.json
+     1009 goldenpath/susScr3/database/cpgIslandExt_0.0.1.json
+     1009 goldenpath/tetNig1/database/chainSelf_0.0.1.json
+     1009 goldenpath/xenTro2/database/mgcFullMrna_0.0.1.json
+     1009 haemcode/blood/BigWig/mm10/A500001_IgG.bw_0.0.1.json
+     1009 haemcode/blood/BigWig/mm10/A500004_IgG.bw_0.0.1.json
+     1010 goldenpath/rn3/database/softberryGene_0.0.1.json
+101134336 AHEnsDbs/v101/EnsDb.Bjaponicus.v101.sqlite
+ 10113759 goldenpath/xenTro3/database/chainNetMm9_0.0.1.RData
+     1011 goldenpath/papAnu2/database/cpgIslandExt_0.0.1.json
+     1011 goldenpath/papAnu2/database/xenoRefGene_0.0.1.json
+     1011 goldenpath/strPur1/database/refGene_0.0.1.json
+101232640 AHEnsDbs/v101/EnsDb.Osunia.v101.sqlite
+     1012 goldenpath/rn5/database/nestedRepeats_0.0.1.json
+     1012 goldenpath/sacCer3/database/intronEst_0.0.1.json
+     1012 goldenpath/susScr2/database/blastHg18KG_0.0.1.json
+101310464 AHEnsDbs/v101/EnsDb.Mmola.v101.sqlite
+     1013 goldenpath/rheMac2/database/xenoRefGene_0.0.1.json
+     1013 goldenpath/strPur1/database/genscan_0.0.1.json
+     1013 goldenpath/strPur1/database/mrna_0.0.1.json
+     1013 goldenpath/vicPac1/database/xenoRefGene_0.0.1.json
+     1013 haemcode/blood/Peaks/mm10/A500001_IgG.bed_0.0.1.json
+     1013 haemcode/blood/Peaks/mm10/A500004_IgG.bed_0.0.1.json
+     1014 goldenpath/panTro3/database/xenoRefGene_0.0.1.json
+     1014 goldenpath/panTro4/database/cpgIslandExt_0.0.1.json
+     1014 goldenpath/panTro4/database/xenoRefGene_0.0.1.json
+     1014 goldenpath/papHam1/database/xenoRefGene_0.0.1.json
+     1014 goldenpath/sorAra1/database/xenoRefGene_0.0.1.json
+     1014 goldenpath/speTri2/database/genscan_0.0.1.json
+     1014 goldenpath/strPur2/database/xenoMrna_0.0.1.json
+     1014 goldenpath/susScr2/database/chainNetMm9_0.0.1.json
+     1014 goldenpath/vicPac1/database/cpgIslandExt_0.0.1.json
+     1014 haemcode/blood/BigWig/mm10/A500002_Erg.bw_0.0.1.json
+     1014 haemcode/blood/BigWig/mm10/A500005_Erg.bw_0.0.1.json
+101541219 haemcode/blood/BigWig/mm10/Elf1_GSM999184_Treg_T-Cells.bw
+     1015 goldenpath/papHam1/database/cpgIslandExt_0.0.1.json
+     1015 goldenpath/rheMac2/database/chainNetRn4_0.0.1.json
+     1015 goldenpath/rn3/database/chainNetCanFam2_0.0.1.json
+     1015 goldenpath/sorAra1/database/cpgIslandExt_0.0.1.json
+101623576 haemcode/blood/BigWig/mm10/PU.1_GSM1022313_tc_IFNg_2h_BMDM.bw
+  1016691 goldenpath/rn3/database/refGene_0.0.1.RData
+     1016 goldenpath/petMar1/database/xenoRefGene_0.0.1.json
+     1016 goldenpath/priPac1/database/chainCe6_0.0.1.json
+     1016 goldenpath/susScr2/database/simpleRepeat_0.0.1.json
+     1016 goldenpath/tupBel1/database/xenoRefGene_0.0.1.json
+101773905 haemcode/blood/BigWig/mm10/Gfi1b_GSM552235_MPP_HPC7.bw
+     1017 goldenpath/petMar2/database/cpgIslandExt_0.0.1.json
+     1017 goldenpath/proCap1/database/cpgIslandExt_0.0.1.json
+     1017 goldenpath/triMan1/database/cpgIslandExt_0.0.1.json
+     1017 goldenpath/triMan1/database/xenoRefGene_0.0.1.json
+     1017 goldenpath/tupBel1/database/cpgIslandExt_0.0.1.json
+     1017 goldenpath/turTru2/database/xenoRefGene_0.0.1.json
+101856929 haemcode/blood/BigWig/mm10/Scl_GSE30142_ER4_Erythroid.bw_0.0.1.RData
+     1018 goldenpath/papAnu2/database/simpleRepeat_0.0.1.json
+     1018 goldenpath/priPac1/database/chainCb3_0.0.1.json
+     1018 goldenpath/pteVam1/database/xenoRefGene_0.0.1.json
+     1018 goldenpath/rn4/database/chainNetAilMel1_0.0.1.json
+     1018 goldenpath/taeGut1/database/xenoRefGene_0.0.1.json
+     1018 goldenpath/turTru2/database/cpgIslandExt_0.0.1.json
+     1019 goldenpath/pteVam1/database/cpgIslandExt_0.0.1.json
+     1019 goldenpath/rn4/database/chainNetEquCab1_0.0.1.json
+     1019 goldenpath/rn4/database/chainNetMelGal1_0.0.1.json
+     1019 goldenpath/sarHar1/database/cpgIslandExt_0.0.1.json
+     1019 goldenpath/speTri2/database/intronEst_0.0.1.json
+     1019 goldenpath/strPur2/database/intronEst_0.0.1.json
+     1019 goldenpath/susScr2/database/chainNetHg19_0.0.1.json
+102035456 AHEnsDbs/v98/EnsDb.Fdamarensis.v98.sqlite
+102063908 haemcode/blood/BigWig/mm10/Stat1_GSM838681_Untreated_WT_BMM.bw_0.0.1.RData
+     1020 goldenpath/petMar1/database/blastHg18KG_0.0.1.json
+     1020 goldenpath/ponAbe2/database/chainNetHg19_0.0.1.json
+     1020 goldenpath/rn5/database/chainNetRheMac3_0.0.1.json
+     1020 goldenpath/vicPac1/database/simpleRepeat_0.0.1.json
+     1020 goldenpath/xenTro1/database/blastHg17KG_0.0.1.json
+     1020 haemcode/blood/Peaks/mm10/A500002_Erg.bed_0.0.1.json
+     1020 haemcode/blood/Peaks/mm10/A500005_Erg.bed_0.0.1.json
+102121826 haemcode/blood/BigWig/mm10/Notch1_GSM732916_G4A2_Leukaemia.bw_0.0.1.RData
+ 10215756 ensembl/release-100/fasta/sus_scrofa_tibetan/ncrna/Sus_scrofa_tibetan.Tibetan_Pig_v2.ncrna.2bit
+     1021 goldenpath/panTro3/database/simpleRepeat_0.0.1.json
+     1021 goldenpath/panTro4/database/simpleRepeat_0.0.1.json
+     1021 goldenpath/papHam1/database/simpleRepeat_0.0.1.json
+     1021 goldenpath/ponAbe2/database/chainNetMm10_0.0.1.json
+     1021 goldenpath/sacCer3/database/xenoRefGene_0.0.1.json
+     1021 goldenpath/sorAra1/database/simpleRepeat_0.0.1.json
+     1021 goldenpath/strPur2/database/netCi2_0.0.1.json
+ 10223616 EuPathDB/TxDb/3.9/TxDb.Rhizopus.delemar.RA.99.880.FungiDB.v42.sqlite
+102260736 AHEnsDbs/v99/EnsDb.Gaculeatus.v99.sqlite
+     1022 goldenpath/rheMac2/database/chainNetHg19_0.0.1.json
+     1022 goldenpath/rheMac3/database/chainNetMm10_0.0.1.json
+     1022 goldenpath/rn4/database/chainNetMonDom4_0.0.1.json
+     1022 goldenpath/rn4/database/chainNetPanTro2_0.0.1.json
+     1022 goldenpath/saiBol1/database/simpleRepeat_0.0.1.json
+     1022 goldenpath/tetNig2/database/cpgIslandExt_0.0.1.json
+     1022 goldenpath/vicPac1/database/chainNetMm10_0.0.1.json
+     1022 goldenpath/xenTro1/database/chainNetMm8_0.0.1.json
+     1022 goldenpath/xenTro2/database/chainNetMm9_0.0.1.json
+     1023 goldenpath/sorAra1/database/chainNetMm10_0.0.1.json
+     1023 goldenpath/xenTro3/database/chainNetMm9_0.0.1.json
+102440960 AHEnsDbs/v99/EnsDb.Hcomes.v99.sqlite
+ 10248989 haemcode/blood/BigWig/mm10/Runx1_GSM832321_Thymocyte.bw_0.0.1.RData
+     1024 goldenpath/panTro4/database/chainNetMm10_0.0.1.json
+     1024 goldenpath/papHam1/database/chainNetMm10_0.0.1.json
+     1024 goldenpath/petMar1/database/simpleRepeat_0.0.1.json
+     1024 goldenpath/rheMac2/database/wgEncodeNhgriBip_0.0.1.json
+     1024 goldenpath/saiBol1/database/chainNetMm10_0.0.1.json
+     1024 goldenpath/turTru2/database/simpleRepeat_0.0.1.json
+     1024 goldenpath/xenTro1/database/simpleRepeat_0.0.1.json
+     1024 goldenpath/xenTro2/database/simpleRepeat_0.0.1.json
+     1024 goldenpath/xenTro3/database/simpleRepeat_0.0.1.json
+102560635 haemcode/blood/BigWig/mm10/Stat5_GSM652878_Il2_T-Cells.bw
+     1025 goldenpath/pteVam1/database/simpleRepeat_0.0.1.json
+     1025 goldenpath/rn4/database/knownGenePrevious_0.0.1.json
+     1025 goldenpath/sacCer3/database/blastHg18KG_0.0.1.json
+     1025 goldenpath/tetNig1/database/blastHg18KG_0.0.1.json
+     1025 goldenpath/tetNig1/database/chainNetFr2_0.0.1.json
+     1026 goldenpath/petMar1/database/chainNetHg19_0.0.1.json
+     1026 goldenpath/petMar2/database/chainNetHg19_0.0.1.json
+     1026 goldenpath/rn4/database/chainNetDanRer4_0.0.1.json
+     1026 goldenpath/taeGut1/database/simpleRepeat_0.0.1.json
+     1026 goldenpath/tetNig1/database/chainNetMm9_0.0.1.json
+     1026 goldenpath/turTru2/database/chainNetMm10_0.0.1.json
+102715392 AHEnsDbs/v105/EnsDb.Fdamarensis.v105.sqlite
+     1027 goldenpath/papAnu2/database/nestedRepeats_0.0.1.json
+     1027 goldenpath/ponAbe2/database/nestedRepeats_0.0.1.json
+     1027 goldenpath/pteVam1/database/chainNetMm10_0.0.1.json
+     1027 goldenpath/sacCer1/database/simpleRepeat_0.0.1.json
+     1027 goldenpath/strPur2/database/xenoRefGene_0.0.1.json
+102846464 AHEnsDbs/v105/EnsDb.Gaculeatus.v105.sqlite
+102878423 haemcode/blood/BigWig/mm10/Gata1_GSM777092_G1ME_MK-Prog.bw_0.0.1.RData
+     1028 goldenpath/sacCer2/database/simpleRepeat_0.0.1.json
+     1028 goldenpath/sacCer3/database/simpleRepeat_0.0.1.json
+     1028 goldenpath/vicPac1/database/nestedRepeats_0.0.1.json
+102944768 AHEnsDbs/v105/EnsDb.Hcomes.v105.sqlite
+102998016 AHEnsDbs/v104/EnsDb.Gaculeatus.v104.sqlite
+     1029 goldenpath/rn4/database/chainNetCavPor3_0.0.1.json
+     1029 goldenpath/sorAra1/database/nestedRepeats_0.0.1.json
+     1029 goldenpath/speTri2/database/cpgIslandExt_0.0.1.json
+     1029 goldenpath/speTri2/database/xenoRefGene_0.0.1.json
+     1029 goldenpath/susScr3/database/windowmaskerSdust_0.0.1.json
+     1029 haemcode/blood/BigWig/mm10/GSM1133644_Hnf1a.bw_0.0.1.json
+     1030 goldenpath/panTro3/database/nestedRepeats_0.0.1.json
+     1030 goldenpath/panTro4/database/nestedRepeats_0.0.1.json
+     1030 goldenpath/papHam1/database/nestedRepeats_0.0.1.json
+     1031 goldenpath/priPac1/database/chainCaePb1_0.0.1.json
+     1031 goldenpath/sacCer3/database/transRegCode_0.0.1.json
+     1031 goldenpath/saiBol1/database/nestedRepeats_0.0.1.json
+     1031 goldenpath/strPur2/database/blastHg18KG_0.0.1.json
+     1031 goldenpath/tetNig2/database/chainNetHg19_0.0.1.json
+     1031 haemcode/blood/BigWig/mm10/GSM1131775_Foxo1.bw_0.0.1.json
+     1032 goldenpath/papAnu2/database/windowmaskerSdust_0.0.1.json
+     1032 goldenpath/petMar1/database/nestedRepeats_0.0.1.json
+     1032 goldenpath/priPac1/database/chainCaeRem2_0.0.1.json
+     1032 goldenpath/xenTro3/database/nestedRepeats_0.0.1.json
+103396760 haemcode/blood/BigWig/mm10/PU.1_GSM1022261_stat6ko_ctrl_IL4_4h_BMDM.bw_0.0.1.RData
+     1033 goldenpath/pteVam1/database/nestedRepeats_0.0.1.json
+     1033 goldenpath/triMan1/database/nestedRepeats_0.0.1.json
+     1033 goldenpath/turTru2/database/nestedRepeats_0.0.1.json
+     1033 goldenpath/vicPac1/database/windowmaskerSdust_0.0.1.json
+ 10341996 haemcode/blood/BigWig/mm10/Stat1_GSM1022315_tc_IFNg_30min_BMDM.bw_0.0.1.RData
+103451488 goldenpath/papAnu2/database/windowmaskerSdust_0.0.1.RData
+     1034 goldenpath/rheMac3/database/chainNetPanTro4_0.0.1.json
+     1034 goldenpath/sorAra1/database/windowmaskerSdust_0.0.1.json
+     1034 goldenpath/xenTro1/database/jgiFilteredModels_0.0.1.json
+     1035 goldenpath/panTro4/database/windowmaskerSdust_0.0.1.json
+     1035 goldenpath/papHam1/database/windowmaskerSdust_0.0.1.json
+     1035 goldenpath/strPur1/database/simpleRepeat_0.0.1.json
+     1035 haemcode/blood/BigWig/mm10/GSM1165493_Klf1.bw_0.0.1.json
+     1036 goldenpath/ponAbe2/database/chainNetGorGor3_0.0.1.json
+     1036 goldenpath/proCap1/database/windowmaskerSdust_0.0.1.json
+     1036 goldenpath/tupBel1/database/windowmaskerSdust_0.0.1.json
+103759931 haemcode/blood/BigWig/mm10/HoxB4_GSM840470_day26_ES-Cells.bw
+     1037 goldenpath/panTro4/database/chainNetRheMac3_0.0.1.json
+     1037 goldenpath/petMar2/database/windowmaskerSdust_0.0.1.json
+     1037 goldenpath/triMan1/database/windowmaskerSdust_0.0.1.json
+     1037 goldenpath/turTru2/database/windowmaskerSdust_0.0.1.json
+     1038 goldenpath/ponAbe2/database/chainNetCalJac3_0.0.1.json
+     1038 goldenpath/pteVam1/database/windowmaskerSdust_0.0.1.json
+     1038 goldenpath/rheMac2/database/chainNetGorGor3_0.0.1.json
+     1038 goldenpath/sacCer3/database/esRegGeneToMotif_0.0.1.json
+     1038 goldenpath/strPur1/database/chainNetHg18_0.0.1.json
+103936423 haemcode/blood/BigWig/mm10/CTCF_GSM923571_G1E-ER4_Erythroid.bw
+     1039 goldenpath/papHam1/database/chainNetGorGor3_0.0.1.json
+     1039 goldenpath/ponAbe2/database/chainNetOrnAna1_0.0.1.json
+     1039 haemcode/blood/BigWig/mm10/GSM587477_h3_38b9.bw_0.0.1.json
+104059244 haemcode/blood/BigWig/mm10/CTCF_GSM923570_G1E_Erythroid.bw
+     1040 goldenpath/petMar2/database/chainNetOryLat2_0.0.1.json
+     1040 goldenpath/rheMac3/database/chainNetCalJac3_0.0.1.json
+     1040 goldenpath/rn4/database/phastConsElements9way_0.0.1.json
+     1040 goldenpath/xenTro2/database/chainNetAnoCar2_0.0.1.json
+104108032 AHEnsDbs/v105/EnsDb.Ngalili.v105.sqlite
+104139148 haemcode/blood/BigWig/mm10/c-Myb_GSM912903_MEL.bw_0.0.1.RData
+     1041 goldenpath/papHam1/database/chainNetCalJac3_0.0.1.json
+     1042 goldenpath/petMar1/database/chainNetGalGal3_0.0.1.json
+     1042 goldenpath/petMar2/database/chainNetMonDom5_0.0.1.json
+     1042 goldenpath/taeGut1/database/chainNetMelGal1_0.0.1.json
+     1042 goldenpath/tetNig2/database/windowmaskerSdust_0.0.1.json
+     1042 goldenpath/xenTro3/database/chainNetGalGal3_0.0.1.json
+104317944 haemcode/blood/BigWig/mm10/GSM1133644_Hnf1a.bw
+ 10432782 goldenpath/tetNig2/database/windowmaskerSdust_0.0.1.RData
+     1043 goldenpath/rheMac3/database/chainNetPonAbe2_0.0.1.json
+     1043 goldenpath/xenTro2/database/chainNetMonDom4_0.0.1.json
+     1043 goldenpath/xenTro3/database/chainNetMonDom5_0.0.1.json
+     1045 goldenpath/tetNig2/database/chainNetOryLat2_0.0.1.json
+     1047 goldenpath/xenTro1/database/chainNetDanRer1_0.0.1.json
+     1047 goldenpath/xenTro2/database/chainNetDanRer7_0.0.1.json
+     1047 goldenpath/xenTro3/database/chainNetDanRer7_0.0.1.json
+     1047 haemcode/blood/BigWig/mm10/TBP_GSM912913_MEL.bw_0.0.1.json
+ 10481664 EuPathDB/TxDb/3.9/TxDb.Fusarium.verticillioides.7600.FungiDB.v42.sqlite
+     1048 goldenpath/sacCer1/database/transRegCodeProbe_0.0.1.json
+     1048 goldenpath/sacCer2/database/transRegCodeProbe_0.0.1.json
+     1048 haemcode/blood/BigWig/mm10/AF9_GSM846042_MLL.bw_0.0.1.json
+     1048 haemcode/blood/BigWig/mm10/GSM1103355_Runx1.bw_0.0.1.json
+     1048 haemcode/blood/BigWig/mm10/Max_GSM912919_MEL.bw_0.0.1.json
+104914944 AHEnsDbs/v105/EnsDb.Nscutatus.v105.sqlite
+104948318 haemcode/blood/BigWig/mm10/p300_GSM1004852_Th17_RORg_ko_T_Cells.bw_0.0.1.RData
+     1049 goldenpath/sacCer1/database/phastConsElements_0.0.1.json
+     1049 goldenpath/speTri2/database/windowmaskerSdust_0.0.1.json
+     1049 haemcode/blood/BigWig/mm10/AF9_GSM721212_MLL.bw_0.0.1.json
+     1049 haemcode/blood/BigWig/mm10/GSM1103356_Ep300.bw_0.0.1.json
+ 10510336 EuPathDB/TxDb/3.9/TxDb.Schistosoma.haematobium.Egypt.SchistoDB.v42.sqlite
+     1051 goldenpath/tetNig2/database/chainNetDanRer7_0.0.1.json
+     1052 goldenpath/vicPac1/database/ensemblGeneScaffold_0.0.1.json
+     1053 goldenpath/sorAra1/database/ensemblGeneScaffold_0.0.1.json
+     1053 haemcode/blood/BigWig/mm10/JunD_GSM912915_MEL.bw_0.0.1.json
+     1053 haemcode/blood/BigWig/mm10/USF2_GSM912892_MEL.bw_0.0.1.json
+ 10548639 goldenpath/ponAbe2/database/chainNetOrnAna1_0.0.1.RData
+     1054 haemcode/blood/BigWig/mm10/CTCF_GSM912896_MEL.bw_0.0.1.json
+     1054 haemcode/blood/BigWig/mm10/CTCF_GSM923573_MEL.bw_0.0.1.json
+     1054 haemcode/blood/BigWig/mm10/MafK_GSM912899_MEL.bw_0.0.1.json
+     1054 haemcode/blood/BigWig/mm10/Mxi1_GSM912928_MEL.bw_0.0.1.json
+     1054 haemcode/blood/BigWig/mm10/SMC3_GSM912923_MEL.bw_0.0.1.json
+     1054 haemcode/blood/Peaks/mm10/AF9_GSM721212_MLL.bed_0.0.1.json
+     1054 haemcode/blood/Peaks/mm10/AF9_GSM846042_MLL.bed_0.0.1.json
+     1055 goldenpath/proCap1/database/ensemblGeneScaffold_0.0.1.json
+     1055 goldenpath/tetNig1/database/chainNetGasAcu1_0.0.1.json
+     1055 haemcode/blood/BigWig/mm10/CHD2_GSM912929_MEL.bw_0.0.1.json
+     1056 goldenpath/pteVam1/database/ensemblGeneScaffold_0.0.1.json
+     1056 haemcode/blood/BigWig/mm10/p300_GSM912893_MEL.bw_0.0.1.json
+     1056 haemcode/blood/BigWig/mm10/p300_GSM912921_MEL.bw_0.0.1.json
+     1057 haemcode/blood/BigWig/mm10/c-Myc_GSM912934_MEL.bw_0.0.1.json
+     1058 haemcode/blood/BigWig/mm10/c-Myb_GSM912903_MEL.bw_0.0.1.json
+     1058 haemcode/blood/BigWig/mm10/PU1_GSM537989_B-Cells.bw_0.0.1.json
+     1059 haemcode/blood/BigWig/mm10/NELFe_GSM912932_MEL.bw_0.0.1.json
+     1060 goldenpath/petMar1/database/phastConsElements6way_0.0.1.json
+     1060 haemcode/blood/BigWig/mm10/Gata1_GSM912907_MEL.bw_0.0.1.json
+     1060 haemcode/blood/BigWig/mm10/Rad21_GSM912935_MEL.bw_0.0.1.json
+106119168 AHEnsDbs/v103/EnsDb.Pcastaneus.v103.sqlite
+106246144 AHEnsDbs/v101/EnsDb.Pcastaneus.v101.sqlite
+     1062 haemcode/blood/BigWig/mm10/Cbx7_GSM898200_HPC.bw_0.0.1.json
+     1062 haemcode/blood/BigWig/mm10/Cbx8_GSM898201_HPC.bw_0.0.1.json
+     1062 haemcode/blood/BigWig/mm10/Ldb1_GSM641909_HPC.bw_0.0.1.json
+106340352 AHEnsDbs/v105/EnsDb.Cporcellus.v105.sqlite
+  1064961 haemcode/blood/BigWig/mm10/Gata1_GSM746568_ER4_Erythroid.bw_0.0.1.RData
+     1064 haemcode/blood/BigWig/mm10/Notch1_GSM859512_T-ALL.bw_0.0.1.json
+     1064 haemcode/blood/BigWig/mm10/Oct2_GSM537990_B-Cells.bw_0.0.1.json
+  1065094 goldenpath/petMar1/database/nestedRepeats_0.0.1.RData
+106594304 AHEnsDbs/v101/EnsDb.Bbubo.v101.sqlite
+     1065 haemcode/blood/BigWig/mm10/GSM730632_Runx1.bw_0.0.1.json
+106615137 haemcode/blood/BigWig/mm10/PU.1_GSM1022283_stat1ko_IFNg_4h_BMDM.bw
+ 10674176 EuPathDB/TxDb/3.9/TxDb.Eimeria.falciformis.Bayer.Haberkorn.1970.ToxoDB.v42.sqlite
+     1068 haemcode/blood/BigWig/mm10/Gata2_GSM641911_HPC.bw_0.0.1.json
+106989262 haemcode/blood/BigWig/mm10/CTCF_GSM923573_MEL.bw_0.0.1.RData
+     1069 goldenpath/taeGut1/database/chainNetGeoFor1_0.0.1.json
+     1069 haemcode/blood/BigWig/mm10/EBF1_GSE35857_B-Cells.bw_0.0.1.json
+107000378 haemcode/blood/BigWig/mm10/Runx1_GSE31221_EML.bw
+     1071 haemcode/blood/BigWig/mm10/Fli1_GSM989023_c-Kit+.bw_0.0.1.json
+107239019 haemcode/blood/BigWig/mm10/Fli1_GSM989015_Uninduced_HE.bw
+ 10739061 goldenpath/triMan1/database/xenoRefGene_0.0.1.RData
+107503974 goldenpath/panTro4/database/windowmaskerSdust_0.0.1.RData
+107667456 AHEnsDbs/v105/EnsDb.Itridecemlineatus.v105.sqlite
+107714230 haemcode/blood/BigWig/mm10/Gfi1_GSM786037_MLL-ENL-Preleukemia.bw_0.0.1.RData
+     1078 haemcode/blood/BigWig/mm10/Fli1_GSM654874_Th2_T-Cells.bw_0.0.1.json
+     1078 haemcode/blood/BigWig/mm10/Gata3_GSM523221_DN_T-Cells.bw_0.0.1.json
+     1078 haemcode/blood/BigWig/mm10/Gata3_GSM523222_DP_T-Cells.bw_0.0.1.json
+  1079633 goldenpath/rn5/database/refGene_0.0.1.RData
+     1080 haemcode/blood/BigWig/mm10/CTCF_GSM672400_DP-T-Cells.bw_0.0.1.json
+     1080 haemcode/blood/BigWig/mm10/PU.1_GSE38377_UT_BMDM.bw_0.0.1.json
+ 10813791 goldenpath/panTro4/database/chainNetMm10_0.0.1.RData
+     1082 haemcode/blood/BigWig/mm10/Gata1_GSM923586_MK-Prog.bw_0.0.1.json
+108339852 haemcode/blood/BigWig/mm10/Gata1_GSM912907_MEL.bw_0.0.1.RData
+     1083 haemcode/blood/BigWig/mm10/Gata3_GSM523231_NKT_T-Cells.bw_0.0.1.json
+     1083 haemcode/blood/BigWig/mm10/Rag2_GSM530318_Thymocytes.bw_0.0.1.json
+     1084 haemcode/blood/BigWig/mm10/BatF_GSM978767_Th17_T-Cells.bw_0.0.1.json
+     1084 haemcode/blood/BigWig/mm10/Gata3_GSM523223_CD4_T-Cells.bw_0.0.1.json
+     1084 haemcode/blood/BigWig/mm10/Gata3_GSM523224_CD8_T-Cells.bw_0.0.1.json
+     1084 haemcode/blood/BigWig/mm10/Gata3_GSM523225_Th1_T-Cells.bw_0.0.1.json
+     1084 haemcode/blood/BigWig/mm10/Gata3_GSM523226_Th2_T-Cells.bw_0.0.1.json
+     1084 haemcode/blood/BigWig/mm10/PU1_GSM552240_MPP_HPC7.bw_0.0.1.json
+     1084 haemcode/blood/BigWig/mm10/Stat4_GSM550303_Th1_T-Cells.bw_0.0.1.json
+108511232 AHEnsDbs/v99/EnsDb.Shabroptila.v99.sqlite
+108527616 AHEnsDbs/v100/EnsDb.Shabroptila.v100.sqlite
+     1085 haemcode/blood/BigWig/mm10/Elf1_GSM999185_TN_T-Cells.bw_0.0.1.json
+     1085 haemcode/blood/BigWig/mm10/Rad21_GSM912933_DMSO_MEL.bw_0.0.1.json
+     1085 haemcode/blood/BigWig/mm10/Stat3_GSM652877_Il6_T-Cells.bw_0.0.1.json
+     1086 haemcode/blood/BigWig/mm10/PU1_GSM774291_FLDN1_T-Cells.bw_0.0.1.json
+ 10876416 goldenpath/rheMac2/database/mrna_0.0.1.RData
+     1087 haemcode/blood/BigWig/mm10/EBF_GSM499030_Pro-B-Cells.bw_0.0.1.json
+     1087 haemcode/blood/BigWig/mm10/JunB_GSM1022318_UT_BMDM.bw_0.0.1.json
+     1087 haemcode/blood/BigWig/mm10/Scl_GSE30142_ER4_Erythroid.bw_0.0.1.json
+     1088 haemcode/blood/BigWig/mm10/Fli1_GSM552233_MPP_HPC7.bw_0.0.1.json
+     1088 haemcode/blood/BigWig/mm10/Lmo2_GSM552237_MPP_HPC7.bw_0.0.1.json
+     1088 haemcode/blood/BigWig/mm10/Lyl1_GSM552238_MPP_HPC7.bw_0.0.1.json
+     1088 haemcode/blood/BigWig/mm10/PU.1_GSM940934_CpG_BMDM.bw_0.0.1.json
+     1088 haemcode/blood/BigWig/mm10/TCF7_GSM773994_EML.bw_0.0.1.json
+108960068 haemcode/blood/BigWig/mm10/Med1_GSM1038263_Pro_B_Cell.bw_0.0.1.RData
+     1089 haemcode/blood/BigWig/mm10/Elf1_GSM999184_Treg_T-Cells.bw_0.0.1.json
+     1089 haemcode/blood/BigWig/mm10/Gata3_GSM523228_Th17_T-Cells.bw_0.0.1.json
+     1090 haemcode/blood/BigWig/mm10/CBFb_GSM832322_Thymocyte.bw_0.0.1.json
+     1090 haemcode/blood/BigWig/mm10/CTCF_GSM923570_G1E_Erythroid.bw_0.0.1.json
+     1090 haemcode/blood/BigWig/mm10/Ets1_GSM999186_Treg_T-Cells.bw_0.0.1.json
+     1090 haemcode/blood/BigWig/mm10/PU1_GSM539537_Pro-B-Cells.bw_0.0.1.json
+109145287 haemcode/blood/BigWig/mm10/Ets1_GSM999186_Treg_T-Cells.bw
+109195264 AHEnsDbs/v97/EnsDb.Ccanadensis.v97.sqlite
+     1091 haemcode/blood/BigWig/mm10/CBFb_GSM832312_Induced_MK.bw_0.0.1.json
+     1091 haemcode/blood/BigWig/mm10/E2A_GSM546523_Pro-B-Cells.bw_0.0.1.json
+     1091 haemcode/blood/BigWig/mm10/Ets1_GSM999187_CD4_T-Cells.bw_0.0.1.json
+     1091 haemcode/blood/BigWig/mm10/Fli1_GSM989016_Induced_HE.bw_0.0.1.json
+     1091 haemcode/blood/BigWig/mm10/Runx1_GSE31221_EML.bw_0.0.1.json
+     1092 haemcode/blood/BigWig/mm10/PU1_GSM774292_FLDN2a_T-Cells.bw_0.0.1.json
+     1092 haemcode/blood/BigWig/mm10/Stat3_GSM540722_Th17_T-Cells.bw_0.0.1.json
+ 10934703 haemcode/blood/BigWig/mm10/CTCF_GSM644975_Pro-B-Cells.bw
+     1093 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th0_wt_T_Cells.bw_0.0.1.json
+     1093 haemcode/blood/BigWig/mm10/CTCF_GSE40918_Th0_wt_T_Cells.bw_0.0.1.json
+     1093 haemcode/blood/BigWig/mm10/IRF4_GSE40918_Th0_wt_T_Cells.bw_0.0.1.json
+     1093 haemcode/blood/BigWig/mm10/Med1_GSM1038263_Pro_B_Cell.bw_0.0.1.json
+     1093 haemcode/blood/BigWig/mm10/PU1_GSM774293_FLDN2b_T-Cells.bw_0.0.1.json
+     1094 haemcode/blood/BigWig/mm10/Gfi1b_GSM552235_MPP_HPC7.bw_0.0.1.json
+     1094 haemcode/blood/BigWig/mm10/Meis1_GSM552239_MPP_HPC7.bw_0.0.1.json
+     1094 haemcode/blood/BigWig/mm10/Runx1_GSM552241_MPP_HPC7.bw_0.0.1.json
+     1094 haemcode/blood/BigWig/mm10/Stat1_GSM1022320_UT_BMDM.bw_0.0.1.json
+     1094 haemcode/blood/BigWig/mm10/Tbet_GSM836124_WT_Th1_T-Cells.bw_0.0.1.json
+109588480 AHEnsDbs/v103/EnsDb.Ppardus.v103.sqlite
+     1095 haemcode/blood/BigWig/mm10/p300_GSE40918_Th0_wt_T_Cells.bw_0.0.1.json
+     1096 haemcode/blood/BigWig/mm10/CTCF_GSM546526_Pro-B-Cells.bw_0.0.1.json
+     1096 haemcode/blood/BigWig/mm10/Gata2_GSM552234_MPP_HPC7.bw_0.0.1.json
+     1096 haemcode/blood/BigWig/mm10/Gata3_GSM523229_iTreg_T-Cells.bw_0.0.1.json
+     1096 haemcode/blood/BigWig/mm10/Gata3_GSM523230_nTreg_T-Cells.bw_0.0.1.json
+     1096 haemcode/blood/BigWig/mm10/PU1_GSM537983_Macrophages.bw_0.0.1.json
+     1096 haemcode/blood/BigWig/mm10/Runx1_GSM832321_Thymocyte.bw_0.0.1.json
+     1096 haemcode/blood/BigWig/mm10/Runx1_In-house_ES-Cells.bw_0.0.1.json
+  1097693 goldenpath/pteVam1/database/cpgIslandExt_0.0.1.RData
+     1097 haemcode/blood/BigWig/mm10/CTCF_GSM644975_Pro-B-Cells.bw_0.0.1.json
+     1097 haemcode/blood/BigWig/mm10/PU1_GSM487450_Macrophages.bw_0.0.1.json
+     1097 haemcode/blood/BigWig/mm10/Runx1_GSM989014_Induced_HE.bw_0.0.1.json
+     1098 haemcode/blood/BigWig/mm10/Foxp3_GSE40684_Treg_T-Cells.bw_0.0.1.json
+     1098 haemcode/blood/BigWig/mm10/Gata3_GSM774295_FLDN1_T-Cells.bw_0.0.1.json
+     1098 haemcode/blood/BigWig/mm10/Pol2_GSM419052_Macrophages.bw_0.0.1.json
+     1098 haemcode/blood/BigWig/mm10/PU.1_GSM940933_MALP2_BMDM.bw_0.0.1.json
+109951788 haemcode/blood/BigWig/mm10/AF9_GSM721212_MLL.bw_0.0.1.RData
+109953024 AHEnsDbs/v105/EnsDb.Nbrichardi.v105.sqlite
+     1099 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th17_wt_T_Cells.bw_0.0.1.json
+     1099 haemcode/blood/BigWig/mm10/CTCF_GSE40918_Th17_wt_T_Cells.bw_0.0.1.json
+     1099 haemcode/blood/BigWig/mm10/Gata1_GSM746568_ER4_Erythroid.bw_0.0.1.json
+     1099 haemcode/blood/BigWig/mm10/RORg_GSE40918_Th17_wt_T_Cells.bw_0.0.1.json
+     1099 haemcode/blood/BigWig/mm10/STAT3_GSM671415_IL21_Dendritic.bw_0.0.1.json
+  1100289 goldenpath/rn5/database/gap_0.0.1.RData
+     1100 haemcode/blood/BigWig/mm10/cMaf_GSE40918_wt_Th17_T_Cells.bw_0.0.1.json
+     1100 haemcode/blood/BigWig/mm10/Fli1_GSM989015_Uninduced_HE.bw_0.0.1.json
+     1100 haemcode/blood/BigWig/mm10/p300_GSE40463_WT_Th1_T_Cells.bw_0.0.1.json
+     1100 haemcode/blood/BigWig/mm10/p300_GSE40463_WT_Th2_T_Cells.bw_0.0.1.json
+     1100 haemcode/blood/BigWig/mm10/Pax5_GSM860927_Pre-B-Cells.bw_0.0.1.json
+     1100 haemcode/blood/BigWig/mm10/Ring1b_GSM832323_Thymocyte.bw_0.0.1.json
+110149632 AHEnsDbs/v104/EnsDb.Ccanadensis.v104.sqlite
+     1101 haemcode/blood/BigWig/mm10/CBFb_GSM832316_Uninduced_MK.bw_0.0.1.json
+     1101 haemcode/blood/BigWig/mm10/Gata1_GSM923575_Erythroblast.bw_0.0.1.json
+     1101 haemcode/blood/BigWig/mm10/RORg_GSM1004853_Th0_wt_T_Cells.bw_0.0.1.json
+     1102 haemcode/blood/BigWig/mm10/FoxO1_GSM546525_Pro-B-Cells.bw_0.0.1.json
+     1102 haemcode/blood/BigWig/mm10/Gata3_GSM774296_FLDN2b_T-Cells.bw_0.0.1.json
+     1102 haemcode/blood/BigWig/mm10/p300_GSE40918_Th17_wt_T_Cells.bw_0.0.1.json
+     1103 haemcode/blood/BigWig/mm10/p300_GSM487448_Macrophages.bw_0.0.1.json
+     1103 haemcode/blood/BigWig/mm10/PU.1_GSM940926_LPS_4h_BMDM.bw_0.0.1.json
+     1103 haemcode/blood/BigWig/mm10/Rad21_GSM644976_Pro-B-Cells.bw_0.0.1.json
+     1103 haemcode/blood/BigWig/mm10/Rad21_GSM672403_Pro-B-Cells.bw_0.0.1.json
+110438679 haemcode/blood/BigWig/mm10/IRF8_GSM950325_MSCVIRF8_Day3_Tot2_Myeloid.bw_0.0.1.RData
+110451294 haemcode/blood/BigWig/mm10/TCF7_GSM773994_EML.bw
+     1104 haemcode/blood/BigWig/mm10/CTCF_GSM672402_Mature-B-Cells.bw_0.0.1.json
+     1104 haemcode/blood/BigWig/mm10/RBPJ_GSM732914_T6E_Leukaemia.bw_0.0.1.json
+  1105262 goldenpath/xenTro3/database/mrna_0.0.1.RData
+  1105920 EuPathDB/TxDb/3.9/TxDb.Pseudoloma.neurophilia.MK1.MicrosporidiaDB.v42.sqlite
+     1105 haemcode/blood/BigWig/mm10/Runx1_GSM989013_Uninduced_HE.bw_0.0.1.json
+     1105 haemcode/blood/BigWig/mm10/STAT1_GSM994528_WT_Th1_T_Cells.bw_0.0.1.json
+     1105 haemcode/blood/BigWig/mm10/STAT3_GSE40918_Th17_wt_T_Cells.bw_0.0.1.json
+110686208 AHEnsDbs/v105/EnsDb.Ftinnunculus.v105.sqlite
+     1106 haemcode/blood/BigWig/mm10/CEBPa_GSM537984_Macrophages.bw_0.0.1.json
+     1106 haemcode/blood/BigWig/mm10/CEBPb_GSM537985_Macrophages.bw_0.0.1.json
+     1106 haemcode/blood/BigWig/mm10/CEBPb_GSM989017_Uninduced_HE.bw_0.0.1.json
+     1106 haemcode/blood/BigWig/mm10/Fosl2_GSE40918_Th17_wt_T_Cells.bw_0.0.1.json
+     1106 haemcode/blood/BigWig/mm10/FoxO1_GSM860926_Pre-B-Cells.bw_0.0.1.json
+     1106 haemcode/blood/BigWig/mm10/IRF4_GSM1004831_Th17_wt_T_Cells.bw_0.0.1.json
+     1106 haemcode/blood/BigWig/mm10/PPARg_GSM532739_Macrophages.bw_0.0.1.json
+     1106 haemcode/blood/BigWig/mm10/PU1_GSE21953_MEL_Erythroid.bw_0.0.1.json
+     1107 haemcode/blood/BigWig/mm10/Fosl2_GSM1004808_Th0_wt_T_Cells.bw_0.0.1.json
+     1107 haemcode/blood/BigWig/mm10/JunB_GSM1022319_LPS_4h_BMDM.bw_0.0.1.json
+110866432 AHEnsDbs/v104/EnsDb.Ftinnunculus.v104.sqlite
+110867667 haemcode/blood/BigWig/mm10/Cbx8_GSM898201_HPC.bw
+     1108 haemcode/blood/BigWig/mm10/Gata3_GSM774297_ThyDP_T-Cells.bw_0.0.1.json
+     1108 haemcode/blood/BigWig/mm10/PU.1_GSM940927_LPS_24h_BMDM.bw_0.0.1.json
+     1108 haemcode/blood/BigWig/mm10/PU.1_GSM940928_IFNg_4h_BMDM.bw_0.0.1.json
+     1108 haemcode/blood/BigWig/mm10/PU.1_GSM940929__IL4_4h_BMDM.bw_0.0.1.json
+     1108 haemcode/blood/BigWig/mm10/PU.1_GSM940930_TNFa_4h_BMDM.bw_0.0.1.json
+     1108 haemcode/blood/BigWig/mm10/PU.1_GSM940932_IL1b_4h_BMDM.bw_0.0.1.json
+110977024 AHEnsDbs/v105/EnsDb.Clanigera.v105.sqlite
+ 11098893 goldenpath/turTru2/database/nestedRepeats_0.0.1.RData
+     1109 haemcode/blood/BigWig/mm10/Pax5_GSE38046_Pro-B-Cells.bw_0.0.1.json
+     1109 haemcode/blood/BigWig/mm10/RBPJ_GSM732917_G4A2_Leukaemia.bw_0.0.1.json
+     1109 haemcode/blood/BigWig/mm10/STAT5B_GSM671418_GMCSF_Dendritic.bw_0.0.1.json
+ 11107458 goldenpath/panTro4/database/xenoRefGene_0.0.1.RData
+111087616 AHEnsDbs/v104/EnsDb.Clanigera.v104.sqlite
+     1110 haemcode/blood/BigWig/mm10/HoxB4_GSM840466_day6_ES-Cells.bw_0.0.1.json
+111109066 haemcode/blood/BigWig/mm10/Rad21_GSM912933_DMSO_MEL.bw_0.0.1.RData
+111173632 AHEnsDbs/v96/EnsDb.Cpygmaea.v96.sqlite
+     1111 haemcode/blood/BigWig/mm10/Foxo1_GSM998924_Ab_nTreg_T_Cells.bw_0.0.1.json
+ 11124988 goldenpath/panTro3/database/xenoRefGene_0.0.1.RData
+     1112 haemcode/blood/BigWig/mm10/IRF4_GSM978747_WT_noIL21_B-Cells.bw_0.0.1.json
+111309067 goldenpath/papHam1/database/windowmaskerSdust_0.0.1.RData
+     1113 haemcode/blood/BigWig/mm10/PU.1_GSM940931_TGFb1_4h_BMDM.bw_0.0.1.json
+ 11140863 goldenpath/ponAbe2/database/chainNetMm10_0.0.1.RData
+     1114 haemcode/blood/BigWig/mm10/CTCF_GSM918734_Immortalized_Thymus.bw_0.0.1.json
+     1114 haemcode/blood/BigWig/mm10/E2A_GSM546517_Pre-Pro-B-Cells.bw_0.0.1.json
+     1115 haemcode/blood/BigWig/mm10/HoxB4_GSM840468_day16_ES-Cells.bw_0.0.1.json
+     1115 haemcode/blood/BigWig/mm10/HoxB4_GSM840470_day26_ES-Cells.bw_0.0.1.json
+     1116 haemcode/blood/BigWig/mm10/CTCF_GSM923571_G1E-ER4_Erythroid.bw_0.0.1.json
+     1116 haemcode/blood/BigWig/mm10/Ets1_GSM777093_G1ME_MK-Prog.bw_0.0.1.json
+     1116 haemcode/blood/BigWig/mm10/Notch1_GSM732913_T6E_Leukaemia.bw_0.0.1.json
+     1116 haemcode/blood/BigWig/mm10/Runx1_GSM832319_alt_ab_MK-Prog.bw_0.0.1.json
+     1118 haemcode/blood/BigWig/mm10/Gata1_GSE30142_TER119_Erythroid.bw_0.0.1.json
+     1118 haemcode/blood/BigWig/mm10/PU1_GSE21953_ES-Erythroid-Prog.bw_0.0.1.json
+111927337 haemcode/blood/BigWig/mm10/RORg_GSM1004853_Th0_wt_T_Cells.bw_0.0.1.RData
+  1119791 ensembl/release-95/fasta/ictidomys_tridecemlineatus/ncrna/Ictidomys_tridecemlineatus.SpeTri2.0.ncrna.2bit
+     1119 haemcode/blood/BigWig/mm10/BatF_GSM978758_WT-IL21_CD4_T-Cells.bw_0.0.1.json
+     1119 haemcode/blood/BigWig/mm10/Etv6_GSE40918_Th17_wt_48h_T_Cells.bw_0.0.1.json
+     1119 haemcode/blood/BigWig/mm10/Pax5_GSE38046_Mature_B-Cells.bw_0.0.1.json
+     1119 haemcode/blood/BigWig/mm10/Stat1_GSM1022321_IFNg_4h_BMDM.bw_0.0.1.json
+     1120 haemcode/blood/BigWig/mm10/Ring1b_GSM832320_alt_ab_MK-Prog.bw_0.0.1.json
+112121051 haemcode/blood/BigWig/mm10/PU.1_GSM940927_LPS_24h_BMDM.bw_0.0.1.RData
+     1121 haemcode/blood/BigWig/mm10/Gata1_GSM453997_G1E_ER4_Erythroid.bw_0.0.1.json
+     1121 haemcode/blood/BigWig/mm10/Gata1_GSM923572_G1E-ER4_Erythroid.bw_0.0.1.json
+     1122 haemcode/blood/BigWig/mm10/Gata1_GSM777092_G1ME_MK-Prog.bw_0.0.1.json
+     1122 haemcode/blood/BigWig/mm10/Gata2_GSM777091_G1ME_MK-Prog.bw_0.0.1.json
+     1122 haemcode/blood/BigWig/mm10/IRF4_GSM1004828_Th17_wt_3h_T_Cells.bw_0.0.1.json
+     1122 haemcode/blood/BigWig/mm10/IRF4_GSM978748_WT_withIL21_B-Cells.bw_0.0.1.json
+     1122 haemcode/blood/BigWig/mm10/Notch1_GSM732916_G4A2_Leukaemia.bw_0.0.1.json
+     1122 haemcode/blood/BigWig/mm10/Runx1_GSM832311_Induced_MK-Prog.bw_0.0.1.json
+     1122 haemcode/blood/BigWig/mm10/Stat1_GSM838683_6h_IFNg_WT_BMM.bw_0.0.1.json
+     1122 haemcode/blood/BigWig/mm10/Stat1_GSM838685_6h_IFNb_WT_BMM.bw_0.0.1.json
+     1124 haemcode/blood/BigWig/mm10/IRF4_GSE40918_Th17_RORg_wt_T_Cells.bw_0.0.1.json
+  1126281 goldenpath/petMar2/database/intronEst_0.0.1.RData
+ 11268096 AHEnsDbs/v100/EnsDb.Scerevisiae.v100.sqlite
+     1126 haemcode/blood/BigWig/mm10/Hif1a_GSE40918_Th17_wt_48h_T_Cells.bw_0.0.1.json
+     1126 haemcode/blood/BigWig/mm10/IRF4_GSM1004825_Th0_Batf_wt_T_Cells.bw_0.0.1.json
+     1126 haemcode/blood/BigWig/mm10/Ring1b_GSM832313_Induced_MK-Prog.bw_0.0.1.json
+ 11273873 haemcode/blood/BigWig/mm10/Ring1b_GSM832320_alt_ab_MK-Prog.bw_0.0.1.RData
+     1127 haemcode/blood/BigWig/mm10/BatF_GSM1004793_Th17_wt_16h_T_Cells.bw_0.0.1.json
+     1127 haemcode/blood/BigWig/mm10/IRF4_GSM1004827_Th17_wt_16h_T_Cells.bw_0.0.1.json
+   112856 refnet/refnet backup /gerstein-2012.tsv_0.0.1.RData
+112877486 haemcode/blood/BigWig/mm10/Notch1_GSM859512_T-ALL.bw
+     1128 haemcode/blood/BigWig/mm10/PU.1_GSM1022310_tc_IFNg_UT_BMDM.bw_0.0.1.json
+     1128 haemcode/blood/BigWig/mm10/PU.1_GSM1022312_tc_IFNg_1h_BMDM.bw_0.0.1.json
+     1128 haemcode/blood/BigWig/mm10/PU.1_GSM1022313_tc_IFNg_2h_BMDM.bw_0.0.1.json
+     1128 haemcode/blood/BigWig/mm10/STAT3_GSM1004859_Th17_wt_3h_T_Cells.bw_0.0.1.json
+     1129 haemcode/blood/BigWig/mm10/STAT3_GSM671416_IL21+GMCSF_Dendritic.bw_0.0.1.json
+113012736 AHEnsDbs/v96/EnsDb.Csyrichta.v96.sqlite
+     1130 haemcode/blood/BigWig/mm10/STAT3_GSE40918_Th17_RORg_wt_T_Cells.bw_0.0.1.json
+     1132 haemcode/blood/BigWig/mm10/IRF4_GSM1004837_Th17_Batf_wt_T_Cells.bw_0.0.1.json
+     1132 haemcode/blood/BigWig/mm10/Runx1_GSM832315_Uninduced_MK-Prog.bw_0.0.1.json
+113376432 haemcode/blood/BigWig/mm10/Jmjd3_GSM1004839_Th17_wt_48h_T_Cells.bw
+     1133 ensembl/release-74/fasta/oryzias_latipes/dna/Oryzias_latipes.MEDAKA1.74.dna_rm.toplevel.fa_0.0.1.json
+     1133 ensembl/release-74/fasta/oryzias_latipes/dna/Oryzias_latipes.MEDAKA1.74.dna_sm.toplevel.fa_0.0.1.json
+     1133 haemcode/blood/BigWig/mm10/Gfi1_GSM786037_MLL-ENL-Preleukemia.bw_0.0.1.json
+     1133 haemcode/blood/BigWig/mm10/Jmjd3_GSM1004839_Th17_wt_48h_T_Cells.bw_0.0.1.json
+     1133 haemcode/blood/BigWig/mm10/JunB_GSM978769_WJL2012_095_Th17-Cells.bw_0.0.1.json
+     1133 haemcode/blood/BigWig/mm10/Stat1_GSM1022316_tc_IFNg_1h_BMDM.bw_0.0.1.json
+     1133 haemcode/blood/BigWig/mm10/Stat1_GSM1022317_tc_IFNg_2h_BMDM.bw_0.0.1.json
+     1133 haemcode/blood/BigWig/mm10/Stat1_GSM838681_Untreated_WT_BMM.bw_0.0.1.json
+     1133 haemcode/blood/BigWig/mm10/STAT3_GSM1004858_Th17_wt_16h_T_Cells.bw_0.0.1.json
+ 11341831 haemcode/blood/BigWig/mm10/Runx1_GSM989013_Uninduced_HE.bw
+     1134 haemcode/blood/BigWig/mm10/IRF4_GSE40918_Th17_RORg_ko_T_Cells.bw_0.0.1.json
+     1134 haemcode/blood/BigWig/mm10/IRF4_GSM978768_WJL2012_094_Th17-Cells.bw_0.0.1.json
+     1134 haemcode/blood/BigWig/mm10/Jmjd6_GSM1004840_Th17_wt_48h_T_Cells.bw_0.0.1.json
+     1134 haemcode/blood/BigWig/mm10/p300_GSM1004851_Th17_RORg_wt_T_Cells.bw_0.0.1.json
+     1134 haemcode/blood/BigWig/mm10/STAT5B_GSM671419_IL21+GMCSF_Dendritic.bw_0.0.1.json
+     1135 haemcode/blood/BigWig/mm10/JunD_GSM978771_WJL2012_097_Th17-Cells.bw_0.0.1.json
+     1135 haemcode/blood/BigWig/mm10/Ring1b_GSM832317_Uninduced_MK-Prog.bw_0.0.1.json
+   113653 goldenpath/sacCer1/database/sgdGene_0.0.1.RData
+     1136 haemcode/blood/BigWig/mm10/IRF4_GSM1004826_Th0_Batf_ko_T_Cells.bw_0.0.1.json
+     1137 haemcode/blood/BigWig/mm10/CTCF_GSM1023420_Rag1--_Pro_B_Cells.bw_0.0.1.json
+     1137 haemcode/blood/BigWig/mm10/H3K4me2_GSE40918_Th17_RORg_wt_T_Cells.bw_0.0.1.json
+     1137 haemcode/blood/BigWig/mm10/H3K4me3_GSE40918_Th17_RORg_wt_T_Cells.bw_0.0.1.json
+113999846 haemcode/blood/BigWig/mm10/Myb-Activated_GSE22095_Myeloid-Prog.bw_0.0.1.RData
+     1139 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th0_IRF4_wt_48h_T_Cells.bw_0.0.1.json
+     1139 haemcode/blood/BigWig/mm10/PU.1_GSM1022282_stat1ko_UT_BMDM.bw_0.0.1.json
+     1139 haemcode/blood/BigWig/mm10/Stat1_GSM838689_6h_IFNg_ikk_BMM.bw_0.0.1.json
+     1139 haemcode/blood/BigWig/mm10/Stat1_GSM838691_6h_IFNb_ikk_BMM.bw_0.0.1.json
+ 11403264 EuPathDB/TxDb/3.9/TxDb.Fusarium.oxysporum.f.sp.cubense.tropical.race.4.54006.FungiDB.v42.sqlite
+     1140 haemcode/blood/BigWig/mm10/PU.1_GSM1022262_stat6ko_UT_BMDM.bw_0.0.1.json
+     1140 haemcode/blood/BigWig/mm10/STAT3_GSE40918_Th17_RORg_ko_T_Cells.bw_0.0.1.json
+     1140 haemcode/blood/BigWig/mm10/Stat3_GSM978772_WJL2012_098_Th17-Cells.bw_0.0.1.json
+     1140 haemcode/blood/BigWig/mm10/V205G_GSM872894_MK-Progenitors.bw_0.0.1.json
+     1141 haemcode/blood/BigWig/mm10/IRF4_GSM1004821_48h_Th0_Batf++_T_Cells.bw_0.0.1.json
+     1142 haemcode/blood/BigWig/mm10/IRF4_GSM1004838_Th17_Batf_ko_T_Cells.bw_0.0.1.json
+     1142 haemcode/blood/BigWig/mm10/Ldb1_GSM1055553_Flk1+_BL-CFCs.bw_0.0.1.json
+ 11437059 goldenpath/triMan1/database/nestedRepeats_0.0.1.RData
+     1143 haemcode/blood/BigWig/mm10/cJun_GSM978770_WJL2012_096_Th17_T_Cells.bw_0.0.1.json
+     1143 haemcode/blood/BigWig/mm10/PU.1_GSM1022311_tc_IFNg_30min_BMDM.bw_0.0.1.json
+ 11443543 goldenpath/rn4/database/chainNetEquCab1_0.0.1.RData
+     1144 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th17_IRF4_wt_48h_T_Cells.bw_0.0.1.json
+     1144 haemcode/blood/BigWig/mm10/p300_GSM1004852_Th17_RORg_ko_T_Cells.bw_0.0.1.json
+     1144 haemcode/blood/BigWig/mm10/Scl_ERA000161_Induced_Erythroid_MEL.bw_0.0.1.json
+ 11454076 goldenpath/rn4/database/chainNetCavPor3_0.0.1.RData
+     1145 haemcode/blood/Peaks/mm10/BatF_GSE40918_Th0_IRF4_wt_48h_T_Cells.bed_0.0.1.json
+114700288 AHEnsDbs/v101/EnsDb.Bmusculus.v101.sqlite
+114717958 haemcode/blood/BigWig/mm10/Runx1_GSM989014_Induced_HE.bw_0.0.1.RData
+     1147 haemcode/blood/BigWig/mm10/CTCF_GSM1023416_Rag1--_DN_Thymocytes.bw_0.0.1.json
+     1147 haemcode/blood/BigWig/mm10/H3K4me2_GSE40918_Th17_RORg_ko_T_Cells.bw_0.0.1.json
+     1147 haemcode/blood/BigWig/mm10/H3K4me3_GSE40918_Th17_RORg_ko_T_Cells.bw_0.0.1.json
+     1147 haemcode/blood/BigWig/mm10/Hoxa_GSE33518_Myeloblastic_bone_marrow.bw_0.0.1.json
+     1147 haemcode/blood/BigWig/mm10/Meis1_GSE33518_Myeloblastic_bone_marrow.bw_0.0.1.json
+     1147 haemcode/blood/BigWig/mm10/p65_GSM611116_Activated_Macrophages.bw_0.0.1.json
+     1147 haemcode/blood/BigWig/mm10/PU1_GSM487451_Activated_Macrophages.bw_0.0.1.json
+     1147 haemcode/blood/Peaks/mm10/Stat1_GSM838691_6h_IFNb_ikk_BMM.bed_0.0.1.json
+114880512 AHEnsDbs/v103/EnsDb.Uparryii.v103.sqlite
+     1148 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th0_IRF4_ko_48h_T_Cells.bw_0.0.1.json
+     1148 haemcode/blood/BigWig/mm10/CTCF_GSM918744_Immortalized_Erythroid.bw_0.0.1.json
+     1148 haemcode/blood/BigWig/mm10/Ldb1_ERA000161_Induced_Erythroid_MEL.bw_0.0.1.json
+     1148 haemcode/blood/BigWig/mm10/Stat1_GSM1022315_tc_IFNg_30min_BMDM.bw_0.0.1.json
+     1149 haemcode/blood/BigWig/mm10/Gata2_GSM722387_G1Ebmp_Erythroid-Prog.bw_0.0.1.json
+     1149 haemcode/blood/BigWig/mm10/Stat1_GSM838687_Untreated_ikk_BMM.bw_0.0.1.json
+115050237 haemcode/blood/BigWig/mm10/EBF1_GSE35857_B-Cells.bw
+     1150 haemcode/blood/BigWig/mm10/Ikaros_GSE38200_endogenous_Pre_B_Cell.bw_0.0.1.json
+     1151 haemcode/blood/BigWig/mm10/IRF4_GSM1004822_48h_Th0_Batf--_T_Cells.bw_0.0.1.json
+     1152 haemcode/blood/BigWig/mm10/Eto2_ERA000161_Induced_Erythroid_MEL.bw_0.0.1.json
+     1152 haemcode/blood/BigWig/mm10/IRF4_GSM1004829_Th17_Batf_++_48h_T_Cells.bw_0.0.1.json
+ 11534443 haemcode/blood/BigWig/mm10/PU.1_GSM1022312_tc_IFNg_1h_BMDM.bw_0.0.1.RData
+     1154 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th17_IRF4_ko_48h_T_Cells.bw_0.0.1.json
+     1154 haemcode/blood/BigWig/mm10/Gata1_ERA000161_Induced_Erythroid_MEL.bw_0.0.1.json
+     1154 haemcode/blood/BigWig/mm10/Gata1_GSM722390_G1ERbmp_Erythroid-Prog.bw_0.0.1.json
+     1154 haemcode/blood/BigWig/mm10/IRF4_GSM978750_GA05L5_WT_noIL21_CD4-Cells.bw_0.0.1.json
+     1154 haemcode/blood/BigWig/mm10/p300_GSM1004845_Th17_Batf_++_48h_T_Cells.bw_0.0.1.json
+     1154 haemcode/blood/BigWig/mm10/p300_GSM1004847_Th17_IRF4_++_48h_T_Cells.bw_0.0.1.json
+     1154 haemcode/blood/BigWig/mm10/Scl_ERA000161_Uninduced_Erythroid_MEL.bw_0.0.1.json
+     1154 haemcode/blood/Peaks/mm10/BatF_GSE40918_Th0_IRF4_ko_48h_T_Cells.bed_0.0.1.json
+ 11559771 haemcode/blood/BigWig/mm10/IRF4_GSM978747_WT_noIL21_B-Cells.bw_0.0.1.RData
+     1157 haemcode/blood/BigWig/mm10/Mtgr1_ERA000161_Induced_Erythroid_MEL.bw_0.0.1.json
+115892224 AHEnsDbs/v101/EnsDb.Mmonoceros.v101.sqlite
+115929088 AHEnsDbs/v96/EnsDb.Dnovaehollandiae.v96.sqlite
+115965952 AHEnsDbs/v105/EnsDb.Nnaja.v105.sqlite
+     1159 haemcode/blood/BigWig/mm10/Ldb1_ERA000161_Uninduced_Erythroid_MEL.bw_0.0.1.json
+  1160318 goldenpath/papAnu2/database/gold_0.0.1.RData
+116097024 AHEnsDbs/v103/EnsDb.Pnyererei.v103.sqlite
+     1160 haemcode/blood/BigWig/mm10/PU.1_GSM1022263_stat6ko_IL4_4h_BMDM.bw_0.0.1.json
+116129792 AHEnsDbs/v103/EnsDb.Pleo.v103.sqlite
+116192377 haemcode/blood/BigWig/mm10/PU1_GSM539537_Pro-B-Cells.bw
+     1161 haemcode/blood/BigWig/mm10/Eto2_ERA000161_Uninduced_Erythroid_MEL.bw_0.0.1.json
+116205363 haemcode/blood/BigWig/mm10/H3K4me2_GSE40918_Th17_RORg_ko_T_Cells.bw_0.0.1.RData
+     1162 haemcode/blood/BigWig/mm10/IRF4_GSM1004830_Th17_Batf_--_48h_T_Cells.bw_0.0.1.json
+  1163471 goldenpath/xenTro2/database/mrna_0.0.1.RData
+116375552 AHEnsDbs/v103/EnsDb.Platipinna.v103.sqlite
+     1163 haemcode/blood/BigWig/mm10/Gata1_ERA000161_Uninduced_Erythroid_MEL.bw_0.0.1.json
+     1164 haemcode/blood/BigWig/mm10/IRF4_GSM978751_GA06L7_WT_withIL21_CD4-Cells.bw_0.0.1.json
+     1164 haemcode/blood/BigWig/mm10/p300_GSM1004846_Th17_Batf_--_48h_T_Cells.bw_0.0.1.json
+     1164 haemcode/blood/BigWig/mm10/p300_GSM1004848_Th17_IRF4_--_48h_T_Cells.bw_0.0.1.json
+     1164 haemcode/blood/BigWig/mm10/PU.1_GSM1022280_stat1ko_ctrl_UT_BMDM.bw_0.0.1.json
+     1164 haemcode/blood/BigWig/mm10/PU.1_GSM1022283_stat1ko_IFNg_4h_BMDM.bw_0.0.1.json
+     1165 haemcode/blood/BigWig/mm10/PU.1_GSM1022260_stat6ko_ctrl_UT_BMDM.bw_0.0.1.json
+  1166395 goldenpath/rn4/database/contrastGene_0.0.1.RData
+     1166 haemcode/blood/BigWig/mm10/Gata1_GSM897224_async_G1E-ER4+E2_Erythroid.bw_0.0.1.json
+     1167 haemcode/blood/BigWig/mm10/CTCF_GSM1023418_Rag1--_DP_Thymocytes.bw_0.0.1.json
+     1167 haemcode/blood/BigWig/mm10/Mtgr1_ERA000161_Uninduced_Erythroid_MEL.bw_0.0.1.json
+    11681 goldenpath/rn4/database/rgdQtl_0.0.1.RData
+116973568 AHEnsDbs/v103/EnsDb.Pcolchicus.v103.sqlite
+117075968 AHEnsDbs/v101/EnsDb.Pcolchicus.v101.sqlite
+     1170 haemcode/blood/BigWig/mm10/Stat3_GSM978757_GA2002_WT_withIL21_CD4-Cells.bw_0.0.1.json
+117127074 haemcode/blood/BigWig/mm10/STAT3_GSM671416_IL21+GMCSF_Dendritic.bw_0.0.1.RData
+117169112 haemcode/blood/BigWig/mm10/c-Myc_GSM912934_MEL.bw
+     1171 haemcode/blood/BigWig/mm10/GATA-1_Ab11835_Ter119-_Pro_Erythroblasts.bw_0.0.1.json
+  1173214 refnet/refnet backup /recon202.tsv_0.0.1.RData
+117325824 AHEnsDbs/v103/EnsDb.Svulgaris.v103.sqlite
+117363332 haemcode/blood/BigWig/mm10/MafK_GSM912899_MEL.bw_0.0.1.RData
+ 11744457 haemcode/blood/BigWig/mm10/Foxo1_GSM998924_Ab_nTreg_T_Cells.bw_0.0.1.RData
+  1175552 EuPathDB/TxDb/3.9/TxDb.Nosema.bombycis.CQ1.MicrosporidiaDB.v42.sqlite
+117649490 haemcode/blood/BigWig/mm10/JunD_GSM912915_MEL.bw
+  1176664 goldenpath/papAnu2/database/gap_0.0.1.RData
+     1176 haemcode/blood/BigWig/mm10/H3K27ac_GSM1022264_stat6ko_ctrl_UT_BMDM.bw_0.0.1.json
+     1178 haemcode/blood/BigWig/mm10/Myb-Activated_GSE22095_Myeloid-Prog.bw_0.0.1.json
+117948334 haemcode/blood/BigWig/mm10/Runx1_GSM832315_Uninduced_MK-Prog.bw_0.0.1.RData
+118087680 AHEnsDbs/v105/EnsDb.Gevgoodei.v105.sqlite
+118239232 AHEnsDbs/v104/EnsDb.Gevgoodei.v104.sqlite
+118259155 haemcode/blood/BigWig/mm10/PU.1_GSM1022263_stat6ko_IL4_4h_BMDM.bw_0.0.1.RData
+     1182 haemcode/blood/BigWig/mm10/IRF8_GSM950325_MSCVIRF8_Day3_Tot2_Myeloid.bw_0.0.1.json
+ 11838101 goldenpath/papAnu2/database/xenoRefGene_0.0.1.RData
+     1183 haemcode/blood/BigWig/mm10/HA-Ikaros_GSE38200_epitope-tagged_Pre_B_Cell.bw_0.0.1.json
+118403332 haemcode/blood/BigWig/mm10/Gata1_GSM867158_Differentiating_ES-Erythroid-Prog.bw_0.0.1.RData
+  1184068 goldenpath/panTro4/database/gap_0.0.1.RData
+     1184 haemcode/blood/BigWig/mm10/PU1_GSM1031977_MSCVIRF8_Day3_Tot2_Myeloid.bw_0.0.1.json
+     1185 haemcode/blood/BigWig/mm10/PU.1_GSM1022261_stat6ko_ctrl_IL4_4h_BMDM.bw_0.0.1.json
+118710043 haemcode/blood/BigWig/mm10/PU1_GSE21953_MEL_Erythroid.bw
+118745862 ensembl/release-95/fasta/cynoglossus_semilaevis/dna/Cynoglossus_semilaevis.Cse_v1.0.dna_sm.toplevel.2bit
+ 11883011 goldenpath/susScr2/database/xenoRefGene_0.0.1.RData
+118849536 AHEnsDbs/v96/EnsDb.Cvariegatus.v96.sqlite
+     1189 haemcode/blood/BigWig/mm10/PU.1_GSM1022281_stat1ko_ctrl_IFNg_4h_BMDM.bw_0.0.1.json
+ 11904196 haemcode/blood/BigWig/mm10/Rad21_GSM644976_Pro-B-Cells.bw
+119345152 AHEnsDbs/v103/EnsDb.Vkomodoensis.v103.sqlite
+ 11944684 haemcode/blood/BigWig/mm10/CBFb_GSM832322_Thymocyte.bw_0.0.1.RData
+   119553 ensembl/release-102/fasta/labrus_bergylta/ncrna/Labrus_bergylta.BallGen_V1.ncrna.2bit
+119656448 AHEnsDbs/v105/EnsDb.Nvison.v105.sqlite
+119689216 AHEnsDbs/v101/EnsDb.Pcatodon.v101.sqlite
+119742464 AHEnsDbs/v103/EnsDb.Pcatodon.v103.sqlite
+119790016 haemcode/blood/BigWig/mm10/Stat3_GSM540722_Th17_T-Cells.bw
+     1199 haemcode/blood/BigWig/mm10/Ikaros_GSE38200_endogenous_Primary_Pre_B_Cells.bw_0.0.1.json
+120033280 AHEnsDbs/v99/EnsDb.Gaffinis.v99.sqlite
+ 12005997 goldenpath/rheMac2/database/xenoRefGene_0.0.1.RData
+120270848 AHEnsDbs/v105/EnsDb.Gaffinis.v105.sqlite
+     1202 haemcode/blood/BigWig/mm10/Gata1_GSM867156_Proliferating_ES-Erythroid-Prog.bw_0.0.1.json
+120426496 AHEnsDbs/v105/EnsDb.Cporosus.v105.sqlite
+120483840 AHEnsDbs/v104/EnsDb.Gaffinis.v104.sqlite
+  1206934 goldenpath/rn3/database/nscanGene_0.0.1.RData
+    12071 goldenpath/sacCer3/database/sgdClone_0.0.1.RData
+120737792 AHEnsDbs/v103/EnsDb.Pmajor.v103.sqlite
+   120750 goldenpath/rn4/database/cpgIslandExt_0.0.1.RData
+  1208320 EuPathDB/TxDb/3.9/TxDb.Giardia.Assemblage.B.isolate.GS.GiardiaDB.v42.sqlite
+ 12087296 EuPathDB/TxDb/3.9/TxDb.Fusarium.oxysporum.FOSC.3.a.FungiDB.v42.sqlite
+121307136 AHEnsDbs/v99/EnsDb.Ggallus.v99.sqlite
+121319424 AHEnsDbs/v101/EnsDb.Pcoquereli.v101.sqlite
+     1214 haemcode/blood/BigWig/mm10/Gata1_GSM867158_Differentiating_ES-Erythroid-Prog.bw_0.0.1.json
+121544704 AHEnsDbs/v103/EnsDb.Pcoquereli.v103.sqlite
+ 12161024 EuPathDB/TxDb/3.9/TxDb.Puccinia.graminis.f.sp.tritici.CRL.75.36.700.3.FungiDB.v42.sqlite
+     1218 haemcode/blood/BigWig/mm10/p300_GSM1004843_Th17_Stat3_++_CD4-Cre_48h_T_Cells.bw_0.0.1.json
+     1219 haemcode/blood/BigWig/mm10/GATA-1_Ab11835_Ter119+_Differentiated_Erythrocytes.bw_0.0.1.json
+122007552 AHEnsDbs/v105/EnsDb.Ggallus.v105.sqlite
+122048512 AHEnsDbs/v104/EnsDb.Ggallus.v104.sqlite
+122188044 haemcode/blood/BigWig/mm10/GSM587477_h3_38b9.bw
+122449917 haemcode/blood/BigWig/mm10/Rad21_GSM912935_MEL.bw_0.0.1.RData
+ 12251136 EuPathDB/TxDb/3.9/TxDb.Phytophthora.cinnamomi.var.cinnamomi.CBS.144.22.FungiDB.v42.sqlite
+  1227678 goldenpath/susScr2/database/nscanGene_0.0.1.RData
+ 12278295 ensembl/release-95/fasta/jaculus_jaculus/cdna/Jaculus_jaculus.JacJac1.0.cdna.all.2bit
+122904576 AHEnsDbs/v105/EnsDb.Cmoneduloides.v105.sqlite
+122945536 AHEnsDbs/v101/EnsDb.Malbus.v101.sqlite
+     1231 haemcode/blood/BigWig/mm10/p300_GSM1004844_Th17_Stat3_flfl_CD4-Cre_48h_T_Cells.bw_0.0.1.json
+123471773 haemcode/blood/BigWig/mm10/p300_GSM1004844_Th17_Stat3_flfl_CD4-Cre_48h_T_Cells.bw_0.0.1.RData
+123502703 haemcode/blood/BigWig/mm10/PU.1_GSM1022310_tc_IFNg_UT_BMDM.bw
+  1235057 ensembl/release-102/fasta/sinocyclocheilus_anshuiensis/ncrna/Sinocyclocheilus_anshuiensis.SAMN03320099.WGS_v1.1.ncrna.2bit
+  1235057 ensembl/release-105/fasta/sinocyclocheilus_anshuiensis/ncrna/Sinocyclocheilus_anshuiensis.SAMN03320099.WGS_v1.1.ncrna.2bit
+ 12361728 EuPathDB/TxDb/3.9/TxDb.Phytophthora.parasitica.INRA.310.FungiDB.v42.sqlite
+123934837 haemcode/blood/BigWig/mm10/H3K4me2_GSE40918_Th17_RORg_wt_T_Cells.bw_0.0.1.RData
+  1239488 goldenpath/xenTro1/database/mrna_0.0.1.RData
+123993028 haemcode/blood/BigWig/mm10/PU1_GSE21953_ES-Erythroid-Prog.bw
+ 12401885 ensembl/release-101/fasta/ovis_aries/cdna/Ovis_aries.Oar_v3.1.cdna.all.2bit
+124068024 haemcode/blood/BigWig/mm10/NELFe_GSM912932_MEL.bw_0.0.1.RData
+  1242653 goldenpath/tetNig1/database/gaze_0.0.1.RData
+124354560 AHEnsDbs/v103/EnsDb.Pformosa.v103.sqlite
+124817408 AHEnsDbs/v96/EnsDb.Cpugnax.v96.sqlite
+124854104 haemcode/blood/BigWig/mm10/H3K4me3_GSE40918_Th17_RORg_ko_T_Cells.bw_0.0.1.RData
+124973728 haemcode/blood/BigWig/mm10/Stat1_GSM838691_6h_IFNb_ikk_BMM.bw
+125061091 haemcode/blood/BigWig/mm10/PU.1_GSM1022282_stat1ko_UT_BMDM.bw
+ 12510298 goldenpath/saiBol1/database/nestedRepeats_0.0.1.RData
+125335431 haemcode/blood/BigWig/mm10/CTCF_GSM672402_Mature-B-Cells.bw
+  1253897 goldenpath/tetNig2/database/chainNetHg19_0.0.1.RData
+125424825 haemcode/blood/BigWig/mm10/PU.1_GSM1022260_stat6ko_ctrl_UT_BMDM.bw_0.0.1.RData
+125591552 AHEnsDbs/v101/EnsDb.Ecalabaricus.v101.sqlite
+125698048 AHEnsDbs/v96/EnsDb.Csemilaevis.v96.sqlite
+ 12595200 EuPathDB/TxDb/3.9/TxDb.Fusarium.oxysporum.Fo47.FungiDB.v42.sqlite
+125958824 goldenpath/rheMac3/database/xenoMrna_0.0.1.RData
+125960054 haemcode/blood/BigWig/mm10/PU1_GSM774293_FLDN2b_T-Cells.bw_0.0.1.RData
+126038308 haemcode/blood/BigWig/mm10/H3K4me3_GSE40918_Th17_RORg_wt_T_Cells.bw_0.0.1.RData
+ 12605274 haemcode/blood/BigWig/mm10/IRF4_GSM978748_WT_withIL21_B-Cells.bw_0.0.1.RData
+126229288 haemcode/blood/BigWig/mm10/p300_GSM912921_MEL.bw_0.0.1.RData
+ 12628682 goldenpath/strPur1/database/chainNetHg18_0.0.1.RData
+126300160 AHEnsDbs/v99/EnsDb.Cdromedarius.v99.sqlite
+126365696 AHEnsDbs/v97/EnsDb.Cjaponica.v97.sqlite
+126443955 haemcode/blood/BigWig/mm10/JunD_GSM978771_WJL2012_097_Th17-Cells.bw_0.0.1.RData
+126481590 haemcode/blood/BigWig/mm10/PU.1_GSM1022262_stat6ko_UT_BMDM.bw_0.0.1.RData
+126714551 haemcode/blood/BigWig/mm10/Stat1_GSM838689_6h_IFNg_ikk_BMM.bw
+126771200 AHEnsDbs/v103/EnsDb.Uamericanus.v103.sqlite
+126792410 goldenpath/triMan1/database/xenoMrna_0.0.1.RData
+126889984 AHEnsDbs/v97/EnsDb.Ccaeruleus.v97.sqlite
+127242240 AHEnsDbs/v105/EnsDb.Cjaponica.v105.sqlite
+127280285 haemcode/blood/BigWig/mm10/RBPJ_GSM732914_T6E_Leukaemia.bw_0.0.1.RData
+127324160 AHEnsDbs/v104/EnsDb.Cdromedarius.v104.sqlite
+127389696 AHEnsDbs/v104/EnsDb.Cjaponica.v104.sqlite
+127473177 haemcode/blood/BigWig/mm10/Ring1b_GSM832317_Uninduced_MK-Prog.bw
+127540792 haemcode/blood/BigWig/mm10/Gata2_GSM777091_G1ME_MK-Prog.bw_0.0.1.RData
+  1275641 goldenpath/tetNig1/database/ensGene_0.0.1.RData
+  1276732 goldenpath/rheMac2/database/nscanGene_0.0.1.RData
+127692800 AHEnsDbs/v104/EnsDb.Ccaeruleus.v104.sqlite
+ 12769803 ensembl/release-95/fasta/amphilophus_citrinellus/cdna/Amphilophus_citrinellus.Midas_v5.cdna.all.2bit
+ 12800018 haemcode/blood/BigWig/mm10/JunB_GSM978769_WJL2012_095_Th17-Cells.bw
+128126331 goldenpath/susScr2/database/xenoMrna_0.0.1.RData
+128223114 haemcode/blood/BigWig/mm10/GSM730632_Runx1.bw
+128225280 AHEnsDbs/v105/EnsDb.Fheteroclitus.v105.sqlite
+128307200 AHEnsDbs/v105/EnsDb.Falbicollis.v105.sqlite
+128421888 AHEnsDbs/v103/EnsDb.Pmexicana.v103.sqlite
+128433433 haemcode/blood/BigWig/mm10/Gata3_GSM774296_FLDN2b_T-Cells.bw
+128516096 AHEnsDbs/v105/EnsDb.Nmeleagris.v105.sqlite
+128621507 haemcode/blood/BigWig/mm10/Elf1_GSM999185_TN_T-Cells.bw
+128642422 ensembl/release-95/fasta/cynoglossus_semilaevis/dna/Cynoglossus_semilaevis.Cse_v1.0.dna_rm.toplevel.2bit
+128671744 AHEnsDbs/v99/EnsDb.Sdumerili.v99.sqlite
+128679936 AHEnsDbs/v100/EnsDb.Sdumerili.v100.sqlite
+  1288185 goldenpath/tetNig1/database/genscan_0.0.1.RData
+129068664 haemcode/blood/BigWig/mm10/p300_GSM1004851_Th17_RORg_wt_T_Cells.bw_0.0.1.RData
+ 12929434 goldenpath/speTri2/database/xenoRefGene_0.0.1.RData
+  1294336 EuPathDB/TxDb/3.9/TxDb.Giardia.Assemblage.E.isolate.P15.GiardiaDB.v42.sqlite
+  1297309 goldenpath/petMar2/database/genscan_0.0.1.RData
+ 13000704 EuPathDB/TxDb/3.9/TxDb.Phanerochaete.chrysosporium.RP.78.FungiDB.v42.sqlite
+ 13001312 goldenpath/vicPac1/database/xenoRefGene_0.0.1.RData
+   130270 goldenpath/sacCer2/database/sgdGene_0.0.1.RData
+ 13031706 goldenpath/papHam1/database/chainNetMm10_0.0.1.RData
+130392332 haemcode/blood/BigWig/mm10/H3K27ac_GSM1022264_stat6ko_ctrl_UT_BMDM.bw
+     1303 refnet/refnet backup /hypoxiaSignaling-2006.tsv_0.0.1.RData
+131088327 haemcode/blood/BigWig/mm10/FoxO1_GSM546525_Pro-B-Cells.bw
+ 13111296 EuPathDB/TxDb/3.9/TxDb.Saprolegnia.diclina.VS20.FungiDB.v42.sqlite
+131203383 haemcode/blood/BigWig/mm10/CTCF_GSM546526_Pro-B-Cells.bw
+ 13134208 ensembl/release-93/fasta/anolis_carolinensis/cdna/Anolis_carolinensis.AnoCar2.0.cdna.all.2bit
+131490113 haemcode/blood/BigWig/mm10/STAT5B_GSM671419_IL21+GMCSF_Dendritic.bw_0.0.1.RData
+131620864 AHEnsDbs/v103/EnsDb.Tgelada.v103.sqlite
+  1316701 goldenpath/rn3/database/ecoresFr1_0.0.1.RData
+131823978 haemcode/blood/BigWig/mm10/Gata2_GSM552234_MPP_HPC7.bw
+132633094 haemcode/blood/BigWig/mm10/Jmjd6_GSM1004840_Th17_wt_48h_T_Cells.bw_0.0.1.RData
+132718592 AHEnsDbs/v103/EnsDb.Vursinus.v103.sqlite
+  1328793 goldenpath/strPur2/database/gap_0.0.1.RData
+133104019 haemcode/blood/BigWig/mm10/Cbx7_GSM898200_HPC.bw
+ 13311236 goldenpath/pteVam1/database/xenoRefGene_0.0.1.RData
+133352006 haemcode/blood/BigWig/mm10/Mxi1_GSM912928_MEL.bw_0.0.1.RData
+133439819 haemcode/blood/BigWig/mm10/Ikaros_GSE38200_endogenous_Pre_B_Cell.bw_0.0.1.RData
+ 13402112 EuPathDB/TxDb/3.9/TxDb.Fusarium.oxysporum.f.sp.melonis.26406.FungiDB.v42.sqlite
+134128032 haemcode/blood/BigWig/mm10/STAT3_GSM1004859_Th17_wt_3h_T_Cells.bw_0.0.1.RData
+  1343488 EuPathDB/TxDb/3.9/TxDb.Malassezia.globosa.CBS.7966.FungiDB.v42.sqlite
+  1343769 goldenpath/tetNig2/database/ensGene_0.0.1.RData
+  1347616 goldenpath/ponAbe2/database/est_0.0.1.RData
+135085582 haemcode/blood/BigWig/mm10/Ets1_GSM999187_CD4_T-Cells.bw_0.0.1.RData
+135107648 haemcode/blood/BigWig/mm10/Tbet_GSM836124_WT_Th1_T-Cells.bw
+135364608 AHEnsDbs/v97/EnsDb.Chircus.v97.sqlite
+135380992 AHEnsDbs/v101/EnsDb.Lcanadensis.v101.sqlite
+  1354864 goldenpath/saiBol1/database/gold_0.0.1.RData
+  1355539 goldenpath/rheMac2/database/geneid_0.0.1.RData
+  1357296 goldenpath/rn3/database/ensGene_0.0.1.RData
+     1359 goldenpath/sacCer1/database/gcPercent_0.0.1.RData
+ 13600150 goldenpath/sorAra1/database/xenoRefGene_0.0.1.RData
+136220642 haemcode/blood/BigWig/mm10/Stat1_GSM1022321_IFNg_4h_BMDM.bw_0.0.1.RData
+136441856 AHEnsDbs/v99/EnsDb.Hburtoni.v99.sqlite
+     1364 goldenpath/hg19/encodeDCC/wgEncodeCshlLongRnaSeq/wgEncodeCshlLongRnaSeqK562CytosolPamGeneGencV7.gtf_0.0.1.json
+136576233 haemcode/blood/BigWig/mm10/Stat3_GSM652877_Il6_T-Cells.bw
+136891035 haemcode/blood/BigWig/mm10/CTCF_GSM912896_MEL.bw_0.0.1.RData
+136982528 AHEnsDbs/v101/EnsDb.Omelastigma.v101.sqlite
+137043968 AHEnsDbs/v105/EnsDb.Hburtoni.v105.sqlite
+137109504 AHEnsDbs/v100/EnsDb.Smaximus.v100.sqlite
+ 13719171 ensembl/release-101/fasta/laticauda_laticaudata/cdna/Laticauda_laticaudata.latLat_1.0.cdna.all.2bit
+ 13719171 ensembl/release-105/fasta/laticauda_laticaudata/cdna/Laticauda_laticaudata.latLat_1.0.cdna.all.2bit
+137248768 AHEnsDbs/v104/EnsDb.Hburtoni.v104.sqlite
+ 13742080 EuPathDB/TxDb/3.9/TxDb.Phytophthora.sojae.P6497.FungiDB.v42.sqlite
+137433406 haemcode/blood/BigWig/mm10/Stat1_GSM838683_6h_IFNg_WT_BMM.bw
+   137530 goldenpath/sacCer1/database/ensGene_0.0.1.RData
+   137602 goldenpath/sacCer2/database/ensGene_0.0.1.RData
+137692565 goldenpath/papAnu2/database/xenoMrna_0.0.1.RData
+ 13774848 EuPathDB/TxDb/3.9/TxDb.Saprolegnia.parasitica.CBS.223.65.FungiDB.v42.sqlite
+   137794 haemcode/blood/Peaks/mm10/A500002_Erg.bed
+ 13797527 haemcode/blood/BigWig/mm10/CTCF_GSM918734_Immortalized_Thymus.bw_0.0.1.RData
+  1380973 goldenpath/susScr3/database/ensGene_0.0.1.RData
+     1380 goldenpath/hg19/encodeDCC/wgEncodeCshlShortRnaSeq/wgEncodeCshlShortRnaSeqImr90CellExonsGencV10.gtf_0.0.1.json
+ 13815808 EuPathDB/TxDb/3.9/TxDb.Fusarium.oxysporum.f.sp.lycopersici.4287.FungiDB.v42.sqlite
+138208207 haemcode/blood/BigWig/mm10/Stat1_GSM838687_Untreated_ikk_BMM.bw
+    13840 goldenpath/sacCer3/database/simpleRepeat_0.0.1.RData
+    13879 goldenpath/sacCer2/database/simpleRepeat_0.0.1.RData
+138851841 haemcode/blood/BigWig/mm10/Stat1_GSM838685_6h_IFNb_WT_BMM.bw
+138865225 haemcode/blood/BigWig/mm10/SMC3_GSM912923_MEL.bw_0.0.1.RData
+    13898 haemcode/blood/Peaks/mm10/AF9_GSM846042_MLL.bed
+139096064 AHEnsDbs/v101/EnsDb.Marmatus.v101.sqlite
+139098423 haemcode/blood/BigWig/mm10/STAT5B_GSM671418_GMCSF_Dendritic.bw_0.0.1.RData
+139244774 haemcode/blood/BigWig/mm10/Scl_GSE30142_ER4_Erythroid.bw
+ 13944073 goldenpath/papHam1/database/xenoRefGene_0.0.1.RData
+139460608 AHEnsDbs/v103/EnsDb.Tguttata.v103.sqlite
+139718656 AHEnsDbs/v105/EnsDb.Chircus.v105.sqlite
+139882496 AHEnsDbs/v104/EnsDb.Chircus.v104.sqlite
+139952128 AHEnsDbs/v101/EnsDb.Ssuricatta.v101.sqlite
+140032069 goldenpath/rn3/database/xenoMrna_0.0.1.RData
+140094755 haemcode/blood/BigWig/mm10/PU.1_GSM940926_LPS_4h_BMDM.bw
+140185600 AHEnsDbs/v99/EnsDb.Gagassizii.v99.sqlite
+140333056 AHEnsDbs/v105/EnsDb.Gagassizii.v105.sqlite
+140505088 AHEnsDbs/v104/EnsDb.Gagassizii.v104.sqlite
+141031749 goldenpath/panTro4/database/xenoMrna_0.0.1.RData
+141094565 haemcode/blood/BigWig/mm10/c-Myb_GSM912903_MEL.bw
+141512704 AHEnsDbs/v103/EnsDb.Umaritimus.v103.sqlite
+ 14160123 ensembl/release-94/fasta/pongo_abelii/cdna/Pongo_abelii.PPYG2.cdna.all.2bit
+141930496 AHEnsDbs/v105/EnsDb.Oanatinus.v105.sqlite
+141966427 haemcode/blood/BigWig/mm10/Stat1_GSM1022320_UT_BMDM.bw_0.0.1.RData
+142547509 haemcode/blood/BigWig/mm10/Stat1_GSM838681_Untreated_WT_BMM.bw
+  1425904 goldenpath/rheMac3/database/intronEst_0.0.1.RData
+142832968 haemcode/blood/BigWig/mm10/p300_GSM1004852_Th17_RORg_ko_T_Cells.bw
+142834129 haemcode/blood/BigWig/mm10/Eto2_ERA000161_Induced_Erythroid_MEL.bw_0.0.1.RData
+  1431766 goldenpath/petMar1/database/phastConsElements6way_0.0.1.RData
+143368192 AHEnsDbs/v105/EnsDb.Mzebra.v105.sqlite
+ 14364847 ensembl/release-101/fasta/latimeria_chalumnae/cdna/Latimeria_chalumnae.LatCha1.cdna.all.2bit
+ 14364847 ensembl/release-105/fasta/latimeria_chalumnae/cdna/Latimeria_chalumnae.LatCha1.cdna.all.2bit
+143757442 haemcode/blood/BigWig/mm10/GATA-1_Ab11835_Ter119-_Pro_Erythroblasts.bw_0.0.1.RData
+  1437696 EuPathDB/TxDb/3.9/TxDb.Saccharomyces.cerevisiae.S288c.FungiDB.v42.sqlite
+143818752 AHEnsDbs/v101/EnsDb.Olatipes.v101.sqlite
+144093184 AHEnsDbs/v99/EnsDb.Ipunctatus.v99.sqlite
+  1442248 goldenpath/strPur1/database/refGene_0.0.1.RData
+144539648 AHEnsDbs/v105/EnsDb.Ipunctatus.v105.sqlite
+ 14504078 ensembl/release-103/fasta/lepidothrix_coronata/cdna/Lepidothrix_coronata.Lepidothrix_coronata-1.0.cdna.all.2bit
+145108992 AHEnsDbs/v105/EnsDb.Cjacchus.v105.sqlite
+ 14516224 EuPathDB/TxDb/3.9/TxDb.Phycomyces.blakesleeanus.NRRL.1555.FungiDB.v42.sqlite
+145947294 haemcode/blood/BigWig/mm10/CTCF_GSM923573_MEL.bw
+146042880 AHEnsDbs/v101/EnsDb.Lbergylta.v101.sqlite
+146432000 AHEnsDbs/v105/EnsDb.Nleucogenys.v105.sqlite
+146756246 haemcode/blood/BigWig/mm10/p300_GSM1004843_Th17_Stat3_++_CD4-Cre_48h_T_Cells.bw_0.0.1.RData
+   146826 ensembl/release-101/fasta/laticauda_laticaudata/ncrna/Laticauda_laticaudata.latLat_1.0.ncrna.2bit
+146845696 AHEnsDbs/v97/EnsDb.Pnattereri.v97.sqlite
+   147221 ensembl/release-105/fasta/laticauda_laticaudata/ncrna/Laticauda_laticaudata.latLat_1.0.ncrna.2bit
+   147266 goldenpath/taeGut1/database/mrna_0.0.1.RData
+147515291 haemcode/blood/BigWig/mm10/AF9_GSM721212_MLL.bw
+147559540 haemcode/blood/BigWig/mm10/A500001_IgG.bw_0.0.1.RData
+147729369 haemcode/blood/BigWig/mm10/RORg_GSM1004853_Th0_wt_T_Cells.bw
+147779584 AHEnsDbs/v103/EnsDb.Pnattereri.v103.sqlite
+147914796 haemcode/blood/BigWig/mm10/STAT1_GSM994528_WT_Th1_T_Cells.bw_0.0.1.RData
+ 14801452 haemcode/blood/BigWig/mm10/Ring1b_GSM832323_Thymocyte.bw
+ 14806232 haemcode/blood/BigWig/mm10/cJun_GSM978770_WJL2012_096_Th17_T_Cells.bw_0.0.1.RData
+148723663 haemcode/blood/BigWig/mm10/Med1_GSM1038263_Pro_B_Cell.bw
+ 14897152 EuPathDB/TxDb/3.9/TxDb.Melampsora.larici.populina.98AG31.FungiDB.v42.sqlite
+149016576 AHEnsDbs/v101/EnsDb.Mleucophaeus.v101.sqlite
+149041810 goldenpath/papHam1/database/xenoMrna_0.0.1.RData
+149539651 goldenpath/saiBol1/database/xenoMrna_0.0.1.RData
+  1495805 goldenpath/xenTro3/database/ensGene_0.0.1.RData
+149680128 AHEnsDbs/v97/EnsDb.Cjacchus.v97.sqlite
+ 14979933 goldenpath/turTru2/database/xenoRefGene_0.0.1.RData
+149815621 ensembl/release-95/fasta/anabas_testudineus/dna/Anabas_testudineus.fAnaTes1.1.dna_rm.toplevel.2bit
+149872640 AHEnsDbs/v104/EnsDb.Ccapucinus.v104.sqlite
+  1499003 goldenpath/triMan1/database/gold_0.0.1.RData
+149932002 haemcode/blood/BigWig/mm10/CBFb_GSM832316_Uninduced_MK.bw_0.0.1.RData
+  1500245 goldenpath/tetNig1/database/rmsk_0.0.1.RData
+  1501733 ensembl/release-104/fasta/sinocyclocheilus_grahami/ncrna/Sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.ncrna.2bit
+  1501733 ensembl/release-105/fasta/sinocyclocheilus_grahami/ncrna/Sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.ncrna.2bit
+150280506 haemcode/blood/BigWig/mm10/IRF8_GSM950325_MSCVIRF8_Day3_Tot2_Myeloid.bw
+150714992 haemcode/blood/BigWig/mm10/PU.1_GSM1022261_stat6ko_ctrl_IL4_4h_BMDM.bw
+150810624 AHEnsDbs/v97/EnsDb.Ccapucinus.v97.sqlite
+   150856 goldenpath/tetNig2/database/gold_0.0.1.RData
+    15107 haemcode/blood/Peaks/mm10/A500005_Erg.bed_0.0.1.RData
+151134566 haemcode/blood/BigWig/mm10/Gata1_GSM912907_MEL.bw
+  1511424 EuPathDB/TxDb/3.9/TxDb.Mitosporidium.daphniae.UGP3.MicrosporidiaDB.v42.sqlite
+  1515899 goldenpath/ponAbe2/database/ensGene_0.0.1.RData
+151745824 haemcode/blood/BigWig/mm10/Myb-Activated_GSE22095_Myeloid-Prog.bw
+151881960 haemcode/blood/BigWig/mm10/p65_GSM611116_Activated_Macrophages.bw_0.0.1.RData
+151907230 haemcode/blood/BigWig/mm10/CHD2_GSM912929_MEL.bw_0.0.1.RData
+ 15207652 haemcode/blood/BigWig/mm10/Gata3_GSM523223_CD4_T-Cells.bw_0.0.1.RData
+152324660 haemcode/blood/BigWig/mm10/Gfi1_GSM786037_MLL-ENL-Preleukemia.bw
+ 15248797 haemcode/blood/BigWig/mm10/Gata1_ERA000161_Uninduced_Erythroid_MEL.bw
+   152706 goldenpath/xenTro3/database/tRNAs_0.0.1.RData
+153423872 AHEnsDbs/v101/EnsDb.Pcinereus.v101.sqlite
+153427142 haemcode/blood/BigWig/mm10/IRF4_GSM1004830_Th17_Batf_--_48h_T_Cells.bw_0.0.1.RData
+153452544 AHEnsDbs/v103/EnsDb.Pcinereus.v103.sqlite
+153808896 AHEnsDbs/v103/EnsDb.Pmuralis.v103.sqlite
+    15402 goldenpath/priPac1/database/tRNAs_0.0.1.RData
+154046464 AHEnsDbs/v101/EnsDb.Bgrunniens.v101.sqlite
+154406007 haemcode/blood/BigWig/mm10/PU.1_GSM940927_LPS_24h_BMDM.bw
+154830109 haemcode/blood/BigWig/mm10/Rad21_GSM672403_Pro-B-Cells.bw_0.0.1.RData
+154884738 haemcode/blood/BigWig/mm10/IRF4_GSM1004828_Th17_wt_3h_T_Cells.bw_0.0.1.RData
+ 15496297 haemcode/blood/BigWig/mm10/Ldb1_GSM641909_HPC.bw_0.0.1.RData
+ 15506512 goldenpath/papAnu2/database/nestedRepeats_0.0.1.RData
+155241986 haemcode/blood/BigWig/mm10/Runx1_GSM832315_Uninduced_MK-Prog.bw
+ 15539473 goldenpath/panTro3/database/nestedRepeats_0.0.1.RData
+155551319 haemcode/blood/BigWig/mm10/Rad21_GSM912933_DMSO_MEL.bw
+155735708 haemcode/blood/BigWig/mm10/MafK_GSM912899_MEL.bw
+156649102 haemcode/blood/BigWig/mm10/Pax5_GSM860927_Pre-B-Cells.bw_0.0.1.RData
+156812144 haemcode/blood/BigWig/mm10/V205G_GSM872894_MK-Progenitors.bw
+ 15723737 haemcode/blood/BigWig/mm10/Oct2_GSM537990_B-Cells.bw_0.0.1.RData
+157269983 haemcode/blood/BigWig/mm10/Gata1_GSM867158_Differentiating_ES-Erythroid-Prog.bw
+157544836 haemcode/blood/BigWig/mm10/Runx1_GSM989014_Induced_HE.bw
+157678638 haemcode/blood/BigWig/mm10/RBPJ_GSM732914_T6E_Leukaemia.bw
+ 15770748 goldenpath/xenTro1/database/blatFr1_0.0.1.RData
+   157712 goldenpath/rn5/database/cpgIslandExt_0.0.1.RData
+157785262 haemcode/blood/BigWig/mm10/STAT3_GSM671416_IL21+GMCSF_Dendritic.bw
+  1578070 goldenpath/rn4/database/geneid_0.0.1.RData
+ 15789043 goldenpath/panTro4/database/nestedRepeats_0.0.1.RData
+158187520 AHEnsDbs/v103/EnsDb.Pkingsleyae.v103.sqlite
+ 15826944 ncbi/uniprot/org.Escherichia_coli_O104:H4_str._2011C-3493.eg.sqlite
+ 15835706 goldenpath/papHam1/database/nestedRepeats_0.0.1.RData
+158797048 haemcode/blood/BigWig/mm10/p300_GSM1004847_Th17_IRF4_++_48h_T_Cells.bw_0.0.1.RData
+158826496 AHEnsDbs/v101/EnsDb.Mdomestica.v101.sqlite
+159059558 haemcode/blood/BigWig/mm10/Gata1_GSM777092_G1ME_MK-Prog.bw
+160006144 AHEnsDbs/v103/EnsDb.Ppaniscus.v103.sqlite
+ 16001321 haemcode/blood/BigWig/mm10/Gata3_GSM523228_Th17_T-Cells.bw
+  1604196 goldenpath/panTro3/database/nscanGene_0.0.1.RData
+ 16080896 ncbi/uniprot/3.6/org.Escherichia_coli_O104:H4_str._2011C-3493.eg.sqlite
+160873729 haemcode/blood/BigWig/mm10/p300_GSM1004844_Th17_Stat3_flfl_CD4-Cre_48h_T_Cells.bw
+160920360 haemcode/blood/BigWig/mm10/Notch1_GSM732916_G4A2_Leukaemia.bw
+ 16121636 ensembl/release-101/fasta/otus_sunia/cdna/Otus_sunia.OtuSun1.0.cdna.all.2bit
+ 16121636 ensembl/release-105/fasta/otus_sunia/cdna/Otus_sunia.OtuSun1.0.cdna.all.2bit
+161288192 AHEnsDbs/v99/EnsDb.Ggorilla.v99.sqlite
+ 16143360 ncbi/uniprot/3.5/org.Escherichia_coli_O83:H1_str._NRG_857C.eg.sqlite
+161546240 AHEnsDbs/v105/EnsDb.Nmelanostomus.v105.sqlite
+    16174 goldenpath/sacCer2/database/mrna_0.0.1.RData
+  1620767 goldenpath/panTro4/database/ensGene_0.0.1.RData
+    16211 goldenpath/sacCer1/database/mrna_0.0.1.RData
+162156544 AHEnsDbs/v105/EnsDb.Ggorilla.v105.sqlite
+162291712 AHEnsDbs/v104/EnsDb.Ggorilla.v104.sqlite
+ 16279207 haemcode/blood/BigWig/mm10/Gata3_GSM523230_nTreg_T-Cells.bw_0.0.1.RData
+  1630134 goldenpath/sarHar1/database/ensGene_0.0.1.RData
+163082349 haemcode/blood/BigWig/mm10/NELFe_GSM912932_MEL.bw
+163155182 haemcode/blood/BigWig/mm10/H3K4me2_GSE40918_Th17_RORg_ko_T_Cells.bw
+ 16335872 ncbi/uniprot/3.2/org.Escherichia_coli_O104:H4_str._2011C-3493.eg.sqlite
+163430317 haemcode/blood/BigWig/mm10/Gata1_GSM453997_G1E_ER4_Erythroid.bw_0.0.1.RData
+  1639602 goldenpath/susScr3/database/mrna_0.0.1.RData
+ 16408576 ncbi/uniprot/3.7/org.Escherichia_coli_O104:H4_str._2011C-3493.eg.sqlite
+ 16424960 ncbi/uniprot/3.8/org.Escherichia_coli_O104:H4_str._2011C-3493.eg.sqlite
+164275032 haemcode/blood/BigWig/mm10/Gata1_GSM923586_MK-Prog.bw_0.0.1.RData
+ 16458106 goldenpath/susScr2/database/chainNetHg19_0.0.1.RData
+164892672 AHEnsDbs/v98/EnsDb.Fcatus.v98.sqlite
+164897721 ensembl/release-102/fasta/larimichthys_crocea/dna/Larimichthys_crocea.L_crocea_2.0.dna_sm.toplevel.2bit
+ 16508928 ncbi/uniprot/3.5/org.Escherichia_coli_O104:H4_str._2011C-3493.eg.sqlite
+ 16510797 goldenpath/rheMac2/database/chainNetRn4_0.0.1.RData
+  1659870 goldenpath/petMar1/database/blastHg18KG_0.0.1.RData
+166109184 AHEnsDbs/v105/EnsDb.Fcatus.v105.sqlite
+166211584 AHEnsDbs/v101/EnsDb.Panubis.v101.sqlite
+166954135 haemcode/blood/BigWig/mm10/Rad21_GSM912935_MEL.bw
+ 16703984 goldenpath/susScr2/database/intronEst_0.0.1.RData
+167251784 ensembl/release-101/fasta/lates_calcarifer/dna/Lates_calcarifer.ASB_HGAPassembly_v1.dna_sm.toplevel.2bit
+167251784 ensembl/release-105/fasta/lates_calcarifer/dna/Lates_calcarifer.ASB_HGAPassembly_v1.dna_sm.toplevel.2bit
+ 16738614 goldenpath/tupBel1/database/xenoRefGene_0.0.1.RData
+  1674244 goldenpath/rheMac2/database/ctgPos_0.0.1.RData
+167544832 haemcode/blood/BigWig/mm10/Gata1_GSM897224_async_G1E-ER4+E2_Erythroid.bw_0.0.1.RData
+167545486 haemcode/blood/BigWig/mm10/Gata1_GSM923572_G1E-ER4_Erythroid.bw_0.0.1.RData
+167796369 haemcode/blood/BigWig/mm10/PU1_GSM774293_FLDN2b_T-Cells.bw
+167936000 AHEnsDbs/v100/EnsDb.Rroxellana.v100.sqlite
+168141671 haemcode/blood/BigWig/mm10/p300_GSM912921_MEL.bw
+168147723 haemcode/blood/BigWig/mm10/STAT3_GSM671415_IL21_Dendritic.bw_0.0.1.RData
+168236415 haemcode/blood/BigWig/mm10/PU.1_GSM1022263_stat6ko_IL4_4h_BMDM.bw
+  1682802 goldenpath/xenTro3/database/gold_0.0.1.RData
+168350047 haemcode/blood/BigWig/mm10/STAT3_GSM1004858_Th17_wt_16h_T_Cells.bw_0.0.1.RData
+  1689129 goldenpath/xenTro1/database/jgiFilteredModels_0.0.1.RData
+ 16942952 goldenpath/ponAbe2/database/nestedRepeats_0.0.1.RData
+169450211 haemcode/blood/BigWig/mm10/p300_GSM1004851_Th17_RORg_wt_T_Cells.bw
+  1700597 goldenpath/tetNig1/database/blastHg18KG_0.0.1.RData
+170258432 AHEnsDbs/v101/EnsDb.Lleishanense.v101.sqlite
+170725336 ensembl/release-96/fasta/seriola_dumerili/dna/Seriola_dumerili.Sdu_1.0.dna_sm.toplevel.2bit
+170984219 haemcode/blood/BigWig/mm10/A500005_Erg.bw_0.0.1.RData
+     1711 goldenpath/hg19/encodeDCC/wgEncodeDukeAffyExon/wgEncodeDukeAffyExonHpde6e6e7SimpleSignalRep2.broadPeak_0.0.1.json
+171393024 AHEnsDbs/v97/EnsDb.Catys.v97.sqlite
+171975661 haemcode/blood/BigWig/mm10/H3K4me2_GSE40918_Th17_RORg_wt_T_Cells.bw
+172083804 haemcode/blood/BigWig/mm10/STAT3_GSM1004859_Th17_wt_3h_T_Cells.bw
+172088019 haemcode/blood/BigWig/mm10/Notch1_GSM732913_T6E_Leukaemia.bw_0.0.1.RData
+172123298 haemcode/blood/BigWig/mm10/Fli1_GSM989016_Induced_HE.bw_0.0.1.RData
+172257280 AHEnsDbs/v101/EnsDb.Mfascicularis.v101.sqlite
+  1723716 goldenpath/strPur2/database/blastHg18KG_0.0.1.RData
+  1725471 goldenpath/vicPac1/database/intronEst_0.0.1.RData
+172665444 haemcode/blood/BigWig/mm10/Jmjd6_GSM1004840_Th17_wt_48h_T_Cells.bw
+172965402 haemcode/blood/BigWig/mm10/IRF4_GSM1004822_48h_Th0_Batf--_T_Cells.bw_0.0.1.RData
+173319996 haemcode/blood/BigWig/mm10/STAT5B_GSM671419_IL21+GMCSF_Dendritic.bw
+173677565 haemcode/blood/BigWig/mm10/Ets1_GSM999187_CD4_T-Cells.bw
+  1742702 goldenpath/xenTro2/database/gold_0.0.1.RData
+174333952 AHEnsDbs/v104/EnsDb.Cjacchus.v104.sqlite
+174383777 haemcode/blood/BigWig/mm10/JunD_GSM978771_WJL2012_097_Th17-Cells.bw
+174558355 haemcode/blood/BigWig/mm10/Pax5_GSE38046_Mature_B-Cells.bw_0.0.1.RData
+174634942 haemcode/blood/BigWig/mm10/H3K4me3_GSE40918_Th17_RORg_ko_T_Cells.bw
+   175166 goldenpath/priPac1/database/chainCe6_0.0.1.RData
+  1751825 goldenpath/vicPac1/database/est_0.0.1.RData
+175198208 AHEnsDbs/v103/EnsDb.Vvulpes.v103.sqlite
+175226405 haemcode/blood/BigWig/mm10/Mxi1_GSM912928_MEL.bw
+  1753088 EuPathDB/TxDb/3.9/TxDb.Entamoeba.nuttalli.P19.AmoebaDB.v42.sqlite
+175834318 haemcode/blood/BigWig/mm10/PU.1_GSM1022260_stat6ko_ctrl_UT_BMDM.bw
+175879788 haemcode/blood/BigWig/mm10/IRF4_GSM1004827_Th17_wt_16h_T_Cells.bw_0.0.1.RData
+175887600 haemcode/blood/BigWig/mm10/H3K4me3_GSE40918_Th17_RORg_wt_T_Cells.bw
+176048948 haemcode/blood/BigWig/mm10/Stat1_GSM1022321_IFNg_4h_BMDM.bw
+176629969 ensembl/release-102/fasta/larimichthys_crocea/dna/Larimichthys_crocea.L_crocea_2.0.dna_rm.toplevel.2bit
+176733088 ensembl/release-105/fasta/lates_calcarifer/dna/Lates_calcarifer.ASB_HGAPassembly_v1.dna_rm.toplevel.2bit
+177012059 haemcode/blood/BigWig/mm10/PU.1_GSM1022262_stat6ko_UT_BMDM.bw
+ 17794252 haemcode/blood/BigWig/mm10/Runx1_GSM832319_alt_ab_MK-Prog.bw_0.0.1.RData
+178010222 haemcode/blood/BigWig/mm10/Ikaros_GSE38200_endogenous_Pre_B_Cell.bw
+178139704 ensembl/release-101/fasta/lates_calcarifer/dna/Lates_calcarifer.ASB_HGAPassembly_v1.dna_rm.toplevel.2bit
+178139704 ensembl/release-102/fasta/lates_calcarifer/dna/Lates_calcarifer.ASB_HGAPassembly_v1.dna_rm.toplevel.2bit
+  1786626 goldenpath/petMar1/database/intronEst_0.0.1.RData
+ 17891471 haemcode/blood/BigWig/mm10/Stat1_GSM1022315_tc_IFNg_30min_BMDM.bw
+   179003 goldenpath/speTri2/database/intronEst_0.0.1.RData
+     1795 goldenpath/hg19/encodeDCC/wgEncodeCshlLongRnaSeq/wgEncodeCshlLongRnaSeqK562NucleolusTotalJunctions.bedRnaElements_0.0.1.json
+ 17966906 haemcode/blood/BigWig/mm10/Runx1_GSM832321_Thymocyte.bw
+180098222 ensembl/release-95/fasta/monopterus_albus/dna/Monopterus_albus.M_albus_1.0.dna_rm.toplevel.2bit
+  1801300 goldenpath/hg19/encodeDCC/wgEncodeDukeAffyExon/wgEncodeDukeAffyExonK562SimpleSignalRep1.broadPeak_0.0.1.RData
+   180913 ensembl/release-105/fasta/sinocyclocheilus_rhinocerous/ncrna/Sinocyclocheilus_rhinocerous.SAMN03320098_v1.1.ncrna.2bit
+180980192 haemcode/blood/BigWig/mm10/Stat1_GSM1022320_UT_BMDM.bw
+181477837 haemcode/blood/BigWig/mm10/IRF4_GSM1004825_Th0_Batf_wt_T_Cells.bw_0.0.1.RData
+181601291 haemcode/blood/BigWig/mm10/SMC3_GSM912923_MEL.bw
+ 18165601 haemcode/blood/BigWig/mm10/PU.1_GSM1022312_tc_IFNg_1h_BMDM.bw
+182320724 haemcode/blood/BigWig/mm10/Gata2_GSM777091_G1ME_MK-Prog.bw
+ 18234974 haemcode/blood/BigWig/mm10/GSM1165493_Klf1.bw_0.0.1.RData
+  1823742 goldenpath/rn4/database/ensGene_0.0.1.RData
+183190330 haemcode/blood/BigWig/mm10/STAT5B_GSM671418_GMCSF_Dendritic.bw
+183518955 haemcode/blood/BigWig/mm10/EBF_GSM499030_Pro-B-Cells.bw_0.0.1.RData
+183530020 ensembl/release-93/fasta/xiphophorus_maculatus/dna/Xiphophorus_maculatus.Xipmac4.4.2.dna_sm.toplevel.2bit
+ 18369536 ncbi/org.Escherichia_coli_O127:H6_str._E2348|69.eg.sqlite
+ 18374437 ensembl/release-95/fasta/pundamilia_nyererei/cdna/Pundamilia_nyererei.PunNye1.0.cdna.all.2bit
+184095036 haemcode/blood/BigWig/mm10/Eto2_ERA000161_Induced_Erythroid_MEL.bw
+184818046 haemcode/blood/BigWig/mm10/p300_GSM1004846_Th17_Batf_--_48h_T_Cells.bw_0.0.1.RData
+185942179 haemcode/blood/BigWig/mm10/CTCF_GSM912896_MEL.bw
+186281729 haemcode/blood/BigWig/mm10/Runx1_In-house_ES-Cells.bw_0.0.1.RData
+186659124 ensembl/release-94/fasta/poecilia_reticulata/dna/Poecilia_reticulata.Guppy_female_1.0_MT.dna_sm.toplevel.2bit
+186727850 haemcode/blood/BigWig/mm10/p300_GSM1004843_Th17_Stat3_++_CD4-Cre_48h_T_Cells.bw
+186920091 ensembl/release-102/fasta/seriola_lalandi_dorsalis/dna/Seriola_lalandi_dorsalis.Sedor1.dna_sm.toplevel.2bit
+  1870907 goldenpath/rheMac2/database/chainNetHg19_0.0.1.RData
+187357952 haemcode/blood/BigWig/mm10/BatF_GSM1004793_Th17_wt_16h_T_Cells.bw_0.0.1.RData
+  1875968 EuPathDB/TxDb/3.9/TxDb.Entamoeba.histolytica.HM.1IMSS.B.AmoebaDB.v42.sqlite
+187870660 haemcode/blood/BigWig/mm10/PU.1_GSM940931_TGFb1_4h_BMDM.bw_0.0.1.RData
+188184425 haemcode/blood/BigWig/mm10/IRF4_GSE40918_Th0_wt_T_Cells.bw_0.0.1.RData
+ 18846720 ncbi/org.Escherichia_coli_O55:H7_str._CB9615.eg.sqlite
+189066509 haemcode/blood/BigWig/mm10/PU.1_GSM940932_IL1b_4h_BMDM.bw_0.0.1.RData
+189394828 haemcode/blood/BigWig/mm10/CBFb_GSM832316_Uninduced_MK.bw
+  1900544 EuPathDB/TxDb/3.9/TxDb.Entamoeba.histolytica.HM.1IMSS.A.AmoebaDB.v42.sqlite
+190077366 haemcode/blood/BigWig/mm10/CTCF_GSE40918_Th17_wt_T_Cells.bw_0.0.1.RData
+ 19011511 haemcode/blood/BigWig/mm10/PU1_GSM537983_Macrophages.bw_0.0.1.RData
+  1901792 goldenpath/vicPac1/database/cpgIslandExt_0.0.1.RData
+190350716 haemcode/blood/BigWig/mm10/Fli1_GSM989023_c-Kit+.bw_0.0.1.RData
+     1912 haemcode/blood/Peaks/mm10/AF9_GSM721212_MLL.bed_0.0.1.RData
+191663682 haemcode/blood/BigWig/mm10/GATA-1_Ab11835_Ter119-_Pro_Erythroblasts.bw
+  1916982 goldenpath/rn4/database/chainNetDanRer4_0.0.1.RData
+191794621 haemcode/blood/BigWig/mm10/CHD2_GSM912929_MEL.bw
+191863024 haemcode/blood/BigWig/mm10/STAT1_GSM994528_WT_Th1_T_Cells.bw
+ 19208192 ncbi/org.Escherichia_coli_O103:H2_str._12009.eg.sqlite
+  1925436 goldenpath/xenTro1/database/gold_0.0.1.RData
+192586788 haemcode/blood/BigWig/mm10/PU.1_GSM940929__IL4_4h_BMDM.bw_0.0.1.RData
+192616734 haemcode/blood/BigWig/mm10/Gata1_GSE30142_TER119_Erythroid.bw_0.0.1.RData
+192617576 haemcode/blood/BigWig/mm10/Gata1_GSM923575_Erythroblast.bw_0.0.1.RData
+192686295 haemcode/blood/BigWig/mm10/PU.1_GSM940928_IFNg_4h_BMDM.bw_0.0.1.RData
+192917881 haemcode/blood/BigWig/mm10/Gata3_GSM774295_FLDN1_T-Cells.bw_0.0.1.RData
+192983391 haemcode/blood/BigWig/mm10/p65_GSM611116_Activated_Macrophages.bw
+ 19303893 ensembl/release-103/fasta/dromaius_novaehollandiae/cdna/Dromaius_novaehollandiae.droNov1.cdna.all.2bit
+193974428 ensembl/release-93/fasta/xiphophorus_maculatus/dna/Xiphophorus_maculatus.Xipmac4.4.2.dna_rm.toplevel.2bit
+  1941504 EuPathDB/TxDb/3.9/TxDb.Sporisorium.reilianum.SRZ2.FungiDB.v42.sqlite
+  1945963 goldenpath/pteVam1/database/gap_0.0.1.RData
+  1946720 goldenpath/rn3/database/softberryGene_0.0.1.RData
+194815776 haemcode/blood/BigWig/mm10/IRF4_GSM1004830_Th17_Batf_--_48h_T_Cells.bw
+194871043 haemcode/blood/BigWig/mm10/STAT3_GSE40918_Th17_wt_T_Cells.bw_0.0.1.RData
+ 19491840 ncbi/org.Escherichia_coli_O157:H7_str._TW14359.eg.sqlite
+ 19492546 haemcode/blood/BigWig/mm10/PU1_GSM552240_MPP_HPC7.bw_0.0.1.RData
+ 19559424 ncbi/org.Escherichia_coli_O83:H1_str._NRG_857C.eg.sqlite
+    19568 goldenpath/sacCer3/database/esRegGeneToMotif_0.0.1.RData
+ 19569049 haemcode/blood/BigWig/mm10/Ring1b_GSM832320_alt_ab_MK-Prog.bw
+  1957888 EuPathDB/TxDb/3.9/TxDb.Leishmania.panamensis.MHOMPA94PSC.1.TriTrypDB.v42.sqlite
+196167795 haemcode/blood/BigWig/mm10/IRF4_GSM1004828_Th17_wt_3h_T_Cells.bw
+ 19617350 haemcode/blood/BigWig/mm10/Foxo1_GSM998924_Ab_nTreg_T_Cells.bw
+ 19640320 ncbi/org.Escherichia_coli_O26:H11_str._11368.eg.sqlite
+196562708 haemcode/blood/BigWig/mm10/PU.1_GSM940930_TNFa_4h_BMDM.bw_0.0.1.RData
+  1970245 ensembl/release-100/fasta/sus_scrofa_usmarc/ncrna/Sus_scrofa_usmarc.USMARCv1.0.ncrna.2bit
+ 19718453 haemcode/blood/BigWig/mm10/IRF4_GSM978747_WT_noIL21_B-Cells.bw
+197336919 haemcode/blood/BigWig/mm10/PU.1_GSM940934_CpG_BMDM.bw_0.0.1.RData
+ 19814400 ncbi/org.Escherichia_coli_O157:H7_str._EDL933.eg.sqlite
+  1982464 EuPathDB/TxDb/3.9/TxDb.Schizosaccharomyces.japonicus.yFS275.FungiDB.v42.sqlite
+198543651 ensembl/release-96/fasta/seriola_lalandi_dorsalis/dna/Seriola_lalandi_dorsalis.Sedor1.dna_rm.toplevel.2bit
+198659532 ensembl/release-94/fasta/poecilia_reticulata/dna/Poecilia_reticulata.Guppy_female_1.0_MT.dna_rm.toplevel.2bit
+ 19897344 ncbi/org.Escherichia_coli_O111:H-_str._11128.eg.sqlite
+199110656 AHEnsDbs/v101/EnsDb.Osinensis.v101.sqlite
+199277312 haemcode/blood/BigWig/mm10/Fosl2_GSM1004808_Th0_wt_T_Cells.bw_0.0.1.RData
+199914173 haemcode/blood/BigWig/mm10/A500002_Erg.bw_0.0.1.RData
+200096954 haemcode/blood/BigWig/mm10/p300_GSM1004847_Th17_IRF4_++_48h_T_Cells.bw
+200191195 ensembl/release-102/fasta/seriola_lalandi_dorsalis/dna/Seriola_lalandi_dorsalis.Sedor1.dna_rm.toplevel.2bit
+  2004798 goldenpath/pteVam1/database/ensGene_0.0.1.RData
+201413912 haemcode/blood/BigWig/mm10/PU.1_GSM940933_MALP2_BMDM.bw_0.0.1.RData
+201848592 ensembl/release-102/fasta/labrus_bergylta/dna/Labrus_bergylta.BallGen_V1.dna_sm.toplevel.2bit
+  2019328 EuPathDB/TxDb/3.9/TxDb.Leishmania.tarentolae.Parrot.TarII.TriTrypDB.v42.sqlite
+   202100 goldenpath/sacCer3/database/blastHg18KG_0.0.1.RData
+  2027520 EuPathDB/TxDb/3.9/TxDb.Schizosaccharomyces.octosporus.yFS286.FungiDB.v42.sqlite
+202800402 haemcode/blood/BigWig/mm10/p300_GSM1004848_Th17_IRF4_--_48h_T_Cells.bw_0.0.1.RData
+202854400 AHEnsDbs/v105/EnsDb.Cmilii.v105.sqlite
+  2030140 goldenpath/taeGut1/database/simpleRepeat_0.0.1.RData
+203118975 haemcode/blood/BigWig/mm10/Gata1_GSM923586_MK-Prog.bw
+203282800 haemcode/blood/BigWig/mm10/Pax5_GSM860927_Pre-B-Cells.bw
+203637106 haemcode/blood/BigWig/mm10/A500004_IgG.bw_0.0.1.RData
+204152832 AHEnsDbs/v101/EnsDb.Sscrofa.v101.sqlite
+204509967 haemcode/blood/BigWig/mm10/Max_GSM912919_MEL.bw_0.0.1.RData
+ 20471409 haemcode/blood/BigWig/mm10/CBFb_GSM832322_Thymocyte.bw
+   205006 ensembl/release-103/fasta/latimeria_chalumnae/ncrna/Latimeria_chalumnae.LatCha1.ncrna.2bit
+205557650 haemcode/blood/BigWig/mm10/Notch1_GSM732913_T6E_Leukaemia.bw
+  2060153 goldenpath/proCap1/database/cpgIslandExt_0.0.1.RData
+206152498 ensembl/release-105/fasta/oryzias_sinensis/dna/Oryzias_sinensis.ASM858656v1.dna_sm.toplevel.2bit
+206153241 haemcode/blood/BigWig/mm10/Gata1_GSM453997_G1E_ER4_Erythroid.bw
+  2063397 haemcode/blood/BigWig/mm10/Gata1_GSM746568_ER4_Erythroid.bw
+  2064384 EuPathDB/TxDb/3.9/TxDb.Gregarina.niphandrodes.Unknown.strain.CryptoDB.v42.sqlite
+206454850 haemcode/blood/BigWig/mm10/PU1_GSM1031977_MSCVIRF8_Day3_Tot2_Myeloid.bw_0.0.1.RData
+  2066608 goldenpath/saiBol1/database/genscan_0.0.1.RData
+  2072576 EuPathDB/TxDb/3.9/TxDb.Leishmania.donovani.BPK282A1.TriTrypDB.v42.sqlite
+207365442 haemcode/blood/BigWig/mm10/STAT3_GSM1004858_Th17_wt_16h_T_Cells.bw
+  2073670 goldenpath/vicPac1/database/ensemblGeneScaffold_0.0.1.RData
+ 20748887 haemcode/blood/BigWig/mm10/PU1_GSM537989_B-Cells.bw_0.0.1.RData
+207538711 haemcode/blood/BigWig/mm10/Foxp3_GSE40684_Treg_T-Cells.bw_0.0.1.RData
+  2075943 goldenpath/tupBel1/database/intronEst_0.0.1.RData
+207618048 AHEnsDbs/v105/EnsDb.Clumpus.v105.sqlite
+207782526 haemcode/blood/BigWig/mm10/IRF4_GSM1004821_48h_Th0_Batf++_T_Cells.bw_0.0.1.RData
+ 20797384 haemcode/blood/BigWig/mm10/CTCF_GSM918734_Immortalized_Thymus.bw
+208263564 ensembl/release-95/fasta/pundamilia_nyererei/dna/Pundamilia_nyererei.PunNye1.0.dna_sm.toplevel.2bit
+  2084220 goldenpath/hg19/encodeDCC/wgEncodeCshlLongRnaSeq/wgEncodeCshlLongRnaSeqGm12878NucleusPamGeneGencV7.gtf_0.0.1.RData
+  2088960 EuPathDB/TxDb/3.9/TxDb.Entamoeba.histolytica.HM.3IMSS.AmoebaDB.v42.sqlite
+209147563 haemcode/blood/BigWig/mm10/IRF4_GSM1004838_Th17_Batf_ko_T_Cells.bw_0.0.1.RData
+  2097634 goldenpath/petMar2/database/chainNetMonDom5_0.0.1.RData
+ 21020068 goldenpath/hg19/encodeDCC/wgEncodeCshlLongRnaSeq/wgEncodeCshlLongRnaSeqImr90NucleusPapExonsGencV10.gtf_0.0.1.RData
+  2102447 goldenpath/rheMac2/database/est_0.0.1.RData
+210319430 haemcode/blood/BigWig/mm10/STAT3_GSM671415_IL21_Dendritic.bw
+210540935 haemcode/blood/BigWig/mm10/Gata1_GSM897224_async_G1E-ER4+E2_Erythroid.bw
+210542168 haemcode/blood/BigWig/mm10/Gata1_GSM923572_G1E-ER4_Erythroid.bw
+  2109440 EuPathDB/TxDb/3.9/TxDb.Leishmania.braziliensis.MHOMBR75M2904.TriTrypDB.v42.sqlite
+  2110027 goldenpath/turTru2/database/cpgIslandExt_0.0.1.RData
+211125269 haemcode/blood/BigWig/mm10/p300_GSM912893_MEL.bw_0.0.1.RData
+  2122686 goldenpath/tetNig1/database/chainNetFr2_0.0.1.RData
+212276632 haemcode/blood/BigWig/mm10/IRF4_GSM1004826_Th0_Batf_ko_T_Cells.bw_0.0.1.RData
+212352386 haemcode/blood/BigWig/mm10/IRF4_GSM1004822_48h_Th0_Batf--_T_Cells.bw
+  2125075 goldenpath/ponAbe2/database/genscan_0.0.1.RData
+ 21257836 haemcode/blood/BigWig/mm10/IRF4_GSM978748_WT_withIL21_B-Cells.bw
+  2125824 EuPathDB/TxDb/3.9/TxDb.Leishmania.mexicana.MHOMGT2001U1103.TriTrypDB.v42.sqlite
+ 21270528 EuPathDB/OrgDb/3.8/org.Entamoeba_histolytica_HM-1:IMSS-B.amoeba.db.sqlite
+213161446 haemcode/blood/BigWig/mm10/Fli1_GSM989016_Induced_HE.bw
+  2132323 goldenpath/strPur2/database/netCi2_0.0.1.RData
+213689405 haemcode/blood/BigWig/mm10/p300_GSM1004845_Th17_Batf_++_48h_T_Cells.bw_0.0.1.RData
+ 21389312 EuPathDB/OrgDb/3.8/org.Entamoeba_histolytica_HM-1:IMSS-A.amoeba.db.sqlite
+  2139658 goldenpath/rn4/database/mrna_0.0.1.RData
+ 21547690 haemcode/blood/BigWig/mm10/cJun_GSM978770_WJL2012_096_Th17_T_Cells.bw
+  2162688 EuPathDB/TxDb/3.9/TxDb.Leishmania.infantum.JPCM5.TriTrypDB.v42.sqlite
+216400924 ensembl/release-95/fasta/amphilophus_citrinellus/dna/Amphilophus_citrinellus.Midas_v5.dna_sm.toplevel.2bit
+216604672 AHEnsDbs/v103/EnsDb.Trubripes.v103.sqlite
+216653117 haemcode/blood/BigWig/mm10/IRF4_GSM1004827_Th17_wt_16h_T_Cells.bw
+    21683 goldenpath/sacCer3/database/sgdOther_0.0.1.RData
+216911872 AHEnsDbs/v101/EnsDb.Mcaroli.v101.sqlite
+  2169798 goldenpath/rn3/database/mrna_0.0.1.RData
+  2170880 EuPathDB/TxDb/3.9/TxDb.Spironucleus.salmonicida.ATCC50377.GiardiaDB.v42.sqlite
+   217952 goldenpath/tetNig1/database/gold_0.0.1.RData
+218939521 haemcode/blood/BigWig/mm10/IRF4_GSM1004837_Th17_Batf_wt_T_Cells.bw_0.0.1.RData
+  2191360 EuPathDB/TxDb/3.9/TxDb.Entamoeba.histolytica.KU27.AmoebaDB.v42.sqlite
+219558156 ensembl/release-95/fasta/pundamilia_nyererei/dna/Pundamilia_nyererei.PunNye1.0.dna_rm.toplevel.2bit
+ 22025745 ensembl/release-95/fasta/cyprinodon_variegatus/cdna/Cyprinodon_variegatus.C_variegatus-1.0.cdna.all.2bit
+   220334 goldenpath/panTro3/database/tRNAs_0.0.1.RData
+220418037 ensembl/release-95/fasta/amphiprion_ocellaris/dna/Amphiprion_ocellaris.AmpOce1.0.dna_sm.toplevel.2bit
+220450133 haemcode/blood/BigWig/mm10/Pax5_GSE38046_Mature_B-Cells.bw
+220631040 AHEnsDbs/v99/EnsDb.Sfasciatus.v99.sqlite
+ 22070160 ensembl/release-96/fasta/seriola_lalandi_dorsalis/cdna/Seriola_lalandi_dorsalis.Sedor1.cdna.all.2bit
+220737536 AHEnsDbs/v100/EnsDb.Sfasciatus.v100.sqlite
+221222442 ensembl/release-105/fasta/oryzias_sinensis/dna/Oryzias_sinensis.ASM858656v1.dna_rm.toplevel.2bit
+221229056 AHEnsDbs/v105/EnsDb.Nfurzeri.v105.sqlite
+  2213832 goldenpath/petMar2/database/chainNetHg19_0.0.1.RData
+ 22153074 haemcode/blood/BigWig/mm10/CEBPb_GSM537985_Macrophages.bw_0.0.1.RData
+  2225769 goldenpath/xenTro1/database/blastHg17KG_0.0.1.RData
+  2228224 EuPathDB/TxDb/3.9/TxDb.Entamoeba.histolytica.HM.1IMSS.AmoebaDB.v42.sqlite
+222965938 haemcode/blood/BigWig/mm10/CTCF_GSE40918_Th0_wt_T_Cells.bw_0.0.1.RData
+ 22297824 haemcode/blood/BigWig/mm10/Gata2_GSM641911_HPC.bw_0.0.1.RData
+223069665 ensembl/release-103/fasta/sparus_aurata/dna/Sparus_aurata.fSpaAur1.1.dna_rm.toplevel.2bit
+ 22311966 ensembl/release-95/fasta/amphiprion_ocellaris/cdna/Amphiprion_ocellaris.AmpOce1.0.cdna.all.2bit
+223128460 haemcode/blood/BigWig/mm10/Ldb1_GSM1055553_Flk1+_BL-CFCs.bw_0.0.1.RData
+ 22317899 haemcode/blood/BigWig/mm10/Gata3_GSM523224_CD8_T-Cells.bw_0.0.1.RData
+  2232320 EuPathDB/TxDb/3.9/TxDb.Leishmania.amazonensis.MHOMBR71973M2269.TriTrypDB.v42.sqlite
+223289396 haemcode/blood/BigWig/mm10/IRF4_GSM1004825_Th0_Batf_wt_T_Cells.bw
+ 22382448 haemcode/blood/BigWig/mm10/CTCF_GSM1023416_Rag1--_DN_Thymocytes.bw_0.0.1.RData
+223883981 haemcode/blood/BigWig/mm10/Rad21_GSM672403_Pro-B-Cells.bw
+223981208 ensembl/release-74/fasta/oryzias_latipes/dna/Oryzias_latipes.MEDAKA1.74.dna_sm.toplevel.fa.gz
+  2251543 goldenpath/rn3/database/genscan_0.0.1.RData
+   226124 haemcode/blood/geneList/CBFb_GSM832322_Thymocyte.csv_0.0.1.RData
+227252918 ensembl/release-95/fasta/amphiprion_percula/dna/Amphiprion_percula.Nemo_v1.dna_sm.toplevel.2bit
+227265688 haemcode/blood/BigWig/mm10/Runx1_In-house_ES-Cells.bw
+227449160 haemcode/blood/BigWig/mm10/A500001_IgG.bw
+    22747 haemcode/blood/Peaks/mm10/A500002_Erg.bed_0.0.1.RData
+227963562 haemcode/blood/BigWig/mm10/p300_GSM1004846_Th17_Batf_--_48h_T_Cells.bw
+  2280150 goldenpath/rheMac3/database/genscan_0.0.1.RData
+  2281472 EuPathDB/TxDb/3.9/TxDb.Leptomonas.seymouri.ATCC.30220.TriTrypDB.v42.sqlite
+229018188 ensembl/release-95/fasta/amphilophus_citrinellus/dna/Amphilophus_citrinellus.Midas_v5.dna_rm.toplevel.2bit
+  2293760 EuPathDB/TxDb/3.9/TxDb.Leishmania.major.Friedlin.TriTrypDB.v42.sqlite
+ 22939339 goldenpath/petMar2/database/windowmaskerSdust_0.0.1.RData
+   229485 ensembl/release-95/fasta/ailuropoda_melanoleuca/ncrna/Ailuropoda_melanoleuca.ailMel1.ncrna.2bit
+229887597 haemcode/blood/BigWig/mm10/EBF_GSM499030_Pro-B-Cells.bw
+229906092 ensembl/release-74/fasta/oryzias_latipes/dna/Oryzias_latipes.MEDAKA1.74.dna_sm.toplevel.fa.rz
+  2303964 goldenpath/sorAra1/database/cpgIslandExt_0.0.1.RData
+230546949 haemcode/blood/BigWig/mm10/IRF4_GSM1004829_Th17_Batf_++_48h_T_Cells.bw_0.0.1.RData
+230560756 haemcode/blood/BigWig/mm10/BatF_GSM1004793_Th17_wt_16h_T_Cells.bw
+230625377 haemcode/blood/BigWig/mm10/Fli1_GSM989023_c-Kit+.bw
+230686720 AHEnsDbs/v99/EnsDb.Gwilldenowi.v99.sqlite
+  2306988 goldenpath/speTri2/database/genscan_0.0.1.RData
+230727680 AHEnsDbs/v105/EnsDb.Gwilldenowi.v105.sqlite
+230895616 AHEnsDbs/v103/EnsDb.Pranga.v103.sqlite
+231030784 AHEnsDbs/v104/EnsDb.Gwilldenowi.v104.sqlite
+  2319692 goldenpath/sarHar1/database/gold_0.0.1.RData
+   232755 goldenpath/rn3/database/rgdGene_0.0.1.RData
+  2330624 EuPathDB/TxDb/3.9/TxDb.Plasmodium.vinckei.vinckei.vinckei.PlasmoDB.v42.sqlite
+233792941 haemcode/blood/BigWig/mm10/Gata1_GSE30142_TER119_Erythroid.bw
+233792948 haemcode/blood/BigWig/mm10/Gata1_GSM923575_Erythroblast.bw
+ 23384064 EuPathDB/OrgDb/3.8/org.Entamoeba_histolytica_HM-3:IMSS.amoeba.db.sqlite
+234086702 haemcode/blood/BigWig/mm10/Pax5_GSE38046_Pro-B-Cells.bw_0.0.1.RData
+234215741 ensembl/release-95/fasta/amphiprion_ocellaris/dna/Amphiprion_ocellaris.AmpOce1.0.dna_rm.toplevel.2bit
+  2342912 EuPathDB/TxDb/3.9/TxDb.Leishmania.panamensis.MHOMCOL81L13.TriTrypDB.v42.sqlite
+234442528 haemcode/blood/BigWig/mm10/p300_GSE40918_Th17_wt_T_Cells.bw_0.0.1.RData
+235471548 haemcode/blood/BigWig/mm10/IRF4_GSE40918_Th0_wt_T_Cells.bw
+  2359296 EuPathDB/TxDb/3.9/TxDb.Endotrypanum.monterogeii.LV88.TriTrypDB.v42.sqlite
+   236203 haemcode/blood/Peaks/mm10/BatF_GSE40918_Th0_IRF4_ko_48h_T_Cells.bed
+  2364281 goldenpath/papAnu2/database/genscan_0.0.1.RData
+ 23698432 haemcode/blood/BigWig/mm10/JunB_GSM1022318_UT_BMDM.bw_0.0.1.RData
+  2371100 goldenpath/panTro4/database/genscan_0.0.1.RData
+237929661 haemcode/blood/BigWig/mm10/Gata3_GSM774295_FLDN1_T-Cells.bw
+238206976 AHEnsDbs/v99/EnsDb.Cgobio.v99.sqlite
+ 23821531 haemcode/blood/BigWig/mm10/CEBPa_GSM537984_Macrophages.bw_0.0.1.RData
+  2383194 goldenpath/susScr2/database/blastHg18KG_0.0.1.RData
+238923776 AHEnsDbs/v105/EnsDb.Cgobio.v105.sqlite
+   239061 goldenpath/ponAbe2/database/refGene_0.0.1.RData
+239218688 AHEnsDbs/v104/EnsDb.Cgobio.v104.sqlite
+239276206 haemcode/blood/BigWig/mm10/CTCF_GSE40918_Th17_wt_T_Cells.bw
+239818295 haemcode/blood/BigWig/mm10/Ikaros_GSE38200_endogenous_Primary_Pre_B_Cells.bw_0.0.1.RData
+  2405065 goldenpath/xenTro2/database/genscan_0.0.1.RData
+  2405479 goldenpath/proCap1/database/ensemblGeneScaffold_0.0.1.RData
+240615556 haemcode/blood/BigWig/mm10/Fosl2_GSM1004808_Th0_wt_T_Cells.bw
+  2408448 EuPathDB/TxDb/3.9/TxDb.Theileria.annulata.Ankara.PiroplasmaDB.v42.sqlite
+240852992 AHEnsDbs/v105/EnsDb.Oaureus.v105.sqlite
+ 24087747 ensembl/release-95/fasta/amphiprion_percula/cdna/Amphiprion_percula.Nemo_v1.cdna.all.2bit
+241160174 ensembl/release-95/fasta/amphiprion_percula/dna/Amphiprion_percula.Nemo_v1.dna_rm.toplevel.2bit
+241165454 haemcode/blood/BigWig/mm10/STAT3_GSE40918_Th17_wt_T_Cells.bw
+241796650 haemcode/blood/BigWig/mm10/Etv6_GSE40918_Th17_wt_48h_T_Cells.bw_0.0.1.RData
+ 24240457 haemcode/blood/BigWig/mm10/AF9_GSM846042_MLL.bw_0.0.1.RData
+  2424832 EuPathDB/TxDb/3.9/TxDb.Leishmania.aethiopica.L147.TriTrypDB.v42.sqlite
+  2428928 EuPathDB/TxDb/3.9/TxDb.Giardia.Assemblage.A.isolate.WB.GiardiaDB.v42.sqlite
+  2433024 EuPathDB/TxDb/3.9/TxDb.Plasmodium.vinckei.petteri.CR.PlasmoDB.v42.sqlite
+  2445126 goldenpath/rn4/database/chainNetAilMel1_0.0.1.RData
+   245155 goldenpath/triMan1/database/cpgIslandExt_0.0.1.RData
+245284635 haemcode/blood/BigWig/mm10/p300_GSM1004848_Th17_IRF4_--_48h_T_Cells.bw
+    24529 ensembl/release-93/fasta/xiphophorus_maculatus/ncrna/Xiphophorus_maculatus.Xipmac4.4.2.ncrna.2bit
+  2453504 EuPathDB/TxDb/3.9/TxDb.Leishmania.tropica.L590.TriTrypDB.v42.sqlite
+  2463504 goldenpath/papAnu2/database/intronEst_0.0.1.RData
+  2464943 goldenpath/taeGut1/database/est_0.0.1.RData
+   246588 ensembl/release-74/fasta/oryzias_latipes/dna/Oryzias_latipes.MEDAKA1.74.dna_rm.toplevel.fa.rz.fai
+   246588 ensembl/release-74/fasta/oryzias_latipes/dna/Oryzias_latipes.MEDAKA1.74.dna_sm.toplevel.fa.rz.fai
+247005184 AHEnsDbs/v101/EnsDb.Lcalcarifer.v101.sqlite
+  2473984 EuPathDB/TxDb/3.9/TxDb.Entamoeba.dispar.SAW760.AmoebaDB.v42.sqlite
+  2473984 EuPathDB/TxDb/3.9/TxDb.Leishmania.major.SD.75.1.TriTrypDB.v42.sqlite
+  2473984 EuPathDB/TxDb/3.9/TxDb.Schizosaccharomyces.pombe.972h.FungiDB.v42.sqlite
+   247573 ensembl/release-103/fasta/dipodomys_ordii/ncrna/Dipodomys_ordii.Dord_2.0.ncrna.2bit
+248200167 haemcode/blood/BigWig/mm10/A500005_Erg.bw
+  2482176 EuPathDB/TxDb/3.9/TxDb.Leishmania.donovani.CL.SL.TriTrypDB.v42.sqlite
+  2485831 goldenpath/rheMac3/database/gap_0.0.1.RData
+  2487097 goldenpath/petMar1/database/chainNetGalGal3_0.0.1.RData
+ 24914044 haemcode/blood/BigWig/mm10/Gata3_GSM523223_CD4_T-Cells.bw
+249421278 haemcode/blood/BigWig/mm10/Max_GSM912919_MEL.bw
+249778117 haemcode/blood/BigWig/mm10/IRF4_GSM1004821_48h_Th0_Batf++_T_Cells.bw
+  2502227 goldenpath/tupBel1/database/cpgIslandExt_0.0.1.RData
+ 25034827 ensembl/release-95/fasta/anabas_testudineus/cdna/Anabas_testudineus.fAnaTes1.1.cdna.all.2bit
+250645011 ensembl/release-94/fasta/acanthochromis_polyacanthus/dna/Acanthochromis_polyacanthus.ASM210954v1.dna_sm.toplevel.2bit
+251706682 haemcode/blood/BigWig/mm10/IRF4_GSM1004838_Th17_Batf_ko_T_Cells.bw
+251917948 haemcode/blood/BigWig/mm10/Foxp3_GSE40684_Treg_T-Cells.bw
+ 25198921 ensembl/release-104/fasta/pan_paniscus/cdna/Pan_paniscus.panpan1.1.cdna.all.2bit
+  2524908 goldenpath/xenTro3/database/nestedRepeats_0.0.1.RData
+  2527232 EuPathDB/TxDb/3.9/TxDb.Paratrypanosoma.confusum.CUL13.TriTrypDB.v42.sqlite
+253157221 haemcode/blood/BigWig/mm10/Runx1_GSM832311_Induced_MK-Prog.bw_0.0.1.RData
+ 25327692 goldenpath/vicPac1/database/rmsk_0.0.1.RData
+ 25361388 goldenpath/sorAra1/database/rmsk_0.0.1.RData
+ 25431258 ensembl/release-94/fasta/acanthochromis_polyacanthus/cdna/Acanthochromis_polyacanthus.ASM210954v1.cdna.all.2bit
+254388734 haemcode/blood/BigWig/mm10/PU.1_GSE38377_UT_BMDM.bw_0.0.1.RData
+  2547712 EuPathDB/TxDb/3.9/TxDb.Leishmania.gerbilli.LEM452.TriTrypDB.v42.sqlite
+  2551808 EuPathDB/TxDb/3.9/TxDb.Leishmania.major.LV39c5.TriTrypDB.v42.sqlite
+255199177 haemcode/blood/BigWig/mm10/IRF4_GSM1004826_Th0_Batf_ko_T_Cells.bw
+  2553022 goldenpath/sorAra1/database/ensemblGeneScaffold_0.0.1.RData
+  2568061 goldenpath/strPur2/database/intronEst_0.0.1.RData
+ 25720154 haemcode/blood/BigWig/mm10/Runx1_GSM552241_MPP_HPC7.bw_0.0.1.RData
+  2572288 EuPathDB/TxDb/3.9/TxDb.Plasmodium.inui.San.Antonio.1.PlasmoDB.v42.sqlite
+  2580480 EuPathDB/TxDb/3.9/TxDb.Leishmania.turanica.LEM423.TriTrypDB.v42.sqlite
+  2582674 goldenpath/tetNig2/database/mrna_0.0.1.RData
+258526995 haemcode/blood/BigWig/mm10/p300_GSM912893_MEL.bw
+    25861 ensembl/release-94/fasta/poecilia_reticulata/ncrna/Poecilia_reticulata.Guppy_female_1.0_MT.ncrna.2bit
+  2588672 EuPathDB/TxDb/3.9/TxDb.Theileria.equi.WA.PiroplasmaDB.v42.sqlite
+259316095 haemcode/blood/BigWig/mm10/p300_GSM1004845_Th17_Batf_++_48h_T_Cells.bw
+259714007 haemcode/blood/BigWig/mm10/PU.1_GSM940931_TGFb1_4h_BMDM.bw
+260012165 ensembl/release-95/fasta/cyprinodon_variegatus/dna/Cyprinodon_variegatus.C_variegatus-1.0.dna_sm.toplevel.2bit
+260367277 haemcode/blood/BigWig/mm10/PU.1_GSM940932_IL1b_4h_BMDM.bw
+  2605056 EuPathDB/TxDb/3.9/TxDb.Theileria.parva.Muguga.PiroplasmaDB.v42.sqlite
+262205827 haemcode/blood/BigWig/mm10/Ets1_GSM777093_G1ME_MK-Prog.bw_0.0.1.RData
+263279064 haemcode/blood/BigWig/mm10/p300_GSE40918_Th0_wt_T_Cells.bw_0.0.1.RData
+ 26335300 haemcode/blood/BigWig/mm10/Oct2_GSM537990_B-Cells.bw
+263760091 ensembl/release-94/fasta/acanthochromis_polyacanthus/dna/Acanthochromis_polyacanthus.ASM210954v1.dna_rm.toplevel.2bit
+265008923 haemcode/blood/BigWig/mm10/IRF4_GSM1004837_Th17_Batf_wt_T_Cells.bw
+  2650112 EuPathDB/TxDb/3.9/TxDb.Leishmania.arabica.LEM1108.TriTrypDB.v42.sqlite
+ 26517779 haemcode/blood/BigWig/mm10/Gata3_GSM523230_nTreg_T-Cells.bw
+265231821 haemcode/blood/BigWig/mm10/PU.1_GSM940929__IL4_4h_BMDM.bw
+   265282 goldenpath/tetNig2/database/cpgIslandExt_0.0.1.RData
+  2654208 EuPathDB/TxDb/3.9/TxDb.Leishmania.braziliensis.MHOMBR75M2903.TriTrypDB.v42.sqlite
+265531777 haemcode/blood/BigWig/mm10/PU.1_GSM940928_IFNg_4h_BMDM.bw
+  2672822 goldenpath/rn5/database/mrna_0.0.1.RData
+268439552 AHEnsDbs/v99/EnsDb.Charengus.v99.sqlite
+  2686976 EuPathDB/TxDb/3.9/TxDb.Leishmania.enriettii.LEM3045.TriTrypDB.v42.sqlite
+269262848 AHEnsDbs/v105/EnsDb.Charengus.v105.sqlite
+  2695168 EuPathDB/TxDb/3.9/TxDb.Leishmania.sp.MAR.LEM2494.TriTrypDB.v42.sqlite
+269574144 AHEnsDbs/v104/EnsDb.Charengus.v104.sqlite
+  2697638 goldenpath/vicPac1/database/ensGene_0.0.1.RData
+  2703360 EuPathDB/TxDb/3.9/TxDb.Leptomonas.pyrrhocoris.H10.TriTrypDB.v42.sqlite
+270399935 haemcode/blood/BigWig/mm10/PU.1_GSM940930_TNFa_4h_BMDM.bw
+271255572 haemcode/blood/BigWig/mm10/PU1_GSM1031977_MSCVIRF8_Day3_Tot2_Myeloid.bw
+271383130 haemcode/blood/BigWig/mm10/PU.1_GSM940934_CpG_BMDM.bw
+   271500 haemcode/blood/Peaks/mm10/BatF_GSE40918_Th0_IRF4_wt_48h_T_Cells.bed
+  2727936 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.IT.PlasmoDB.v42.sqlite
+ 27285294 ensembl/release-95/fasta/pygocentrus_nattereri/cdna/Pygocentrus_nattereri.Pygocentrus_nattereri-1.0.2.cdna.all.2bit
+     2731 goldenpath/rn3/database/recombRateRat_0.0.1.RData
+  2732032 EuPathDB/TxDb/3.9/TxDb.Plasmodium.fragile.nilgiri.PlasmoDB.v42.sqlite
+273428730 haemcode/blood/BigWig/mm10/CTCF_GSE40918_Th0_wt_T_Cells.bw
+273450742 haemcode/blood/BigWig/mm10/PU.1_GSM940933_MALP2_BMDM.bw
+  2740224 EuPathDB/TxDb/3.9/TxDb.Plasmodium.chabaudi.chabaudi.PlasmoDB.v42.sqlite
+  2740224 EuPathDB/TxDb/3.9/TxDb.Plasmodium.knowlesi.H.PlasmoDB.v42.sqlite
+274255380 haemcode/blood/BigWig/mm10/A500002_Erg.bw
+  2744320 EuPathDB/TxDb/3.9/TxDb.Plasmodium.gaboni.SY75.PlasmoDB.v42.sqlite
+275452608 haemcode/blood/BigWig/mm10/FoxO1_GSM860926_Pre-B-Cells.bw_0.0.1.RData
+  2764800 EuPathDB/TxDb/3.9/TxDb.Plasmodium.berghei.ANKA.PlasmoDB.v42.sqlite
+277265331 haemcode/blood/BigWig/mm10/STAT3_GSE40918_Th17_RORg_ko_T_Cells.bw_0.0.1.RData
+277668357 haemcode/blood/BigWig/mm10/A500004_IgG.bw
+278361397 ensembl/release-95/fasta/cyprinodon_variegatus/dna/Cyprinodon_variegatus.C_variegatus-1.0.dna_rm.toplevel.2bit
+  2785280 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.Dd2.PlasmoDB.v42.sqlite
+278736896 AHEnsDbs/v105/EnsDb.Gmorhua.v105.sqlite
+278915210 haemcode/blood/BigWig/mm10/IRF4_GSM1004829_Th17_Batf_++_48h_T_Cells.bw
+  2789376 EuPathDB/TxDb/3.9/TxDb.Plasmodium.vivax.Sal.1.PlasmoDB.v42.sqlite
+279060480 AHEnsDbs/v104/EnsDb.Gmorhua.v104.sqlite
+  2797568 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.HB3.PlasmoDB.v42.sqlite
+279913113 ensembl/release-93/fasta/anas_platyrhynchos/dna/Anas_platyrhynchos.BGI_duck_1.0.dna_sm.toplevel.2bit
+ 28051951 goldenpath/rn3/database/est_0.0.1.RData
+  2809856 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.7G8.PlasmoDB.v42.sqlite
+  2809856 EuPathDB/TxDb/3.9/TxDb.Plasmodium.gaboni.G01.PlasmoDB.v42.sqlite
+  2811353 goldenpath/rheMac3/database/chainNetCalJac3_0.0.1.RData
+ 28123809 haemcode/blood/BigWig/mm10/PU1_GSM552240_MPP_HPC7.bw
+  2813952 EuPathDB/TxDb/3.9/TxDb.Plasmodium.cynomolgi.B.PlasmoDB.v42.sqlite
+  2818048 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.3D7.PlasmoDB.v42.sqlite
+282393561 haemcode/blood/BigWig/mm10/Ldb1_GSM1055553_Flk1+_BL-CFCs.bw
+282669056 AHEnsDbs/v101/EnsDb.Lcrocea.v101.sqlite
+ 28286404 goldenpath/rn4/database/est_0.0.1.RData
+ 28323190 goldenpath/xenTro1/database/chainNetDanRer1_0.0.1.RData
+  2838528 EuPathDB/TxDb/3.9/TxDb.Plasmodium.relictum.SGS1.like.PlasmoDB.v42.sqlite
+284081385 haemcode/blood/BigWig/mm10/p300_GSE40463_WT_Th2_T_Cells.bw_0.0.1.RData
+284301332 ensembl/release-103/fasta/lepidothrix_coronata/dna/Lepidothrix_coronata.Lepidothrix_coronata-1.0.dna_rm.toplevel.2bit
+ 28438199 goldenpath/rn5/database/est_0.0.1.RData
+284665465 haemcode/blood/BigWig/mm10/p300_GSE40918_Th17_wt_T_Cells.bw
+284786475 haemcode/blood/BigWig/mm10/Pax5_GSE38046_Pro-B-Cells.bw
+   284869 goldenpath/speTri2/database/cpgIslandExt_0.0.1.RData
+ 28488483 haemcode/blood/BigWig/mm10/Runx1_GSM832319_alt_ab_MK-Prog.bw
+  2856068 goldenpath/rn4/database/bacEndPairs_0.0.1.RData
+285762946 haemcode/blood/BigWig/mm10/Etv6_GSE40918_Th17_wt_48h_T_Cells.bw
+  2867843 goldenpath/rn3/database/bacEndPairs_0.0.1.RData
+    28732 ensembl/release-95/fasta/cyprinodon_variegatus/ncrna/Cyprinodon_variegatus.C_variegatus-1.0.ncrna.2bit
+   287490 goldenpath/susScr3/database/refGene_0.0.1.RData
+  2879488 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.CD01.PlasmoDB.v42.sqlite
+  2879488 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.GB4.PlasmoDB.v42.sqlite
+  2879488 EuPathDB/TxDb/3.9/TxDb.Plasmodium.reichenowi.G01.PlasmoDB.v42.sqlite
+  2883584 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.SD01.PlasmoDB.v42.sqlite
+  2887680 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.KE01.PlasmoDB.v42.sqlite
+  2893387 goldenpath/priPac1/database/chainCaePb1_0.0.1.RData
+ 28944421 goldenpath/xenTro3/database/chainNetMonDom5_0.0.1.RData
+ 28944631 goldenpath/xenTro2/database/chainNetMonDom4_0.0.1.RData
+   290301 goldenpath/priPac1/database/chainCb3_0.0.1.RData
+  2908160 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.KH02.PlasmoDB.v42.sqlite
+290830580 haemcode/blood/BigWig/mm10/STAT3_GSE40918_Th17_RORg_wt_T_Cells.bw_0.0.1.RData
+ 29129399 goldenpath/tupBel1/database/rmsk_0.0.1.RData
+  2916352 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.GA01.PlasmoDB.v42.sqlite
+  2916352 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.SN01.PlasmoDB.v42.sqlite
+ 29206394 haemcode/blood/BigWig/mm10/IRF4_GSM978750_GA05L5_WT_noIL21_CD4-Cells.bw_0.0.1.RData
+292076298 haemcode/blood/BigWig/mm10/Scl_GSE30142_G1E_Erythroid.bw
+ 29229233 haemcode/blood/BigWig/mm10/Eto2_ERA000161_Uninduced_Erythroid_MEL.bw_0.0.1.RData
+  2928640 EuPathDB/TxDb/3.9/TxDb.Theileria.orientalis.Shintoku.PiroplasmaDB.v42.sqlite
+ 29383686 haemcode/blood/BigWig/mm10/GATA-1_Ab11835_Ter119+_Differentiated_Erythrocytes.bw_0.0.1.RData
+ 29478912 EuPathDB/OrgDb/3.8/org.Entamoeba_histolytica_HM-1:IMSS.amoeba.db.sqlite
+   294989 ensembl/release-95/fasta/pteropus_vampyrus/ncrna/Pteropus_vampyrus.pteVam1.ncrna.2bit
+  2953216 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.GN01.PlasmoDB.v42.sqlite
+  2953216 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.KH01.PlasmoDB.v42.sqlite
+ 29569199 haemcode/blood/BigWig/mm10/GSM1165493_Klf1.bw
+    29681 ensembl/release-95/fasta/cynoglossus_semilaevis/ncrna/Cynoglossus_semilaevis.Cse_v1.0.ncrna.2bit
+ 29688480 goldenpath/proCap1/database/rmsk_0.0.1.RData
+  2969600 EuPathDB/TxDb/3.9/TxDb.Plasmodium.yoelii.yoelii.YM.PlasmoDB.v42.sqlite
+297278022 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th0_wt_T_Cells.bw_0.0.1.RData
+ 29803196 haemcode/blood/BigWig/mm10/PU1_GSM487450_Macrophages.bw_0.0.1.RData
+ 29837705 haemcode/blood/BigWig/mm10/CTCF_GSM1023418_Rag1--_DP_Thymocytes.bw_0.0.1.RData
+298594686 haemcode/blood/BigWig/mm10/Runx1_GSM832311_Induced_MK-Prog.bw
+  2989056 ncbi/uniprot/3.2/org.Escherichia_coli_O83:H1_str._NRG_857C.eg.sqlite
+  2989056 ncbi/uniprot/org.Escherichia_coli_O83:H1_str._NRG_857C.eg.sqlite
+  2989411 goldenpath/papHam1/database/mrna_0.0.1.RData
+299115356 haemcode/blood/BigWig/mm10/CBFb_GSM832312_Induced_MK.bw_0.0.1.RData
+   299690 goldenpath/panTro3/database/refGene_0.0.1.RData
+300187648 AHEnsDbs/v100/EnsDb.Saurata.v100.sqlite
+   301004 goldenpath/panTro4/database/refGene_0.0.1.RData
+301178880 AHEnsDbs/v99/EnsDb.Sformosus.v99.sqlite
+301182976 AHEnsDbs/v100/EnsDb.Sformosus.v100.sqlite
+  3014656 EuPathDB/TxDb/3.9/TxDb.Plasmodium.yoelii.yoelii.17XNL.PlasmoDB.v42.sqlite
+     3024 haemcode/blood/Peaks/mm10/AF9_GSM846042_MLL.bed_0.0.1.RData
+  3035136 EuPathDB/TxDb/3.9/TxDb.Plasmodium.coatneyi.Hackeri.PlasmoDB.v42.sqlite
+ 30384597 haemcode/blood/BigWig/mm10/Ldb1_GSM641909_HPC.bw
+   304798 pride/data/archive/2012/03/PXD000001//F063721.dat-mztab.txt
+  3048043 goldenpath/rheMac2/database/chainNetGorGor3_0.0.1.RData
+  3052321 goldenpath/xenTro3/database/chainNetGalGal3_0.0.1.RData
+ 30546373 haemcode/blood/BigWig/mm10/PU1_GSM487451_Activated_Macrophages.bw_0.0.1.RData
+305692875 haemcode/blood/BigWig/mm10/p300_GSE40463_WT_Th1_T_Cells.bw_0.0.1.RData
+  3059712 EuPathDB/TxDb/3.9/TxDb.Plasmodium.billcollinsi.G01.PlasmoDB.v42.sqlite
+ 30616616 haemcode/blood/BigWig/mm10/Meis1_GSE33518_Myeloblastic_bone_marrow.bw_0.0.1.RData
+307574283 haemcode/blood/BigWig/mm10/Ikaros_GSE38200_endogenous_Primary_Pre_B_Cells.bw
+307751218 haemcode/blood/BigWig/mm10/p300_GSE40918_Th0_wt_T_Cells.bw
+   308025 goldenpath/sarHar1/database/mrna_0.0.1.RData
+  3100672 EuPathDB/TxDb/3.9/TxDb.Plasmodium.reichenowi.CDC.PlasmoDB.v42.sqlite
+312034115 ensembl/release-101/fasta/otus_sunia/dna/Otus_sunia.OtuSun1.0.dna_sm.toplevel.2bit
+312034115 ensembl/release-105/fasta/otus_sunia/dna/Otus_sunia.OtuSun1.0.dna_sm.toplevel.2bit
+  3127337 goldenpath/petMar1/database/gold_0.0.1.RData
+   312983 goldenpath/rheMac2/database/refGene_0.0.1.RData
+  3133440 EuPathDB/TxDb/3.9/TxDb.Plasmodium.knowlesi.Malayan.Strain.Pk1.A.PlasmoDB.v42.sqlite
+ 31465083 goldenpath/xenTro2/database/chainNetDanRer7_0.0.1.RData
+     3157 goldenpath/rn3/database/cytoBand_0.0.1.RData
+ 31618468 goldenpath/xenTro3/database/chainNetDanRer7_0.0.1.RData
+317111376 haemcode/blood/BigWig/mm10/Ets1_GSM777093_G1ME_MK-Prog.bw
+ 31778376 haemcode/blood/BigWig/mm10/PU1_GSM537983_Macrophages.bw
+  3183920 goldenpath/strPur1/database/mrna_0.0.1.RData
+  3186542 goldenpath/pteVam1/database/simpleRepeat_0.0.1.RData
+  3190784 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.TG01.PlasmoDB.v42.sqlite
+319959040 AHEnsDbs/v101/EnsDb.Oniloticus.v101.sqlite
+  3225719 goldenpath/papHam1/database/cpgIslandExt_0.0.1.RData
+322756608 AHEnsDbs/v99/EnsDb.Hhucho.v99.sqlite
+  3231744 EuPathDB/TxDb/3.9/TxDb.Plasmodium.yoelii.yoelii.17X.PlasmoDB.v42.sqlite
+324456448 AHEnsDbs/v105/EnsDb.Hhucho.v105.sqlite
+324655052 haemcode/blood/BigWig/mm10/STAT3_GSE40918_Th17_RORg_ko_T_Cells.bw
+  3258752 goldenpath/sorAra1/database/ensGene_0.0.1.RData
+   326034 goldenpath/sacCer1/database/phastConsElements_0.0.1.RData
+327051011 ensembl/release-101/fasta/otus_sunia/dna/Otus_sunia.OtuSun1.0.dna_rm.toplevel.2bit
+327051011 ensembl/release-105/fasta/otus_sunia/dna/Otus_sunia.OtuSun1.0.dna_rm.toplevel.2bit
+  3282820 goldenpath/rheMac3/database/chainNetPanTro4_0.0.1.RData
+ 32852013 haemcode/blood/BigWig/mm10/Gata1_ERA000161_Induced_Erythroid_MEL.bw_0.0.1.RData
+ 32868041 ensembl/release-95/fasta/danio_rerio/cdna/Danio_rerio.GRCz11.cdna.all.2bit
+329091273 haemcode/blood/BigWig/mm10/Hif1a_GSE40918_Th17_wt_48h_T_Cells.bw_0.0.1.RData
+329272124 haemcode/blood/BigWig/mm10/IRF4_GSE40918_Th17_RORg_ko_T_Cells.bw_0.0.1.RData
+ 32953321 haemcode/blood/BigWig/mm10/Stat3_GSM978757_GA2002_WT_withIL21_CD4-Cells.bw_0.0.1.RData
+329733192 haemcode/blood/BigWig/mm10/FoxO1_GSM860926_Pre-B-Cells.bw
+  3300422 goldenpath/proCap1/database/ensGene_0.0.1.RData
+  3317760 EuPathDB/TxDb/3.9/TxDb.Plasmodium.falciparum.ML01.PlasmoDB.v42.sqlite
+ 33339809 goldenpath/xenTro3/database/est_0.0.1.RData
+335167488 AHEnsDbs/v104/EnsDb.Ccarpio.v104.sqlite
+ 33552037 haemcode/blood/BigWig/mm10/PU1_GSM537989_B-Cells.bw
+  3357898 goldenpath/turTru2/database/gap_0.0.1.RData
+  3364507 goldenpath/xenTro2/database/simpleRepeat_0.0.1.RData
+  3365223 refnet/refnet backup /stamlabTFs-2012.tsv_0.0.1.RData
+ 33706997 haemcode/blood/BigWig/mm10/Gata3_GSM523225_Th1_T-Cells.bw_0.0.1.RData
+     3373 goldenpath/taeGut1/database/tRNAs_0.0.1.RData
+337710230 haemcode/blood/BigWig/mm10/p300_GSE40463_WT_Th2_T_Cells.bw
+  3390162 ensembl/release-91/fasta/mus_musculus_wsbeij/ncrna/Mus_musculus_wsbeij.WSB_EiJ_v1.ncrna.2bit
+  3393215 goldenpath/petMar1/database/chainNetHg19_0.0.1.RData
+339537223 haemcode/blood/BigWig/mm10/STAT3_GSE40918_Th17_RORg_wt_T_Cells.bw
+341185218 haemcode/blood/BigWig/mm10/PU.1_GSE38377_UT_BMDM.bw
+  3416064 EuPathDB/TxDb/3.9/TxDb.Plasmodium.cynomolgi.M.PlasmoDB.v42.sqlite
+ 34196974 haemcode/blood/BigWig/mm10/HoxB4_GSM840466_day6_ES-Cells.bw_0.0.1.RData
+342029840 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th17_IRF4_wt_48h_T_Cells.bw_0.0.1.RData
+342526491 haemcode/blood/BigWig/mm10/GSM1103355_Runx1.bw_0.0.1.RData
+ 34287620 goldenpath/rn3/database/chainNetCanFam2_0.0.1.RData
+    34634 ensembl/release-94/fasta/acanthochromis_polyacanthus/ncrna/Acanthochromis_polyacanthus.ASM210954v1.ncrna.2bit
+  3465723 goldenpath/panTro4/database/chainNetRheMac3_0.0.1.RData
+346758734 haemcode/blood/BigWig/mm10/CBFb_GSM832312_Induced_MK.bw
+ 34710256 goldenpath/xenTro2/database/est_0.0.1.RData
+   347176 ensembl/release-103/fasta/sorex_araneus/ncrna/Sorex_araneus.COMMON_SHREW1.ncrna.2bit
+ 34900966 haemcode/blood/BigWig/mm10/Gata3_GSM523224_CD8_T-Cells.bw
+  3513009 goldenpath/susScr2/database/simpleRepeat_0.0.1.RData
+351649078 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th0_wt_T_Cells.bw
+  3520023 goldenpath/xenTro1/database/simpleRepeat_0.0.1.RData
+  3523310 goldenpath/pteVam1/database/gold_0.0.1.RData
+ 35337586 ensembl/release-100/fasta/sus_scrofa_usmarc/cdna/Sus_scrofa_usmarc.USMARCv1.0.cdna.all.2bit
+353999981 haemcode/blood/BigWig/mm10/HA-Ikaros_GSE38200_epitope-tagged_Pre_B_Cell.bw_0.0.1.RData
+  3543040 EuPathDB/TxDb/3.9/TxDb.Plasmodium.vivax.P01.PlasmoDB.v42.sqlite
+ 35440124 goldenpath/susScr3/database/est_0.0.1.RData
+355002232 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th0_IRF4_wt_48h_T_Cells.bw_0.0.1.RData
+355827712 AHEnsDbs/v105/EnsDb.Hsapiens.v105.sqlite
+   357676 goldenpath/ponAbe2/database/mrna_0.0.1.RData
+ 36053117 haemcode/blood/BigWig/mm10/CTCF_GSM672400_DP-T-Cells.bw_0.0.1.RData
+   360854 goldenpath/susScr3/database/cpgIslandExt_0.0.1.RData
+ 36097202 haemcode/blood/BigWig/mm10/CEBPb_GSM537985_Macrophages.bw
+361360702 haemcode/blood/BigWig/mm10/Ring1b_GSM832313_Induced_MK-Prog.bw_0.0.1.RData
+362014375 haemcode/blood/BigWig/mm10/p300_GSE40463_WT_Th1_T_Cells.bw
+  3620864 EuPathDB/TxDb/3.9/TxDb.Entamoeba.invadens.IP1.AmoebaDB.v42.sqlite
+ 36358343 goldenpath/xenTro1/database/est_0.0.1.RData
+ 36364178 haemcode/blood/BigWig/mm10/E2A_GSM546523_Pro-B-Cells.bw_0.0.1.RData
+363932544 haemcode/blood/BigWig/mm10/Fosl2_GSE40918_Th17_wt_T_Cells.bw_0.0.1.RData
+   363933 goldenpath/rn4/database/stsMapRat_0.0.1.RData
+  3645440 EuPathDB/TxDb/3.9/TxDb.Plasmodium.malariae.UG01.PlasmoDB.v42.sqlite
+  3645440 EuPathDB/TxDb/3.9/TxDb.Pneumocystis.jirovecii.SE8.FungiDB.v42.sqlite
+ 36738194 haemcode/blood/BigWig/mm10/JunB_GSM1022318_UT_BMDM.bw
+   367515 goldenpath/priPac1/database/rmsk_0.0.1.RData
+ 36831984 haemcode/blood/BigWig/mm10/CTCF_GSM1023416_Rag1--_DN_Thymocytes.bw
+    36835 ensembl/release-96/fasta/seriola_dumerili/ncrna/Seriola_dumerili.Sdu_1.0.ncrna.2bit
+368962124 haemcode/blood/BigWig/mm10/IRF4_GSE40918_Th17_RORg_wt_T_Cells.bw_0.0.1.RData
+369909834 haemcode/blood/BigWig/mm10/RORg_GSE40918_Th17_wt_T_Cells.bw_0.0.1.RData
+  3704067 goldenpath/ponAbe2/database/chainNetCalJac3_0.0.1.RData
+ 37139456 ncbi/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+  3715072 EuPathDB/TxDb/3.9/TxDb.Plasmodium.gallinaceum.8A.PlasmoDB.v42.sqlite
+ 37280471 haemcode/blood/BigWig/mm10/IRF4_GSM978768_WJL2012_094_Th17-Cells.bw_0.0.1.RData
+  3753019 goldenpath/ponAbe2/database/gold_0.0.1.RData
+ 37693007 haemcode/blood/BigWig/mm10/AF9_GSM846042_MLL.bw
+379638930 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th17_wt_T_Cells.bw_0.0.1.RData
+ 37985249 goldenpath/susScr2/database/rmsk_0.0.1.RData
+ 38167928 haemcode/blood/BigWig/mm10/CEBPa_GSM537984_Macrophages.bw
+ 38203392 AHEnsDbs/v103/EnsDb.Pmarinus.v103.sqlite
+382153394 ensembl/release-103/fasta/cyprinus_carpio_germanmirror/dna/Cyprinus_carpio_german_mirror.German_Mirror_carp_1.0.dna_rm.toplevel.2bit
+ 38301185 haemcode/blood/BigWig/mm10/CTCF_GSM1023420_Rag1--_Pro_B_Cells.bw_0.0.1.RData
+ 38352161 haemcode/blood/BigWig/mm10/Stat3_GSM978772_WJL2012_098_Th17-Cells.bw_0.0.1.RData
+   383674 ensembl/release-95/fasta/propithecus_coquereli/ncrna/Propithecus_coquereli.Pcoq_1.0.ncrna.2bit
+    38417 haemcode/blood/Peaks/mm10/BatF_GSE40918_Th0_IRF4_ko_48h_T_Cells.bed_0.0.1.RData
+    38596 ensembl/release-93/fasta/anas_platyrhynchos/ncrna/Anas_platyrhynchos.BGI_duck_1.0.ncrna.2bit
+   385991 goldenpath/rn4/database/affyU34A_0.0.1.RData
+386007497 haemcode/blood/BigWig/mm10/IRF4_GSE40918_Th17_RORg_ko_T_Cells.bw
+  3870720 EuPathDB/TxDb/3.9/TxDb.Sporothrix.brasiliensis.5110.FungiDB.v42.sqlite
+387170304 AHEnsDbs/v99/EnsDb.Hsapiens.v99.sqlite
+  3871929 goldenpath/vicPac1/database/simpleRepeat_0.0.1.RData
+    38742 ensembl/release-74/fasta/oryzias_latipes/ncrna/Oryzias_latipes.MEDAKA1.74.ncrna.fa.gz
+387833856 AHEnsDbs/v101/EnsDb.Srhinocerous.v101.sqlite
+   387864 goldenpath/rn3/database/gnfAtlas2_0.0.1.RData
+  3881062 goldenpath/vicPac1/database/gap_0.0.1.RData
+  3890585 goldenpath/strPur1/database/simpleRepeat_0.0.1.RData
+ 38947356 goldenpath/speTri2/database/rmsk_0.0.1.RData
+       38 goldenpath/panTro4
+       38 goldenpath/panTro4/database
+       38 goldenpath/papAnu2
+       38 goldenpath/papAnu2/database
+       38 goldenpath/papHam1
+       38 goldenpath/papHam1/database
+       38 goldenpath/petMar1
+       38 goldenpath/petMar1/database
+       38 goldenpath/petMar2
+       38 goldenpath/petMar2/database
+       38 goldenpath/ponAbe2
+       38 goldenpath/ponAbe2/database
+       38 goldenpath/priPac1
+       38 goldenpath/priPac1/database
+       38 goldenpath/proCap1
+       38 goldenpath/proCap1/database
+       38 goldenpath/pteVam1
+       38 goldenpath/pteVam1/database
+       38 goldenpath/rheMac2
+       38 goldenpath/rheMac2/database
+       38 goldenpath/rheMac3
+       38 goldenpath/rheMac3/database
+       38 goldenpath/rn3
+       38 goldenpath/rn3/database
+       38 goldenpath/rn4
+       38 goldenpath/rn4/database
+       38 goldenpath/rn5
+       38 goldenpath/rn5/database
+       38 goldenpath/sacCer1
+       38 goldenpath/sacCer1/database
+       38 goldenpath/sacCer2
+       38 goldenpath/sacCer2/database
+       38 goldenpath/sacCer3
+       38 goldenpath/sacCer3/database
+       38 goldenpath/saiBol1
+       38 goldenpath/saiBol1/database
+       38 goldenpath/sarHar1
+       38 goldenpath/sarHar1/database
+       38 goldenpath/sorAra1
+       38 goldenpath/sorAra1/database
+       38 goldenpath/speTri2
+       38 goldenpath/speTri2/database
+       38 goldenpath/strPur1
+       38 goldenpath/strPur1/database
+       38 goldenpath/strPur2
+       38 goldenpath/strPur2/database
+       38 goldenpath/susScr2
+       38 goldenpath/susScr2/database
+       38 goldenpath/susScr3
+       38 goldenpath/susScr3/database
+       38 goldenpath/taeGut1
+       38 goldenpath/taeGut1/database
+       38 goldenpath/tetNig1
+       38 goldenpath/tetNig1/database
+       38 goldenpath/tetNig2
+       38 goldenpath/tetNig2/database
+       38 goldenpath/triMan1
+       38 goldenpath/triMan1/database
+       38 goldenpath/tupBel1
+       38 goldenpath/tupBel1/database
+       38 goldenpath/turTru2
+       38 goldenpath/turTru2/database
+       38 goldenpath/vicPac1
+       38 goldenpath/vicPac1/database
+       38 goldenpath/xenTro1
+       38 goldenpath/xenTro1/database
+       38 goldenpath/xenTro2
+       38 goldenpath/xenTro2/database
+       38 goldenpath/xenTro3
+       38 goldenpath/xenTro3/database
+       38 haemcode/blood
+       38 haemcode/blood/BigWig
+       38 haemcode/blood/BigWig/mm10
+       38 haemcode/blood/Peaks
+       38 haemcode/blood/Peaks/mm10
+  3909710 goldenpath/petMar1/database/xenoRefGene_0.0.1.RData
+393405141 ensembl/release-101/fasta/laticauda_laticaudata/dna/Laticauda_laticaudata.latLat_1.0.dna_sm.toplevel.2bit
+393405141 ensembl/release-105/fasta/laticauda_laticaudata/dna/Laticauda_laticaudata.latLat_1.0.dna_sm.toplevel.2bit
+393609137 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th0_IRF4_ko_48h_T_Cells.bw_0.0.1.RData
+ 39660684 goldenpath/turTru2/database/rmsk_0.0.1.RData
+   396732 goldenpath/panTro4/database/mrna_0.0.1.RData
+  3984224 goldenpath/tetNig2/database/chainNetDanRer7_0.0.1.RData
+  3984285 goldenpath/sorAra1/database/genscan_0.0.1.RData
+ 39858554 haemcode/blood/BigWig/mm10/Gata3_GSM523221_DN_T-Cells.bw_0.0.1.RData
+399106611 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th17_IRF4_wt_48h_T_Cells.bw
+ 40019022 haemcode/blood/BigWig/mm10/Runx1_GSM552241_MPP_HPC7.bw
+400386849 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th17_IRF4_ko_48h_T_Cells.bw_0.0.1.RData
+  4010587 goldenpath/xenTro3/database/simpleRepeat_0.0.1.RData
+ 40235734 haemcode/blood/BigWig/mm10/Hoxa_GSE33518_Myeloblastic_bone_marrow.bw_0.0.1.RData
+    40253 haemcode/blood/Peaks/mm10/IRF4_GSM1004821_48h_Th0_Batf++_T_Cells.bed_0.0.1.RData
+ 40258818 ensembl/release-102/fasta/lates_calcarifer/cdna/Lates_calcarifer.ASB_HGAPassembly_v1.cdna.all.2bit
+403034840 haemcode/blood/BigWig/mm10/cMaf_GSE40918_wt_Th17_T_Cells.bw_0.0.1.RData
+ 40305844 goldenpath/rn3/database/rmsk_0.0.1.RData
+ 40618282 haemcode/blood/BigWig/mm10/GSM1131775_Foxo1.bw_0.0.1.RData
+  4067328 EuPathDB/TxDb/3.9/TxDb.Entamoeba.moshkovskii.Laredo.AmoebaDB.v42.sqlite
+ 40673397 goldenpath/rheMac3/database/chainNetPonAbe2_0.0.1.RData
+  4088871 goldenpath/petMar2/database/rmsk_0.0.1.RData
+412516352 AHEnsDbs/v100/EnsDb.Sanshuiensis.v100.sqlite
+412646228 ensembl/release-102/fasta/sinocyclocheilus_anshuiensis/dna/Sinocyclocheilus_anshuiensis.SAMN03320099.WGS_v1.1.dna_sm.toplevel.2bit
+412646228 ensembl/release-105/fasta/sinocyclocheilus_anshuiensis/dna/Sinocyclocheilus_anshuiensis.SAMN03320099.WGS_v1.1.dna_sm.toplevel.2bit
+   413367 goldenpath/rn5/database/mgcFullMrna_0.0.1.RData
+      413 haemcode/blood/Peaks/mm10/A500001_IgG.bed_0.0.1.RData
+      413 haemcode/blood/Peaks/mm10/A500004_IgG.bed_0.0.1.RData
+414953472 AHEnsDbs/v99/EnsDb.Sgrahami.v99.sqlite
+416002048 AHEnsDbs/v100/EnsDb.Sgrahami.v100.sqlite
+   416024 EuPathDB/GRanges/3.8/GRanges.Entamoeba_histolytica_HM-1:IMSS-B.amoebadb39.rda
+416778453 ensembl/release-101/fasta/laticauda_laticaudata/dna/Laticauda_laticaudata.latLat_1.0.dna_rm.toplevel.2bit
+416778453 ensembl/release-105/fasta/laticauda_laticaudata/dna/Laticauda_laticaudata.latLat_1.0.dna_rm.toplevel.2bit
+  4168705 goldenpath/strPur1/database/genscan_0.0.1.RData
+  4177920 EuPathDB/TxDb/3.9/TxDb.Sporothrix.schenckii.1099.18.FungiDB.v42.sqlite
+ 41788158 haemcode/blood/BigWig/mm10/Rag2_GSM530318_Thymocytes.bw_0.0.1.RData
+419474414 haemcode/blood/BigWig/mm10/GSM1103355_Runx1.bw
+421124435 ensembl/release-105/fasta/sinocyclocheilus_rhinocerous/dna/Sinocyclocheilus_rhinocerous.SAMN03320098_v1.1.dna_sm.toplevel.2bit
+  4211799 goldenpath/sorAra1/database/gap_0.0.1.RData
+ 42181753 goldenpath/triMan1/database/rmsk_0.0.1.RData
+422223872 AHEnsDbs/v101/EnsDb.Otshawytscha.v101.sqlite
+ 42242694 haemcode/blood/BigWig/mm10/Gata3_GSM523222_DP_T-Cells.bw_0.0.1.RData
+ 42247575 haemcode/blood/BigWig/mm10/Ldb1_ERA000161_Induced_Erythroid_MEL.bw_0.0.1.RData
+ 42250418 haemcode/blood/BigWig/mm10/Stat1_GSM1022316_tc_IFNg_1h_BMDM.bw_0.0.1.RData
+   422992 goldenpath/sacCer2/database/pubs_0.0.1.RData
+  4234961 goldenpath/petMar1/database/simpleRepeat_0.0.1.RData
+425988096 AHEnsDbs/v101/EnsDb.Omykiss.v101.sqlite
+ 42661944 ensembl/release-91/fasta/mus_pahari/cdna/Mus_pahari.PAHARI_EIJ_v1.1.cdna.all.2bit
+ 42741864 haemcode/blood/BigWig/mm10/Eto2_ERA000161_Uninduced_Erythroid_MEL.bw
+ 42863745 haemcode/blood/BigWig/mm10/Gata2_GSM722387_G1Ebmp_Erythroid-Prog.bw_0.0.1.RData
+  4303116 goldenpath/turTru2/database/genscan_0.0.1.RData
+  4304896 EuPathDB/TxDb/3.9/TxDb.Plasmodium.ovale.curtisi.GH01.PlasmoDB.v42.sqlite
+431412492 haemcode/blood/BigWig/mm10/IRF4_GSE40918_Th17_RORg_wt_T_Cells.bw
+ 43142758 goldenpath/rheMac2/database/rmsk_0.0.1.RData
+ 43239160 haemcode/blood/BigWig/mm10/IRF4_GSM978750_GA05L5_WT_noIL21_CD4-Cells.bw
+   432804 EuPathDB/GRanges/3.8/GRanges.Entamoeba_histolytica_HM-1:IMSS-A.amoebadb39.rda
+   433478 goldenpath/panTro4/database/cpgIslandExt_0.0.1.RData
+ 43364526 haemcode/blood/BigWig/mm10/BatF_GSM978767_Th17_T-Cells.bw_0.0.1.RData
+  4361530 goldenpath/vicPac1/database/genscan_0.0.1.RData
+     4362 goldenpath/rn3/database/rgdQtl_0.0.1.RData
+  4384080 goldenpath/hg19/encodeDCC/wgEncodeCshlLongRnaSeq/wgEncodeCshlLongRnaSeqNhekCellPamTranscriptGencV7.gtf_0.0.1.RData
+  4389647 goldenpath/papAnu2/database/est_0.0.1.RData
+    43948 haemcode/blood/Peaks/mm10/BatF_GSE40918_Th0_IRF4_wt_48h_T_Cells.bed_0.0.1.RData
+439804753 ensembl/release-104/fasta/sinocyclocheilus_grahami/dna/Sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.dna_sm.toplevel.2bit
+439804753 ensembl/release-105/fasta/sinocyclocheilus_grahami/dna/Sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.dna_sm.toplevel.2bit
+ 44023021 haemcode/blood/BigWig/mm10/GATA-1_Ab11835_Ter119+_Differentiated_Erythrocytes.bw
+ 44043505 goldenpath/susScr3/database/rmsk_0.0.1.RData
+   440837 goldenpath/xenTro2/database/pubs_0.0.1.RData
+  4416084 goldenpath/saiBol1/database/simpleRepeat_0.0.1.RData
+   443220 goldenpath/priPac1/database/chainCaeRem2_0.0.1.RData
+443544588 ensembl/release-102/fasta/sinocyclocheilus_anshuiensis/dna/Sinocyclocheilus_anshuiensis.SAMN03320099.WGS_v1.1.dna_rm.toplevel.2bit
+    44744 goldenpath/priPac1/database/gold_0.0.1.RData
+448001363 haemcode/blood/BigWig/mm10/Hif1a_GSE40918_Th17_wt_48h_T_Cells.bw
+  4493312 EuPathDB/TxDb/3.9/TxDb.Paracoccidioides.brasiliensis.Pb03.FungiDB.v42.sqlite
+ 45010944 AHEnsDbs/v97/EnsDb.Cintestinalis.v97.sqlite
+    45056 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.RH.ToxoDB.v42.sqlite
+450589275 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th17_wt_T_Cells.bw
+ 45076686 ensembl/release-87/fasta/mus_musculus_nzohlltj/cdna/Mus_musculus_nzohlltj.NZO_HlLtJ_v1.cdna.all.2bit
+ 45173624 haemcode/blood/BigWig/mm10/CTCF_GSM918744_Immortalized_Erythroid.bw_0.0.1.RData
+452512027 ensembl/release-104/fasta/sinocyclocheilus_rhinocerous/dna/Sinocyclocheilus_rhinocerous.SAMN03320098_v1.1.dna_rm.toplevel.2bit
+452512027 ensembl/release-105/fasta/sinocyclocheilus_rhinocerous/dna/Sinocyclocheilus_rhinocerous.SAMN03320098_v1.1.dna_rm.toplevel.2bit
+  4525678 goldenpath/ponAbe2/database/chainNetHg19_0.0.1.RData
+  4542464 EuPathDB/TxDb/3.9/TxDb.Paracoccidioides.brasiliensis.Pb18.FungiDB.v42.sqlite
+ 45461504 AHEnsDbs/v105/EnsDb.Cintestinalis.v105.sqlite
+ 45539328 AHEnsDbs/v104/EnsDb.Cintestinalis.v104.sqlite
+ 45588419 goldenpath/sorAra1/database/windowmaskerSdust_0.0.1.RData
+   456736 goldenpath/sarHar1/database/cpgIslandExt_0.0.1.RData
+ 45825403 haemcode/blood/BigWig/mm10/Mtgr1_ERA000161_Induced_Erythroid_MEL.bw_0.0.1.RData
+ 45825403 haemcode/blood/BigWig/mm10/Mtgr1_ERA000161_Uninduced_Erythroid_MEL.bw_0.0.1.RData
+  4583376 goldenpath/papHam1/database/gap_0.0.1.RData
+  4583618 goldenpath/tetNig2/database/chainNetOryLat2_0.0.1.RData
+   460359 goldenpath/taeGut1/database/gap_0.0.1.RData
+460491984 ensembl/release-93/fasta/anolis_carolinensis/dna/Anolis_carolinensis.AnoCar2.0.dna_rm.toplevel.2bit
+   463271 goldenpath/papAnu2/database/mrna_0.0.1.RData
+  4644656 goldenpath/sorAra1/database/nestedRepeats_0.0.1.RData
+ 46479751 haemcode/blood/BigWig/mm10/CEBPb_GSM989017_Uninduced_HE.bw_0.0.1.RData
+ 46523440 haemcode/blood/BigWig/mm10/Meis1_GSE33518_Myeloblastic_bone_marrow.bw
+   465968 goldenpath/rn4/database/knownGenePrevious_0.0.1.RData
+466000729 ensembl/release-102/fasta/sinocyclocheilus_grahami/dna/Sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.dna_rm.toplevel.2bit
+   466944 EuPathDB/TxDb/3.9/TxDb.Encephalitozoon.hellem.Swiss.MicrosporidiaDB.v42.sqlite
+467279539 haemcode/blood/BigWig/mm10/GSM1103356_Ep300.bw_0.0.1.RData
+  4706304 EuPathDB/TxDb/3.9/TxDb.Paracoccidioides.lutzii.Pb01.FungiDB.v42.sqlite
+470717937 ensembl/release-104/fasta/sinocyclocheilus_grahami/dna/Sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.dna_rm.toplevel.2bit
+470717937 ensembl/release-105/fasta/sinocyclocheilus_grahami/dna/Sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.dna_rm.toplevel.2bit
+ 47330678 haemcode/blood/BigWig/mm10/Stat3_GSM978757_GA2002_WT_withIL21_CD4-Cells.bw
+ 47378347 ensembl/release-102/fasta/larimichthys_crocea/cdna/Larimichthys_crocea.L_crocea_2.0.cdna.all.2bit
+   476216 goldenpath/papAnu2/database/refGene_0.0.1.RData
+ 47659460 haemcode/blood/BigWig/mm10/Gata1_GSM722390_G1ERbmp_Erythroid-Prog.bw_0.0.1.RData
+  4767212 goldenpath/ponAbe2/database/chainNetGorGor3_0.0.1.RData
+ 47708206 haemcode/blood/BigWig/mm10/Gata2_GSM641911_HPC.bw
+  4771886 goldenpath/petMar2/database/chainNetOryLat2_0.0.1.RData
+    47867 ensembl/release-95/fasta/pundamilia_nyererei/ncrna/Pundamilia_nyererei.PunNye1.0.ncrna.2bit
+ 48142869 goldenpath/rheMac3/database/rmsk_0.0.1.RData
+482788470 haemcode/blood/BigWig/mm10/HA-Ikaros_GSE38200_epitope-tagged_Pre_B_Cell.bw
+482905316 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th0_IRF4_wt_48h_T_Cells.bw
+484568127 haemcode/blood/BigWig/mm10/Ring1b_GSM832313_Induced_MK-Prog.bw
+ 48490051 goldenpath/taeGut1/database/chainNetGeoFor1_0.0.1.RData
+  4856265 goldenpath/strPur1/database/gold_0.0.1.RData
+ 48669084 haemcode/blood/BigWig/mm10/Lyl1_GSM552238_MPP_HPC7.bw_0.0.1.RData
+   488649 ensembl/release-103/fasta/pongo_abelii/ncrna/Pongo_abelii.PPYG2.ncrna.2bit
+ 48881037 haemcode/blood/BigWig/mm10/Gata1_ERA000161_Induced_Erythroid_MEL.bw
+ 49041173 haemcode/blood/BigWig/mm10/Stat1_GSM1022317_tc_IFNg_2h_BMDM.bw_0.0.1.RData
+ 49076739 ensembl/release-103/fasta/sparus_aurata/cdna/Sparus_aurata.fSpaAur1.1.cdna.all.2bit
+ 49259476 haemcode/blood/BigWig/mm10/IRF4_GSM978751_GA06L7_WT_withIL21_CD4-Cells.bw_0.0.1.RData
+493023232 AHEnsDbs/v101/EnsDb.Ssalar.v101.sqlite
+ 49304047 haemcode/blood/BigWig/mm10/CTCF_GSM1023418_Rag1--_DP_Thymocytes.bw
+ 49358672 goldenpath/panTro3/database/rmsk_0.0.1.RData
+  4951040 inparanoid8/Orthologs/hom.Trypanosoma_brucei brucei.inp8.sqlite
+  4960256 EuPathDB/TxDb/3.9/TxDb.Lomentospora.prolificans.JHH.5317.FungiDB.v42.sqlite
+496267264 AHEnsDbs/v101/EnsDb.Strutta.v101.sqlite
+496402432 AHEnsDbs/v103/EnsDb.Strutta.v103.sqlite
+ 49860016 haemcode/blood/BigWig/mm10/HoxB4_GSM840466_day6_ES-Cells.bw
+499375226 haemcode/blood/BigWig/mm10/Fosl2_GSE40918_Th17_wt_T_Cells.bw
+ 49942048 goldenpath/papAnu2/database/rmsk_0.0.1.RData
+    49977 goldenpath/triMan1/database/mrna_0.0.1.RData
+ 50065153 goldenpath/panTro4/database/rmsk_0.0.1.RData
+ 50125838 haemcode/blood/BigWig/mm10/PU1_GSM487450_Macrophages.bw
+ 50130490 haemcode/blood/BigWig/mm10/Gata3_GSM523225_Th1_T-Cells.bw
+503780496 haemcode/blood/BigWig/mm10/RORg_GSE40918_Th17_wt_T_Cells.bw
+   503808 EuPathDB/TxDb/3.9/TxDb.Encephalitozoon.romaleae.SJ.2008.MicrosporidiaDB.v42.sqlite
+ 50528256 AHEnsDbs/v103/EnsDb.Vpacos.v103.sqlite
+505502204 ensembl/release-95/fasta/pteropus_vampyrus/dna/Pteropus_vampyrus.pteVam1.dna_sm.toplevel.2bit
+  5065775 goldenpath/xenTro1/database/chainNetMm8_0.0.1.RData
+    50768 goldenpath/sacCer1/database/oreganno_0.0.1.RData
+   507904 EuPathDB/TxDb/3.9/TxDb.Encephalitozoon.cuniculi.EC1.MicrosporidiaDB.v42.sqlite
+ 50894620 haemcode/blood/BigWig/mm10/PU1_GSM487451_Activated_Macrophages.bw
+    51032 goldenpath/sacCer2/database/oreganno_0.0.1.RData
+ 51149368 haemcode/blood/BigWig/mm10/PU1_GSM774291_FLDN1_T-Cells.bw_0.0.1.RData
+  5118414 goldenpath/taeGut1/database/rmsk_0.0.1.RData
+     5124 goldenpath/priPac1/database/mrna_0.0.1.RData
+ 51406152 haemcode/blood/BigWig/mm10/Gata3_GSM774297_ThyDP_T-Cells.bw_0.0.1.RData
+ 51489339 haemcode/blood/BigWig/mm10/HoxB4_GSM840468_day16_ES-Cells.bw_0.0.1.RData
+ 51521759 goldenpath/petMar1/database/xenoMrna_0.0.1.RData
+ 51716645 haemcode/blood/BigWig/mm10/Fli1_GSM552233_MPP_HPC7.bw_0.0.1.RData
+ 51923373 haemcode/blood/BigWig/mm10/Gata3_GSM523229_iTreg_T-Cells.bw_0.0.1.RData
+   520192 EuPathDB/TxDb/3.9/TxDb.Encephalitozoon.cuniculi.EC2.MicrosporidiaDB.v42.sqlite
+   520192 EuPathDB/TxDb/3.9/TxDb.Encephalitozoon.cuniculi.EC3.MicrosporidiaDB.v42.sqlite
+   520192 EuPathDB/TxDb/3.9/TxDb.Encephalitozoon.cuniculi.EcunIII.L.MicrosporidiaDB.v42.sqlite
+   520192 EuPathDB/TxDb/3.9/TxDb.Ordospora.colligata.OC4.MicrosporidiaDB.v42.sqlite
+   520768 EuPathDB/GRanges/3.8/GRanges.Entamoeba_histolytica_HM-3:IMSS.amoebadb39.rda
+ 52088390 haemcode/blood/BigWig/mm10/Meis1_GSM552239_MPP_HPC7.bw_0.0.1.RData
+  5214208 EuPathDB/TxDb/3.9/TxDb.Histoplasma.capsulatum.G186AR.FungiDB.v42.sqlite
+521884043 haemcode/blood/BigWig/mm10/GSM1103356_Ep300.bw
+  5222400 EuPathDB/TxDb/3.9/TxDb.Neurospora.crassa.OR74A.FungiDB.v42.sqlite
+ 52396234 goldenpath/strPur2/database/xenoMrna_0.0.1.RData
+ 52437683 goldenpath/papHam1/database/rmsk_0.0.1.RData
+  5251072 EuPathDB/TxDb/3.9/TxDb.Sordaria.macrospora.k.hell.FungiDB.v42.sqlite
+ 52629293 haemcode/blood/BigWig/mm10/RBPJ_GSM732917_G4A2_Leukaemia.bw_0.0.1.RData
+   526657 EuPathDB/GRanges/3.8/GRanges.Entamoeba_histolytica_HM-1:IMSS.amoebadb39.rda
+   528384 EuPathDB/TxDb/3.9/TxDb.Encephalitozoon.hellem.ATCC.50504.MicrosporidiaDB.v42.sqlite
+ 52908032 AHEnsDbs/v97/EnsDb.Choffmanni.v97.sqlite
+529915452 ensembl/release-95/fasta/pteropus_vampyrus/dna/Pteropus_vampyrus.pteVam1.dna_rm.toplevel.2bit
+ 53038895 haemcode/blood/BigWig/mm10/E2A_GSM546523_Pro-B-Cells.bw
+  5305070 goldenpath/turTru2/database/simpleRepeat_0.0.1.RData
+   532480 EuPathDB/TxDb/3.9/TxDb.Encephalitozoon.intestinalis.ATCC.50506.MicrosporidiaDB.v42.sqlite
+ 53258932 haemcode/blood/BigWig/mm10/IRF4_GSM978768_WJL2012_094_Th17-Cells.bw
+533483945 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th0_IRF4_ko_48h_T_Cells.bw
+ 53355520 inparanoid8/Orthologs/hom.Mustela_putorius furo.inp8.sqlite
+ 53469184 AHEnsDbs/v105/EnsDb.Choffmanni.v105.sqlite
+ 53518336 AHEnsDbs/v104/EnsDb.Choffmanni.v104.sqlite
+ 53605942 haemcode/blood/BigWig/mm10/Lmo2_GSM552237_MPP_HPC7.bw_0.0.1.RData
+   536945 goldenpath/rheMac3/database/refGene_0.0.1.RData
+   537382 ensembl/release-101/fasta/otolemur_garnettii/ncrna/Otolemur_garnettii.OtoGar3.ncrna.2bit
+   537382 ensembl/release-105/fasta/otolemur_garnettii/ncrna/Otolemur_garnettii.OtoGar3.ncrna.2bit
+  5398528 EuPathDB/TxDb/3.9/TxDb.Histoplasma.capsulatum.H143.FungiDB.v42.sqlite
+  5398528 EuPathDB/TxDb/3.9/TxDb.Histoplasma.capsulatum.H88.FungiDB.v42.sqlite
+    53990 ensembl/release-95/fasta/amphilophus_citrinellus/ncrna/Amphilophus_citrinellus.Midas_v5.ncrna.2bit
+ 54395875 haemcode/blood/BigWig/mm10/p300_GSM487448_Macrophages.bw_0.0.1.RData
+544591610 haemcode/blood/BigWig/mm10/BatF_GSE40918_Th17_IRF4_ko_48h_T_Cells.bw
+    54470 goldenpath/sacCer3/database/intronEst_0.0.1.RData
+ 54544858 haemcode/blood/BigWig/mm10/Stat3_GSM978772_WJL2012_098_Th17-Cells.bw
+    54695 goldenpath/sacCer2/database/transRegCodeProbe_0.0.1.RData
+  5476352 EuPathDB/TxDb/3.9/TxDb.Neurospora.discreta.FGSC.8579.FungiDB.v42.sqlite
+  5477424 goldenpath/tupBel1/database/gap_0.0.1.RData
+    54801 goldenpath/sacCer1/database/transRegCodeProbe_0.0.1.RData
+  5484544 EuPathDB/TxDb/3.9/TxDb.Eimeria.praecox.Houghton.ToxoDB.v42.sqlite
+  5487634 goldenpath/papHam1/database/genscan_0.0.1.RData
+549725843 haemcode/blood/BigWig/mm10/cMaf_GSE40918_wt_Th17_T_Cells.bw
+ 55078592 goldenpath/sarHar1/database/rmsk_0.0.1.RData
+   551414 goldenpath/sacCer3/database/xenoRefGene_0.0.1.RData
+  5552188 goldenpath/tupBel1/database/genscan_0.0.1.RData
+ 55744551 haemcode/blood/BigWig/mm10/E2A_GSM546517_Pre-Pro-B-Cells.bw_0.0.1.RData
+  5574656 EuPathDB/TxDb/3.9/TxDb.Eimeria.maxima.Weybridge.ToxoDB.v42.sqlite
+ 55792452 ensembl/release-104/fasta/sinocyclocheilus_rhinocerous/cdna/Sinocyclocheilus_rhinocerous.SAMN03320098_v1.1.cdna.all.2bit
+ 55792452 ensembl/release-105/fasta/sinocyclocheilus_rhinocerous/cdna/Sinocyclocheilus_rhinocerous.SAMN03320098_v1.1.cdna.all.2bit
+   561152 EuPathDB/TxDb/3.9/TxDb.Encephalitozoon.cuniculi.GB.M1.MicrosporidiaDB.v42.sqlite
+562047604 ensembl/release-103/fasta/dipodomys_ordii/dna/Dipodomys_ordii.Dord_2.0.dna_sm.toplevel.2bit
+  5623808 EuPathDB/TxDb/3.9/TxDb.Histoplasma.capsulatum.NAm1.FungiDB.v42.sqlite
+ 56400595 haemcode/blood/BigWig/mm10/Stat4_GSM550303_Th1_T-Cells.bw_0.0.1.RData
+ 56608085 haemcode/blood/BigWig/mm10/Ldb1_ERA000161_Uninduced_Erythroid_MEL.bw_0.0.1.RData
+ 56640315 haemcode/blood/BigWig/mm10/BatF_GSM978758_WT-IL21_CD4_T-Cells.bw_0.0.1.RData
+ 56657614 haemcode/blood/BigWig/mm10/PPARg_GSM532739_Macrophages.bw_0.0.1.RData
+  5737697 goldenpath/sorAra1/database/simpleRepeat_0.0.1.RData
+  5750784 ncbi/uniprot/3.2/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+  5750784 ncbi/uniprot/3.5/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+  5750784 ncbi/uniprot/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+   575793 goldenpath/taeGut1/database/nscanGene_0.0.1.RData
+ 57686854 haemcode/blood/BigWig/mm10/Gata3_GSM523221_DN_T-Cells.bw
+    57718 ensembl/release-102/fasta/larimichthys_crocea/ncrna/Larimichthys_crocea.L_crocea_2.0.ncrna.2bit
+578386377 ensembl/release-95/fasta/ailuropoda_melanoleuca/dna/Ailuropoda_melanoleuca.ailMel1.dna_sm.toplevel.2bit
+  5787648 EuPathDB/TxDb/3.9/TxDb.Neurospora.tetrasperma.FGSC.2508.FungiDB.v42.sqlite
+  5801098 goldenpath/tetNig1/database/chainSelf_0.0.1.RData
+ 58114048 AHEnsDbs/v100/EnsDb.Saraneus.v100.sqlite
+ 58330705 haemcode/blood/BigWig/mm10/CTCF_GSM1023420_Rag1--_Pro_B_Cells.bw
+   587876 goldenpath/panTro4/database/gold_0.0.1.RData
+   588357 goldenpath/rheMac3/database/gold_0.0.1.RData
+ 59022252 haemcode/blood/BigWig/mm10/PU1_GSM774292_FLDN2a_T-Cells.bw_0.0.1.RData
+ 59068840 haemcode/blood/BigWig/mm10/Ldb1_ERA000161_Induced_Erythroid_MEL.bw
+  5935104 EuPathDB/TxDb/3.9/TxDb.Hyaloperonospora.arabidopsidis.Emoy2.FungiDB.v42.sqlite
+  5938228 goldenpath/panTro3/database/simpleRepeat_0.0.1.RData
+  5944571 goldenpath/panTro4/database/simpleRepeat_0.0.1.RData
+     5946 goldenpath/tetNig2/database/tRNAs_0.0.1.RData
+ 59506451 haemcode/blood/BigWig/mm10/Rag2_GSM530318_Thymocytes.bw
+595998196 ensembl/release-103/fasta/dipodomys_ordii/dna/Dipodomys_ordii.Dord_2.0.dna_rm.toplevel.2bit
+   596722 goldenpath/susScr3/database/gap_0.0.1.RData
+ 59796260 haemcode/blood/BigWig/mm10/Gata1_GSM867156_Proliferating_ES-Erythroid-Prog.bw_0.0.1.RData
+  5994313 goldenpath/turTru2/database/gold_0.0.1.RData
+  6012928 EuPathDB/TxDb/3.9/TxDb.Talaromyces.marneffei.ATCC.18224.FungiDB.v42.sqlite
+  6013662 haemcode/blood/BigWig/mm10/Runx1_GSM989013_Uninduced_HE.bw_0.0.1.RData
+ 60215087 haemcode/blood/BigWig/mm10/Stat1_GSM1022316_tc_IFNg_1h_BMDM.bw
+ 60240610 haemcode/blood/BigWig/mm10/Gata3_GSM523226_Th2_T-Cells.bw_0.0.1.RData
+    60289 ensembl/release-102/fasta/seriola_lalandi_dorsalis/ncrna/Seriola_lalandi_dorsalis.Sedor1.ncrna.2bit
+ 60419700 haemcode/blood/BigWig/mm10/BatF_GSM978767_Th17_T-Cells.bw
+ 60594884 haemcode/blood/BigWig/mm10/Gata2_GSM722387_G1Ebmp_Erythroid-Prog.bw
+ 60664519 haemcode/blood/BigWig/mm10/IRF4_GSM1004831_Th17_wt_T_Cells.bw_0.0.1.RData
+ 60678768 haemcode/blood/BigWig/mm10/Gata3_GSM523222_DP_T-Cells.bw
+   607979 goldenpath/panTro4/database/intronEst_0.0.1.RData
+   610304 EuPathDB/TxDb/3.9/TxDb.Enterospora.canceri.GB1.MicrosporidiaDB.v42.sqlite
+   610304 EuPathDB/TxDb/3.9/TxDb.Nematocida.displodere.JUm2807.MicrosporidiaDB.v42.sqlite
+   610614 goldenpath/pteVam1/database/mrna_0.0.1.RData
+  6116113 goldenpath/strPur2/database/xenoRefGene_0.0.1.RData
+     6123 goldenpath/rn4/database/tRNAs_0.0.1.RData
+  6127616 ncbi/uniprot/3.6/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+  6131712 ncbi/uniprot/3.10/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+  6131712 ncbi/uniprot/3.11/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+  6131712 ncbi/uniprot/3.12/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+  6131712 ncbi/uniprot/3.7/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+  6131712 ncbi/uniprot/3.8/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+  6131712 ncbi/uniprot/3.9/org.Entamoeba_histolytica_HM-1:IMSS.eg.sqlite
+613477271 ensembl/release-100/fasta/sus_scrofa_tibetan/dna/Sus_scrofa_tibetan.Tibetan_Pig_v2.dna_sm.toplevel.2bit
+ 61414678 haemcode/blood/BigWig/mm10/CTCF_GSM672400_DP-T-Cells.bw
+   614515 goldenpath/sacCer1/database/est_0.0.1.RData
+   614539 goldenpath/sacCer2/database/est_0.0.1.RData
+ 61609787 haemcode/blood/BigWig/mm10/PU.1_GSM1022311_tc_IFNg_30min_BMDM.bw_0.0.1.RData
+  6164480 EuPathDB/TxDb/3.9/TxDb.Eimeria.necatrix.Houghton.ToxoDB.v42.sqlite
+ 61686648 haemcode/blood/BigWig/mm10/USF2_GSM912892_MEL.bw_0.0.1.RData
+  6172672 EuPathDB/TxDb/3.9/TxDb.Naegleria.fowleri.ATCC.30863.AmoebaDB.v42.sqlite
+  6184867 ensembl/release-105/fasta/sorex_araneus/cdna/Sorex_araneus.COMMON_SHREW1.cdna.all.2bit
+    61906 ensembl/release-95/fasta/amphiprion_percula/ncrna/Amphiprion_percula.Nemo_v1.ncrna.2bit
+619716608 AHEnsDbs/v104/EnsDb.Cauratus.v104.sqlite
+621001380 ensembl/release-91/fasta/mus_pahari/dna/Mus_pahari.PAHARI_EIJ_v1.1.dna_rm.toplevel.2bit
+621148098 ensembl/release-95/fasta/ictidomys_tridecemlineatus/dna/Ictidomys_tridecemlineatus.SpeTri2.0.dna_sm.toplevel.2bit
+  6227035 haemcode/blood/BigWig/mm10/Gata3_GSM523231_NKT_T-Cells.bw_0.0.1.RData
+ 62416896 inparanoid8/Orthologs/hom.Drosophila_pseudoobscura pseudoobscura.inp8.sqlite
+    62420 goldenpath/rn3/database/rgdSslp_0.0.1.RData
+ 62535436 haemcode/blood/BigWig/mm10/Scl_ERA000161_Induced_Erythroid_MEL.bw_0.0.1.RData
+ 62535436 haemcode/blood/BigWig/mm10/Scl_ERA000161_Uninduced_Erythroid_MEL.bw_0.0.1.RData
+ 62752545 haemcode/blood/BigWig/mm10/Pol2_GSM419052_Macrophages.bw_0.0.1.RData
+ 63150927 haemcode/blood/BigWig/mm10/Fli1_GSM654874_Th2_T-Cells.bw_0.0.1.RData
+  6316032 EuPathDB/TxDb/3.9/TxDb.Magnaporthe.oryzae.70.15.FungiDB.v42.sqlite
+631655180 ensembl/release-101/fasta/otolemur_garnettii/dna/Otolemur_garnettii.OtoGar3.dna_sm.toplevel.2bit
+631655180 ensembl/release-105/fasta/otolemur_garnettii/dna/Otolemur_garnettii.OtoGar3.dna_sm.toplevel.2bit
+  6334662 goldenpath/pteVam1/database/nestedRepeats_0.0.1.RData
+ 63405958 haemcode/blood/BigWig/mm10/CTCF_GSM918744_Immortalized_Erythroid.bw
+  6350251 haemcode/blood/BigWig/mm10/CTCF_GSM644975_Pro-B-Cells.bw_0.0.1.RData
+  6371651 goldenpath/rn4/database/simpleRepeat_0.0.1.RData
+ 63885890 haemcode/blood/BigWig/mm10/Mtgr1_ERA000161_Induced_Erythroid_MEL.bw
+ 63885890 haemcode/blood/BigWig/mm10/Mtgr1_ERA000161_Uninduced_Erythroid_MEL.bw
+  6395276 goldenpath/taeGut1/database/xenoRefGene_0.0.1.RData
+  6412268 goldenpath/taeGut1/database/chainNetMelGal1_0.0.1.RData
+642401159 ensembl/release-100/fasta/sus_scrofa_tibetan/dna/Sus_scrofa_tibetan.Tibetan_Pig_v2.dna_rm.toplevel.2bit
+  6455296 EuPathDB/TxDb/3.9/TxDb.Pythium.aphanidermatum.DAOM.BR444.FungiDB.v42.sqlite
+ 64692224 AHEnsDbs/v101/EnsDb.Mgallopavo.v101.sqlite
+  6516736 EuPathDB/TxDb/3.9/TxDb.Scedosporium.apiospermum.IHEM.14462.FungiDB.v42.sqlite
+   653351 goldenpath/xenTro3/database/refGene_0.0.1.RData
+655964377 ensembl/release-101/fasta/ovis_aries/dna/Ovis_aries.Oar_v3.1.dna_sm.toplevel.2bit
+   658414 goldenpath/papAnu2/database/cpgIslandExt_0.0.1.RData
+  6594560 EuPathDB/TxDb/3.9/TxDb.Eimeria.brunetti.Houghton.ToxoDB.v42.sqlite
+   659456 EuPathDB/TxDb/3.9/TxDb.Enterocytozoon.hepatopenaei.TH1.MicrosporidiaDB.v42.sqlite
+  6624231 goldenpath/papHam1/database/chainNetCalJac3_0.0.1.RData
+   663552 EuPathDB/TxDb/3.9/TxDb.Nematocida.ausubeli.ERTm6.MicrosporidiaDB.v42.sqlite
+665253028 ensembl/release-105/fasta/otolemur_garnettii/dna/Otolemur_garnettii.OtoGar3.dna_rm.toplevel.2bit
+ 66538045 haemcode/blood/BigWig/mm10/Gata1_GSM722390_G1ERbmp_Erythroid-Prog.bw
+ 66765341 haemcode/blood/BigWig/mm10/Hoxa_GSE33518_Myeloblastic_bone_marrow.bw
+ 67048795 ensembl/release-102/fasta/sinocyclocheilus_anshuiensis/cdna/Sinocyclocheilus_anshuiensis.SAMN03320099.WGS_v1.1.cdna.all.2bit
+  6708688 goldenpath/rn4/database/genotypeArrays_0.0.1.RData
+  6711211 haemcode/blood/BigWig/mm10/Rad21_GSM644976_Pro-B-Cells.bw_0.0.1.RData
+  6713320 goldenpath/papAnu2/database/simpleRepeat_0.0.1.RData
+671725381 ensembl/release-86/fasta/mus_musculus_fvbnj/dna/Mus_musculus_fvbnj.FVB_NJ_v1.dna_rm.toplevel.2bit
+ 67389396 haemcode/blood/BigWig/mm10/HoxB4_GSM840470_day26_ES-Cells.bw_0.0.1.RData
+ 67416064 AHEnsDbs/v98/EnsDb.Falbicollis.v98.sqlite
+  6752777 goldenpath/vicPac1/database/gold_0.0.1.RData
+  6754304 EuPathDB/TxDb/3.9/TxDb.Eimeria.tenella.Houghton.ToxoDB.v42.sqlite
+675689072 ensembl/release-91/fasta/mus_musculus_wsbeij/dna/Mus_musculus_wsbeij.WSB_EiJ_v1.dna_sm.toplevel.2bit
+677764159 ensembl/release-87/fasta/mus_musculus_nzohlltj/dna/Mus_musculus_nzohlltj.NZO_HlLtJ_v1.dna.toplevel.2bit
+ 67854574 haemcode/blood/BigWig/mm10/Gfi1b_GSM552235_MPP_HPC7.bw_0.0.1.RData
+   679936 EuPathDB/TxDb/3.9/TxDb.Nematocida.parisii.ERTm3.MicrosporidiaDB.v42.sqlite
+   681307 goldenpath/susScr2/database/gap_0.0.1.RData
+ 68212701 haemcode/blood/BigWig/mm10/PU.1_GSM1022280_stat1ko_ctrl_UT_BMDM.bw_0.0.1.RData
+ 68388964 goldenpath/vicPac1/database/windowmaskerSdust_0.0.1.RData
+ 68642850 haemcode/blood/BigWig/mm10/Elf1_GSM999184_Treg_T-Cells.bw_0.0.1.RData
+ 68670039 haemcode/blood/BigWig/mm10/IRF4_GSM978751_GA06L7_WT_withIL21_CD4-Cells.bw
+ 68911663 haemcode/blood/BigWig/mm10/CTCF_GSM923571_G1E-ER4_Erythroid.bw_0.0.1.RData
+689213081 ensembl/release-101/fasta/ovis_aries/dna/Ovis_aries.Oar_v3.1.dna_rm.toplevel.2bit
+689365311 ensembl/release-100/fasta/sus_scrofa_usmarc/dna/Sus_scrofa_usmarc.USMARCv1.0.dna_sm.toplevel.2bit
+   689446 goldenpath/xenTro2/database/refGene_0.0.1.RData
+ 69027214 ensembl/release-102/fasta/sinocyclocheilus_grahami/cdna/Sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.cdna.all.2bit
+ 69027214 ensembl/release-105/fasta/sinocyclocheilus_grahami/cdna/Sinocyclocheilus_grahami.SAMN03320097.WGS_v1.1.cdna.all.2bit
+ 69193728 AHEnsDbs/v103/EnsDb.Tbelangeri.v103.sqlite
+   692224 EuPathDB/TxDb/3.9/TxDb.Nematocida.parisii.ERTm1.MicrosporidiaDB.v42.sqlite
+  6924288 inparanoid8/Orthologs/hom.Plasmodium_yoelii yoelii.inp8.sqlite
+     6951 haemcode/blood/Peaks/mm10/AF9_GSM721212_MLL.bed
+   696320 EuPathDB/TxDb/3.9/TxDb.Nematocida.ausubeli.ERTm2.MicrosporidiaDB.v42.sqlite
+ 69640192 AHEnsDbs/v105/EnsDb.Neugenii.v105.sqlite
+   697655 goldenpath/rn3/database/gap_0.0.1.RData
+ 69980186 haemcode/blood/BigWig/mm10/CTCF_GSM923570_G1E_Erythroid.bw_0.0.1.RData
+   701466 goldenpath/rn4/database/gap_0.0.1.RData
+  7022449 goldenpath/vicPac1/database/nestedRepeats_0.0.1.RData
+702478018 ensembl/release-95/fasta/propithecus_coquereli/dna/Propithecus_coquereli.Pcoq_1.0.dna_sm.toplevel.2bit
+   704512 EuPathDB/TxDb/3.9/TxDb.Spraguea.lophii.42.110.MicrosporidiaDB.v42.sqlite
+707449497 ensembl/release-88/fasta/mus_musculus_lpj/dna/Mus_musculus_lpj.LP_J_v1.dna_rm.toplevel.2bit
+ 70860800 AHEnsDbs/v96/EnsDb.Csavignyi.v96.sqlite
+ 71106900 haemcode/blood/BigWig/mm10/HoxB4_GSM840468_day16_ES-Cells.bw
+ 71544832 AHEnsDbs/v101/EnsDb.Pcapensis.v101.sqlite
+  7176192 EuPathDB/TxDb/3.9/TxDb.Sarcocystis.neurona.SO.SN1.ToxoDB.v42.sqlite
+718063568 ensembl/release-103/fasta/latimeria_chalumnae/dna/Latimeria_chalumnae.LatCha1.dna_sm.toplevel.2bit
+ 71824301 haemcode/blood/BigWig/mm10/Gata3_GSM523229_iTreg_T-Cells.bw
+  7197800 goldenpath/papHam1/database/chainNetGorGor3_0.0.1.RData
+ 72006067 haemcode/blood/BigWig/mm10/GSM1131775_Foxo1.bw
+  7217962 goldenpath/sorAra1/database/gold_0.0.1.RData
+ 72275017 haemcode/blood/BigWig/mm10/Runx1_GSE31221_EML.bw_0.0.1.RData
+ 72295528 haemcode/blood/BigWig/mm10/Meis1_GSM552239_MPP_HPC7.bw
+   724992 EuPathDB/TxDb/3.9/TxDb.Hepatospora.eriocheir.GB1.MicrosporidiaDB.v42.sqlite
+  7257188 goldenpath/susScr2/database/chainNetMm9_0.0.1.RData
+   725880 goldenpath/panTro4/database/est_0.0.1.RData
+  7270400 EuPathDB/TxDb/3.9/TxDb.Sclerotinia.sclerotiorum.1980.UF.70.FungiDB.v42.sqlite
+ 72926759 haemcode/blood/BigWig/mm10/Fli1_GSM552233_MPP_HPC7.bw
+ 72975950 haemcode/blood/BigWig/mm10/JunB_GSM1022319_LPS_4h_BMDM.bw_0.0.1.RData
+ 73162848 haemcode/blood/BigWig/mm10/PU1_GSM774291_FLDN1_T-Cells.bw
+ 73314129 haemcode/blood/BigWig/mm10/Fli1_GSM989015_Uninduced_HE.bw_0.0.1.RData
+733520975 ensembl/release-100/fasta/sus_scrofa_usmarc/dna/Sus_scrofa_usmarc.USMARCv1.0.dna_rm.toplevel.2bit
+   735008 ensembl/release-105/fasta/oryzias_sinensis/ncrna/Oryzias_sinensis.ASM858656v1.ncrna.2bit
+ 73564160 AHEnsDbs/v101/EnsDb.Oprinceps.v101.sqlite
+  7362022 goldenpath/rn4/database/chainNetMonDom4_0.0.1.RData
+  7368704 EuPathDB/TxDb/3.9/TxDb.Neospora.caninum.Liverpool.ToxoDB.v42.sqlite
+   737409 goldenpath/petMar2/database/cpgIslandExt_0.0.1.RData
+ 74412603 haemcode/blood/BigWig/mm10/PU.1_GSM1022281_stat1ko_ctrl_IFNg_4h_BMDM.bw_0.0.1.RData
+   745472 EuPathDB/TxDb/3.9/TxDb.Nosema.ceranae.BRL01.MicrosporidiaDB.v42.sqlite
+  7458816 EuPathDB/TxDb/3.9/TxDb.Penicillium.rubens.Wisconsin.54.1255.FungiDB.v42.sqlite
+  7479296 EuPathDB/TxDb/3.9/TxDb.Pythium.vexans.DAOM.BR484.FungiDB.v42.sqlite
+748188310 ensembl/release-103/fasta/sorex_araneus/dna/Sorex_araneus.COMMON_SHREW1.dna_sm.toplevel.2bit
+ 74926172 haemcode/blood/BigWig/mm10/GSM1133644_Hnf1a.bw_0.0.1.RData
+  7495680 EuPathDB/TxDb/3.9/TxDb.Fusarium.fujikuroi.IMI.58289.FungiDB.v42.sqlite
+ 75075584 AHEnsDbs/v103/EnsDb.Ttruncatus.v103.sqlite
+ 75167383 haemcode/blood/BigWig/mm10/Ets1_GSM999186_Treg_T-Cells.bw_0.0.1.RData
+ 75172815 haemcode/blood/BigWig/mm10/Notch1_GSM859512_T-ALL.bw_0.0.1.RData
+ 75192644 goldenpath/pteVam1/database/windowmaskerSdust_0.0.1.RData
+ 75225925 haemcode/blood/BigWig/mm10/PU.1_GSM1022313_tc_IFNg_2h_BMDM.bw_0.0.1.RData
+ 75292672 AHEnsDbs/v105/EnsDb.Nperdicaria.v105.sqlite
+ 75525304 haemcode/blood/BigWig/mm10/CEBPb_GSM989017_Uninduced_HE.bw
+760737979 ensembl/release-103/fasta/theropithecus_gelada/dna/Theropithecus_gelada.Tgel_1.0.dna_rm.toplevel.2bit
+  7634944 EuPathDB/TxDb/3.9/TxDb.Eimeria.mitis.Houghton.ToxoDB.v42.sqlite
+ 76433949 haemcode/blood/BigWig/mm10/Cbx8_GSM898201_HPC.bw_0.0.1.RData
+764387413 ensembl/release-86/fasta/macropus_eugenii/dna/Macropus_eugenii.Meug_1.0.dna.toplevel.2bit
+ 76506660 haemcode/blood/BigWig/mm10/BatF_GSM978758_WT-IL21_CD4_T-Cells.bw
+ 76560473 haemcode/blood/BigWig/mm10/TCF7_GSM773994_EML.bw_0.0.1.RData
+  7671808 EuPathDB/TxDb/3.9/TxDb.Fusarium.graminearum.PH.1.FungiDB.v42.sqlite
+ 76919336 haemcode/blood/BigWig/mm10/Stat5_GSM652878_Il2_T-Cells.bw_0.0.1.RData
+  7712503 goldenpath/turTru2/database/chainNetMm10_0.0.1.RData
+ 77189120 inparanoid8/Orthologs/hom.Gorilla_gorilla gorilla.inp8.sqlite
+  7741440 EuPathDB/TxDb/3.9/TxDb.Hammondia.hammondi.H.H.34.ToxoDB.v42.sqlite
+  7745536 EuPathDB/TxDb/3.9/TxDb.Talaromyces.stipitatus.ATCC.10500.FungiDB.v42.sqlite
+   775097 goldenpath/xenTro2/database/mgcFullMrna_0.0.1.RData
+ 77651968 haemcode/blood/BigWig/mm10/CTCF_GSM672401_Rag2--_Pro-B-Cells.bw
+  7766016 EuPathDB/TxDb/3.9/TxDb.Histoplasma.capsulatum.G217B.FungiDB.v42.sqlite
+ 77705292 haemcode/blood/BigWig/mm10/Stat4_GSM550303_Th1_T-Cells.bw
+781361750 ensembl/release-93/fasta/sorex_araneus/dna/Sorex_araneus.COMMON_SHREW1.dna_rm.toplevel.2bit
+ 78299361 haemcode/blood/BigWig/mm10/Stat1_GSM1022317_tc_IFNg_2h_BMDM.bw
+ 78480686 haemcode/blood/BigWig/mm10/Lyl1_GSM552238_MPP_HPC7.bw
+ 78745600 AHEnsDbs/v101/EnsDb.Mlucifugus.v101.sqlite
+ 78745600 AHEnsDbs/v96/EnsDb.Dmelanogaster.v96.sqlite
+ 79047871 haemcode/blood/BigWig/mm10/PU.1_GSM1022283_stat1ko_IFNg_4h_BMDM.bw_0.0.1.RData
+ 79137847 haemcode/blood/BigWig/mm10/Jmjd3_GSM1004839_Th17_wt_48h_T_Cells.bw_0.0.1.RData
+  7920579 ensembl/release-103/fasta/procavia_capensis/cdna/Procavia_capensis.proCap1.cdna.all.2bit
+  7926517 goldenpath/sorAra1/database/chainNetMm10_0.0.1.RData
+ 79379948 haemcode/blood/BigWig/mm10/PU1_GSM539537_Pro-B-Cells.bw_0.0.1.RData
+ 79515648 AHEnsDbs/v105/EnsDb.Etelfairi.v105.sqlite
+   795708 goldenpath/petMar2/database/gold_0.0.1.RData
+  7960616 goldenpath/saiBol1/database/chainNetMm10_0.0.1.RData
+ 79728640 AHEnsDbs/v96/EnsDb.Csabaeus.v96.sqlite
+  7977291 goldenpath/proCap1/database/gold_0.0.1.RData
+  7995392 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.FOU.ToxoDB.v42.sqlite
+  8007680 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.p89.ToxoDB.v42.sqlite
+  8015872 EuPathDB/TxDb/3.9/TxDb.Fusarium.oxysporum.f.sp.cubense.race.4.FungiDB.v42.sqlite
+ 80244158 haemcode/blood/BigWig/mm10/EBF1_GSE35857_B-Cells.bw_0.0.1.RData
+  8028160 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.MAS.ToxoDB.v42.sqlite
+  8073216 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.RUB.ToxoDB.v42.sqlite
+ 80736177 haemcode/blood/BigWig/mm10/c-Myc_GSM912934_MEL.bw_0.0.1.RData
+  8077312 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.GAB2.2007.GAL.DOM2.ToxoDB.v42.sqlite
+ 80972306 haemcode/blood/BigWig/mm10/PU1_GSE21953_MEL_Erythroid.bw_0.0.1.RData
+  8134988 haemcode/blood/BigWig/mm10/Ring1b_GSM832323_Thymocyte.bw_0.0.1.RData
+  8176770 haemcode/blood/BigWig/mm10/JunB_GSM978769_WJL2012_095_Th17-Cells.bw_0.0.1.RData
+ 81950352 haemcode/blood/BigWig/mm10/IRF4_GSM1004831_Th17_wt_T_Cells.bw
+  8196096 EuPathDB/TxDb/3.9/TxDb.Fusarium.proliferatum.NRRL62905.FungiDB.v42.sqlite
+  8196096 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.ARI.ToxoDB.v42.sqlite
+  8200192 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.VAND.ToxoDB.v42.sqlite
+  8204288 EuPathDB/TxDb/3.9/TxDb.Pythium.arrhenomanes.ATCC.12531.FungiDB.v42.sqlite
+ 82075148 haemcode/blood/BigWig/mm10/JunD_GSM912915_MEL.bw_0.0.1.RData
+   821723 goldenpath/tetNig1/database/chainNetMm9_0.0.1.RData
+    82390 ensembl/release-95/fasta/amphiprion_ocellaris/ncrna/Amphiprion_ocellaris.AmpOce1.0.ncrna.2bit
+  8241775 goldenpath/rn4/database/chainNetPanTro2_0.0.1.RData
+ 82448474 haemcode/blood/BigWig/mm10/Stat3_GSM540722_Th17_T-Cells.bw_0.0.1.RData
+ 82613590 haemcode/blood/BigWig/mm10/Gata3_GSM774297_ThyDP_T-Cells.bw
+ 82724853 goldenpath/tupBel1/database/windowmaskerSdust_0.0.1.RData
+  8302995 ensembl/release-95/fasta/pteropus_vampyrus/cdna/Pteropus_vampyrus.pteVam1.cdna.all.2bit
+  8306688 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.TgCatPRC2.ToxoDB.v42.sqlite
+  8343552 EuPathDB/TxDb/3.9/TxDb.Sarcocystis.neurona.SN3.ToxoDB.v42.sqlite
+   835819 goldenpath/speTri2/database/gap_0.0.1.RData
+ 83962046 haemcode/blood/BigWig/mm10/PU1_GSM774292_FLDN2a_T-Cells.bw
+   839680 EuPathDB/TxDb/3.9/TxDb.Hepatospora.eriocheir.canceri.MicrosporidiaDB.v42.sqlite
+     8399 goldenpath/rn4/database/wgEncodeNhgriBip_0.0.1.RData
+  8400896 EuPathDB/TxDb/3.9/TxDb.Phytophthora.ramorum.Pr102.FungiDB.v42.sqlite
+   843284 goldenpath/susScr2/database/gold_0.0.1.RData
+  8437760 EuPathDB/TxDb/3.9/TxDb.Mucor.circinelloides.f.lusitanicus.CBS.277.49.FungiDB.v42.sqlite
+  8453242 goldenpath/rn5/database/chainNetRheMac3_0.0.1.RData
+  8491008 EuPathDB/TxDb/3.9/TxDb.Kwoniella.dejecticola.CBS.10117.FungiDB.v42.sqlite
+ 85037056 AHEnsDbs/v101/EnsDb.Pabelii.v101.sqlite
+ 85046849 haemcode/blood/BigWig/mm10/Stat1_GSM838691_6h_IFNb_ikk_BMM.bw_0.0.1.RData
+   850751 goldenpath/rn4/database/chainNetMelGal1_0.0.1.RData
+  8519680 EuPathDB/TxDb/3.9/TxDb.Magnaporthe.oryzae.BR32.FungiDB.v42.sqlite
+  8523776 EuPathDB/TxDb/3.9/TxDb.Pythium.ultimum.DAOM.BR144.FungiDB.v42.sqlite
+ 85303296 AHEnsDbs/v100/EnsDb.Sharrisii.v100.sqlite
+ 85303296 AHEnsDbs/v99/EnsDb.Sharrisii.v99.sqlite
+ 85344256 AHEnsDbs/v101/EnsDb.Llaticaudata.v101.sqlite
+ 85415766 haemcode/blood/BigWig/mm10/PU.1_GSM1022311_tc_IFNg_30min_BMDM.bw
+ 85434805 haemcode/blood/BigWig/mm10/PU1_GSE21953_ES-Erythroid-Prog.bw_0.0.1.RData
+ 85437598 haemcode/blood/BigWig/mm10/CTCF_GSM672402_Mature-B-Cells.bw_0.0.1.RData
+  8552448 EuPathDB/TxDb/3.9/TxDb.Fusarium.oxysporum.f.sp.cubense.race.1.FungiDB.v42.sqlite
+ 85740364 haemcode/blood/BigWig/mm10/Lmo2_GSM552237_MPP_HPC7.bw
+  8589312 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.VEG.ToxoDB.v42.sqlite
+  8601600 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.GT1.ToxoDB.v42.sqlite
+  8603452 goldenpath/papHam1/database/simpleRepeat_0.0.1.RData
+  8617984 EuPathDB/TxDb/3.9/TxDb.Pythium.irregulare.DAOM.BR486.FungiDB.v42.sqlite
+  8629287 goldenpath/rn5/database/simpleRepeat_0.0.1.RData
+  8630272 EuPathDB/TxDb/3.9/TxDb.Fusarium.proliferatum.ET1.FungiDB.v42.sqlite
+ 86310377 haemcode/blood/BigWig/mm10/Stat1_GSM838689_6h_IFNg_ikk_BMM.bw_0.0.1.RData
+864200806 ensembl/release-75/fasta/ovis_aries/dna/Ovis_aries.Oar_v3.1.75.dna_sm.toplevel.fa.rz
+865166235 ensembl/release-103/fasta/pongo_abelii/dna/Pongo_abelii.PPYG2.dna_sm.toplevel.2bit
+865166235 ensembl/release-88/fasta/pongo_abelii/dna/Pongo_abelii.PPYG2.dna.toplevel.2bit
+ 86663168 AHEnsDbs/v97/EnsDb.Celegans.v97.sqlite
+ 86714660 haemcode/blood/BigWig/mm10/PPARg_GSM532739_Macrophages.bw
+ 86868173 haemcode/blood/BigWig/mm10/E2A_GSM546517_Pre-Pro-B-Cells.bw
+  8688742 goldenpath/strPur2/database/rmsk_0.0.1.RData
+  8719443 goldenpath/vicPac1/database/chainNetMm10_0.0.1.RData
+ 87195648 AHEnsDbs/v101/EnsDb.Spunctatus.v101.sqlite
+ 87220224 AHEnsDbs/v99/EnsDb.Celegans.v99.sqlite
+   873243 goldenpath/sacCer3/database/transRegCode_0.0.1.RData
+ 87500994 haemcode/blood/BigWig/mm10/Ldb1_ERA000161_Uninduced_Erythroid_MEL.bw
+   875404 goldenpath/pteVam1/database/ensemblGeneScaffold_0.0.1.RData
+ 87670784 AHEnsDbs/v105/EnsDb.Celegans.v105.sqlite
+ 87687168 AHEnsDbs/v104/EnsDb.Celegans.v104.sqlite
+ 88240128 AHEnsDbs/v105/EnsDb.Cpictus.v105.sqlite
+ 88608768 AHEnsDbs/v101/EnsDb.Lchalumnae.v101.sqlite
+ 88985600 AHEnsDbs/v103/EnsDb.Pcristatus.v103.sqlite
+ 89071616 AHEnsDbs/v101/EnsDb.Pcristatus.v101.sqlite
+  8913767 goldenpath/xenTro2/database/chainNetMm9_0.0.1.RData
+ 89513341 goldenpath/susScr3/database/windowmaskerSdust_0.0.1.RData
+ 89645056 AHEnsDbs/v99/EnsDb.Gmorhua.v99.sqlite
+    89990 haemcode/blood/Peaks/mm10/A500005_Erg.bed
+  9003008 EuPathDB/TxDb/3.9/TxDb.Toxoplasma.gondii.ME49.ToxoDB.v42.sqlite
+903219915 ensembl/release-94/fasta/pongo_abelii/dna/Pongo_abelii.PPYG2.dna_rm.toplevel.2bit
+  9076736 EuPathDB/TxDb/3.9/TxDb.Spizellomyces.punctatus.DAOM.BR117.FungiDB.v42.sqlite
+ 90853376 AHEnsDbs/v105/EnsDb.Oaries.v105.sqlite
+  9091104 goldenpath/pteVam1/database/chainNetMm10_0.0.1.RData
+  9097216 EuPathDB/TxDb/3.9/TxDb.Phytophthora.capsici.LT1534.FungiDB.v42.sqlite
+  9100461 haemcode/blood/BigWig/mm10/Gata3_GSM523228_Th17_T-Cells.bw_0.0.1.RData
+  9101312 EuPathDB/TxDb/3.9/TxDb.Kwoniella.bestiolae.CBS.10118.FungiDB.v42.sqlite
+ 91386117 haemcode/blood/BigWig/mm10/Gata3_GSM774296_FLDN2b_T-Cells.bw_0.0.1.RData
+ 91415197 haemcode/blood/BigWig/mm10/Ring1b_GSM832317_Uninduced_MK-Prog.bw_0.0.1.RData
+ 91786874 goldenpath/speTri2/database/windowmaskerSdust_0.0.1.RData
+ 91838025 goldenpath/turTru2/database/windowmaskerSdust_0.0.1.RData
+  9187328 EuPathDB/TxDb/3.9/TxDb.Phytophthora.infestans.T30.4.FungiDB.v42.sqlite
+   919657 goldenpath/triMan1/database/gap_0.0.1.RData
+ 92073425 haemcode/blood/BigWig/mm10/Elf1_GSM999185_TN_T-Cells.bw_0.0.1.RData
+ 92225457 haemcode/blood/BigWig/mm10/Gata2_GSM552234_MPP_HPC7.bw_0.0.1.RData
+ 92358141 haemcode/blood/BigWig/mm10/RBPJ_GSM732917_G4A2_Leukaemia.bw
+ 92367393 haemcode/blood/BigWig/mm10/H3K27ac_GSM1022264_stat6ko_ctrl_UT_BMDM.bw_0.0.1.RData
+ 92580347 haemcode/blood/BigWig/mm10/Gata1_GSM867156_Proliferating_ES-Erythroid-Prog.bw
+ 92723710 haemcode/blood/BigWig/mm10/TBP_GSM912913_MEL.bw_0.0.1.RData
+  9281536 EuPathDB/TxDb/3.9/TxDb.Pythium.iwayamai.DAOM.BR242034.FungiDB.v42.sqlite
+ 92982040 haemcode/blood/BigWig/mm10/PU.1_GSM1022280_stat1ko_ctrl_UT_BMDM.bw
+ 93324912 haemcode/blood/BigWig/mm10/GSM587477_h3_38b9.bw_0.0.1.RData
+ 93448645 haemcode/blood/BigWig/mm10/USF2_GSM912892_MEL.bw
+ 93462528 AHEnsDbs/v103/EnsDb.Tnigroviridis.v103.sqlite
+ 93785408 haemcode/blood/BigWig/mm10/CTCF_GSM546526_Pro-B-Cells.bw_0.0.1.RData
+ 94056448 AHEnsDbs/v105/EnsDb.Gfortis.v105.sqlite
+ 94216192 AHEnsDbs/v104/EnsDb.Gfortis.v104.sqlite
+ 94266683 haemcode/blood/BigWig/mm10/Scl_ERA000161_Induced_Erythroid_MEL.bw
+ 94266683 haemcode/blood/BigWig/mm10/Scl_ERA000161_Uninduced_Erythroid_MEL.bw
+ 94280959 haemcode/blood/BigWig/mm10/FoxO1_GSM546525_Pro-B-Cells.bw_0.0.1.RData
+      945 goldenpath/rn3/database/gap_0.0.1.json
+      945 goldenpath/rn4/database/gap_0.0.1.json
+   946419 ensembl/release-77/fasta/oryzias_latipes/cdna/Oryzias_latipes.MEDAKA1.cdna.all.fa.rz.fai
+ 94689774 haemcode/blood/BigWig/mm10/Gata3_GSM523226_Th2_T-Cells.bw
+      946 goldenpath/rn5/database/gap_0.0.1.json
+ 94827938 haemcode/blood/BigWig/mm10/p300_GSM487448_Macrophages.bw
+ 95072256 AHEnsDbs/v100/EnsDb.Sdauricus.v100.sqlite
+  9520781 goldenpath/tetNig1/database/chainNetGasAcu1_0.0.1.RData
+ 95285705 haemcode/blood/BigWig/mm10/Tbet_GSM836124_WT_Th1_T-Cells.bw_0.0.1.RData
+ 95431200 goldenpath/proCap1/database/windowmaskerSdust_0.0.1.RData
+ 95541707 haemcode/blood/BigWig/mm10/Pol2_GSM419052_Macrophages.bw
+   955463 goldenpath/priPac1/database/est_0.0.1.RData
+ 95551488 AHEnsDbs/v103/EnsDb.Pmagnuspinnatus.v103.sqlite
+ 95663780 haemcode/blood/BigWig/mm10/PU.1_GSM1022282_stat1ko_UT_BMDM.bw_0.0.1.RData
+  9575117 ensembl/release-105/fasta/otolemur_garnettii/cdna/Otolemur_garnettii.OtoGar3.cdna.all.2bit
+      957 goldenpath/rn3/database/est_0.0.1.json
+      957 goldenpath/rn4/database/est_0.0.1.json
+      957 goldenpath/rn5/database/est_0.0.1.json
+      957 goldenpath/susScr2/database/gap_0.0.1.json
+      957 goldenpath/susScr3/database/gap_0.0.1.json
+  9586371 ensembl/release-94/fasta/ailuropoda_melanoleuca/cdna/Ailuropoda_melanoleuca.ailMel1.cdna.all.2bit
+     9586 goldenpath/sacCer1/database/simpleRepeat_0.0.1.RData
+ 95870976 AHEnsDbs/v105/EnsDb.Jhyemalis.v105.sqlite
+ 96041442 haemcode/blood/BigWig/mm10/JunB_GSM1022319_LPS_4h_BMDM.bw
+ 96082538 haemcode/blood/BigWig/mm10/Stat3_GSM652877_Il6_T-Cells.bw_0.0.1.RData
+      960 goldenpath/papAnu2/database/gap_0.0.1.json
+ 96169252 haemcode/blood/BigWig/mm10/Stat1_GSM838683_6h_IFNg_WT_BMM.bw_0.0.1.RData
+      961 goldenpath/rheMac2/database/gap_0.0.1.json
+   962995 goldenpath/rheMac2/database/gap_0.0.1.RData
+      962 goldenpath/rheMac3/database/gap_0.0.1.json
+      962 goldenpath/rn3/database/mrna_0.0.1.json
+      962 goldenpath/rn4/database/mrna_0.0.1.json
+      962 goldenpath/rn5/database/mrna_0.0.1.json
+      962 goldenpath/vicPac1/database/gap_0.0.1.json
+   963341 goldenpath/rn3/database/affyRAE230_0.0.1.RData
+ 96358557 haemcode/blood/BigWig/mm10/Cbx7_GSM898200_HPC.bw_0.0.1.RData
+      963 goldenpath/panTro4/database/gap_0.0.1.json
+      963 goldenpath/papHam1/database/gap_0.0.1.json
+      963 goldenpath/rn3/database/rgdQtl_0.0.1.json
+      963 goldenpath/sorAra1/database/gap_0.0.1.json
+      964 goldenpath/rn4/database/rgdQtl_0.0.1.json
+ 96589779 haemcode/blood/BigWig/mm10/PU.1_GSM1022310_tc_IFNg_UT_BMDM.bw_0.0.1.RData
+      965 goldenpath/rn4/database/tRNAs_0.0.1.json
+      965 goldenpath/triMan1/database/gap_0.0.1.json
+      965 goldenpath/tupBel1/database/gap_0.0.1.json
+      965 goldenpath/xenTro3/database/gap_0.0.1.json
+      966 goldenpath/turTru2/database/gap_0.0.1.json
+      967 goldenpath/pteVam1/database/gap_0.0.1.json
+      967 goldenpath/taeGut1/database/gap_0.0.1.json
+ 96804864 AHEnsDbs/v101/EnsDb.Loculatus.v101.sqlite
+      969 goldenpath/priPac1/database/gap_0.0.1.json
+      969 goldenpath/rn3/database/rmsk_0.0.1.json
+      969 goldenpath/susScr3/database/est_0.0.1.json
+    97000 ensembl/release-101/fasta/lates_calcarifer/ncrna/Lates_calcarifer.ASB_HGAPassembly_v1.ncrna.2bit
+    97000 ensembl/release-105/fasta/lates_calcarifer/ncrna/Lates_calcarifer.ASB_HGAPassembly_v1.ncrna.2bit
+   970896 goldenpath/xenTro3/database/gap_0.0.1.RData
+      970 goldenpath/rn3/database/rgdSslp_0.0.1.json
+ 97146664 haemcode/blood/BigWig/mm10/Stat1_GSM838687_Untreated_ikk_BMM.bw_0.0.1.RData
+      971 goldenpath/susScr2/database/gold_0.0.1.json
+  9731078 goldenpath/rn4/database/xenoRefGene_0.0.1.RData
+      973 goldenpath/rn3/database/rgdGene_0.0.1.json
+  9746652 goldenpath/xenTro2/database/chainNetAnoCar2_0.0.1.RData
+      974 goldenpath/papAnu2/database/gold_0.0.1.json
+      974 goldenpath/ponAbe2/database/gold_0.0.1.json
+      974 goldenpath/susScr3/database/mrna_0.0.1.json
+  9751879 goldenpath/rheMac3/database/chainNetMm10_0.0.1.RData
+  9755617 goldenpath/rn5/database/nestedRepeats_0.0.1.RData
+      975 goldenpath/rheMac3/database/gold_0.0.1.json
+  9767090 goldenpath/rn4/database/phastConsElements9way_0.0.1.RData
+ 97677312 AHEnsDbs/v101/EnsDb.Mauratus.v101.sqlite
+      976 goldenpath/panTro4/database/est_0.0.1.json
+      976 goldenpath/panTro4/database/gold_0.0.1.json
+      976 goldenpath/papAnu2/database/est_0.0.1.json
+      976 goldenpath/rn3/database/nscanGene_0.0.1.json
+      976 goldenpath/rn4/database/geneid_0.0.1.json
+      976 goldenpath/vicPac1/database/gold_0.0.1.json
+ 97718272 AHEnsDbs/v96/EnsDb.Dnovemcinctus.v96.sqlite
+ 97789757 haemcode/blood/BigWig/mm10/Stat1_GSM838685_6h_IFNb_WT_BMM.bw_0.0.1.RData
+      977 goldenpath/papHam1/database/gold_0.0.1.json
+      977 goldenpath/sorAra1/database/gold_0.0.1.json
+      977 goldenpath/speTri2/database/gap_0.0.1.json
+      977 goldenpath/strPur2/database/gap_0.0.1.json
+  9780601 goldenpath/papHam1/database/gold_0.0.1.RData
+ 97865020 goldenpath/triMan1/database/windowmaskerSdust_0.0.1.RData
+   978944 EuPathDB/TxDb/3.9/TxDb.Nosema.ceranae.PA08.1199.MicrosporidiaDB.v42.sqlite
+      978 goldenpath/rheMac2/database/est_0.0.1.json
+      978 goldenpath/saiBol1/database/gold_0.0.1.json
+      978 goldenpath/vicPac1/database/est_0.0.1.json
+ 97951744 AHEnsDbs/v101/EnsDb.Lcoronata.v101.sqlite
+ 97969443 haemcode/blood/BigWig/mm10/Fli1_GSM654874_Th2_T-Cells.bw
+      979 goldenpath/petMar2/database/gold_0.0.1.json
+      979 goldenpath/proCap1/database/gold_0.0.1.json
+    98018 goldenpath/priPac1/database/gap_0.0.1.RData
+      980 goldenpath/petMar1/database/gold_0.0.1.json
+      980 goldenpath/rn3/database/refGene_0.0.1.json
+      980 goldenpath/rn5/database/refGene_0.0.1.json
+      980 goldenpath/triMan1/database/gold_0.0.1.json
+      980 goldenpath/turTru2/database/gold_0.0.1.json
+      980 goldenpath/xenTro1/database/gold_0.0.1.json
+      980 goldenpath/xenTro2/database/gold_0.0.1.json
+      980 goldenpath/xenTro3/database/gold_0.0.1.json
+    98151 ensembl/release-101/fasta/otus_sunia/ncrna/Otus_sunia.OtuSun1.0.ncrna.2bit
+      981 goldenpath/papAnu2/database/mrna_0.0.1.json
+      981 goldenpath/pteVam1/database/gold_0.0.1.json
+      981 goldenpath/susScr2/database/rmsk_0.0.1.json
+      981 goldenpath/susScr3/database/rmsk_0.0.1.json
+ 98295808 AHEnsDbs/v105/EnsDb.Jjaculus.v105.sqlite
+      982 goldenpath/panTro3/database/mrna_0.0.1.json
+      982 goldenpath/panTro4/database/mrna_0.0.1.json
+      982 goldenpath/ponAbe2/database/est_0.0.1.json
+      982 goldenpath/rheMac2/database/ctgPos_0.0.1.json
+      982 goldenpath/rn3/database/ensGene_0.0.1.json
+      982 goldenpath/rn3/database/genscan_0.0.1.json
+      982 goldenpath/rn4/database/ensGene_0.0.1.json
+      982 goldenpath/sarHar1/database/gold_0.0.1.json
+ 98332672 AHEnsDbs/v105/EnsDb.Cparvulus.v105.sqlite
+      983 goldenpath/papAnu2/database/rmsk_0.0.1.json
+      983 goldenpath/priPac1/database/gold_0.0.1.json
+      983 goldenpath/rn4/database/affyU34A_0.0.1.json
+      984 goldenpath/panTro3/database/tRNAs_0.0.1.json
+      984 goldenpath/rn3/database/xenoMrna_0.0.1.json
+      985 goldenpath/papHam1/database/mrna_0.0.1.json
+      985 goldenpath/rheMac2/database/mrna_0.0.1.json
+      985 goldenpath/rheMac2/database/rmsk_0.0.1.json
+      985 goldenpath/rheMac3/database/rmsk_0.0.1.json
+      985 goldenpath/rn3/database/gnfAtlas2_0.0.1.json
+      985 goldenpath/rn4/database/stsMapRat_0.0.1.json
+      985 goldenpath/vicPac1/database/rmsk_0.0.1.json
+      986 goldenpath/panTro3/database/rmsk_0.0.1.json
+      986 goldenpath/panTro4/database/rmsk_0.0.1.json
+      986 goldenpath/papHam1/database/rmsk_0.0.1.json
+      986 goldenpath/rn3/database/ecoresFr1_0.0.1.json
+      986 goldenpath/sorAra1/database/rmsk_0.0.1.json
+      986 goldenpath/tetNig1/database/gold_0.0.1.json
+      986 goldenpath/tetNig2/database/gold_0.0.1.json
+      987 goldenpath/ponAbe2/database/mrna_0.0.1.json
+      987 goldenpath/rn3/database/cytoBand_0.0.1.json
+      987 goldenpath/taeGut1/database/tRNAs_0.0.1.json
+      987 goldenpath/xenTro2/database/pubs_0.0.1.json
+      987 goldenpath/xenTro3/database/tRNAs_0.0.1.json
+   988319 goldenpath/hg19/encodeDCC/wgEncodeAwgTfbsUniform/wgEncodeAwgTfbsBroadDnd41CtcfUniPk.narrowPeak_0.0.1.RData
+      988 goldenpath/petMar2/database/rmsk_0.0.1.json
+      988 goldenpath/proCap1/database/rmsk_0.0.1.json
+      988 goldenpath/susScr2/database/nscanGene_0.0.1.json
+      988 goldenpath/triMan1/database/mrna_0.0.1.json
+      988 goldenpath/tupBel1/database/rmsk_0.0.1.json
+ 98983932 haemcode/blood/BigWig/mm10/GSM730632_Runx1.bw_0.0.1.RData
+      989 goldenpath/rn3/database/affyRAE230_0.0.1.json
+      989 goldenpath/rn5/database/mgcFullMrna_0.0.1.json
+      989 goldenpath/sacCer1/database/est_0.0.1.json
+      989 goldenpath/sacCer2/database/est_0.0.1.json
+      989 goldenpath/triMan1/database/rmsk_0.0.1.json
+      989 goldenpath/turTru2/database/rmsk_0.0.1.json
+      990 goldenpath/pteVam1/database/mrna_0.0.1.json
+      990 goldenpath/taeGut1/database/rmsk_0.0.1.json
+      990 goldenpath/tetNig2/database/tRNAs_0.0.1.json
+      991 goldenpath/priPac1/database/tRNAs_0.0.1.json
+      991 goldenpath/sarHar1/database/rmsk_0.0.1.json
+      991 goldenpath/strPur1/database/gold_0.0.1.json
+      991 goldenpath/susScr3/database/refGene_0.0.1.json
+  9924275 haemcode/blood/BigWig/mm10/Gata1_ERA000161_Uninduced_Erythroid_MEL.bw_0.0.1.RData
+      992 goldenpath/priPac1/database/rmsk_0.0.1.json
+      992 goldenpath/rheMac2/database/geneid_0.0.1.json
+      992 goldenpath/rheMac2/database/nscanGene_0.0.1.json
+      992 goldenpath/rn4/database/contrastGene_0.0.1.json
+  9938701 haemcode/blood/BigWig/mm10/Gata3_GSM523231_NKT_T-Cells.bw
+      993 goldenpath/panTro3/database/nscanGene_0.0.1.json
+      993 goldenpath/papAnu2/database/refGene_0.0.1.json
+      993 goldenpath/ponAbe2/database/refGene_0.0.1.json
+      993 goldenpath/sacCer2/database/pubs_0.0.1.json
+      993 goldenpath/tetNig1/database/rmsk_0.0.1.json
+  9942228 gwascatData/gwascat-2021_03_30.Rda
+      994 goldenpath/sacCer1/database/mrna_0.0.1.json
+      994 goldenpath/sacCer2/database/mrna_0.0.1.json
+      994 goldenpath/susScr3/database/ensGene_0.0.1.json
+      994 goldenpath/taeGut1/database/est_0.0.1.json
+      995 goldenpath/rheMac2/database/refGene_0.0.1.json
+      995 goldenpath/rheMac3/database/refGene_0.0.1.json
+      995 goldenpath/xenTro1/database/blatFr1_0.0.1.json
+      996 goldenpath/panTro3/database/refGene_0.0.1.json
+      996 goldenpath/panTro4/database/refGene_0.0.1.json
+      996 goldenpath/papAnu2/database/genscan_0.0.1.json
+      996 goldenpath/ponAbe2/database/ensGene_0.0.1.json
+      996 goldenpath/ponAbe2/database/genscan_0.0.1.json
+      996 goldenpath/rn4/database/xenoRefGene_0.0.1.json
+      996 goldenpath/susScr2/database/xenoMrna_0.0.1.json
+      997 goldenpath/rn4/database/cpgIslandExt_0.0.1.json
+      997 goldenpath/rn5/database/cpgIslandExt_0.0.1.json
+      997 goldenpath/taeGut1/database/nscanGene_0.0.1.json
+      997 goldenpath/tetNig1/database/gaze_0.0.1.json
+      997 goldenpath/xenTro1/database/est_0.0.1.json
+      997 goldenpath/xenTro2/database/est_0.0.1.json
+      997 goldenpath/xenTro3/database/est_0.0.1.json
+      998 goldenpath/papAnu2/database/xenoMrna_0.0.1.json
+      998 goldenpath/priPac1/database/est_0.0.1.json
+      998 goldenpath/rheMac3/database/genscan_0.0.1.json
+      998 goldenpath/rn3/database/bacEndPairs_0.0.1.json
+      998 goldenpath/rn4/database/bacEndPairs_0.0.1.json
+      998 goldenpath/vicPac1/database/ensGene_0.0.1.json
+      998 goldenpath/vicPac1/database/genscan_0.0.1.json
+ 99978299 haemcode/blood/BigWig/mm10/V205G_GSM872894_MK-Progenitors.bw_0.0.1.RData
+      999 goldenpath/panTro4/database/ensGene_0.0.1.json
+      999 goldenpath/panTro4/database/genscan_0.0.1.json
+      999 goldenpath/papHam1/database/genscan_0.0.1.json
+      999 goldenpath/rn3/database/recombRateRat_0.0.1.json
+      999 goldenpath/sacCer1/database/sgdGene_0.0.1.json
+      999 goldenpath/sacCer2/database/sgdGene_0.0.1.json
+      999 goldenpath/sorAra1/database/ensGene_0.0.1.json
+      999 goldenpath/sorAra1/database/genscan_0.0.1.json
+      999 goldenpath/strPur2/database/rmsk_0.0.1.json
+      999 goldenpath/taeGut1/database/mrna_0.0.1.json
+      999 goldenpath/tetNig2/database/mrna_0.0.1.json
+      999 goldenpath/xenTro2/database/refGene_0.0.1.json
+      999 goldenpath/xenTro3/database/refGene_0.0.1.json
